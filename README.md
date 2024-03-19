@@ -1,8 +1,8 @@
 # WG-XGB_prediction  <br />
 AMR prediction in Mycobacterium tuberculosis using whole genome sequences <br />
 
-**install the code using git**
-``` git clone 
+**install the code using git** <br />
+``` git clone https://github.com/Ankitapal1995/WG-XGB_prediction.git``` <br />
 
 **script run using whole genome fasta sequence** <br />
 

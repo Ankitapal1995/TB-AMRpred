@@ -1,0 +1,55 @@
+2049772,ins,A,ACC,ACC:18 A:0
+2135870,snp,T,C,C:17 T:0
+2289252,snp,T,C,C:20 T:0
+2715344,snp,G,A,A:20 G:0
+2715369,snp,C,A,A:20 C:0
+3302980,snp,T,C,C:20 T:0
+3597879,snp,T,C,C:20 T:0
+3754508,snp,G,C,C:13 G:0,mobile_element,-,526/741,176/246,missense_variant c.526C>G p.Leu176Val,Rv3349c
+3895727,snp,C,A,A:21 C:0
+4216783,snp,A,C,C:20 A:0
+4243221,snp,C,T,T:20 C:0
+4327480,snp,A,G,G:20 A:0
+767670,snp,T,C,C:20 T:0
+p.Ala54Val,Rv1767,
+p.Asp354Ala,Rv3795,embB
+p.Asp435Phe,Rv0667,rpoB
+p.Asp435Tyr,Rv0667,rpoB
+p.Asp435Val,Rv0667,rpoB
+p.AspSer94AlaThr,Rv0006,gyrA
+p.Gln497Arg,Rv3795,embB
+p.Glu234Lys,Rv1392,metK
+p.Glu243Ala,Rv0469,umaA
+p.Gly196Asp,Rv2252,
+p.Gly406Ala,Rv3795,embB
+p.Gly406Asp,Rv3795,embB
+p.Gly775Ser,Rv3401,
+p.Gly78fs,Rv2333c,stp
+p.His445Arg,Rv0667,rpoB
+p.His445Asn,Rv0667,rpoB
+p.His445Asp,Rv0667,rpoB
+p.His445Leu,Rv0667,rpoB
+p.His445Tyr,Rv0667,rpoB
+p.Ile288Val,Rv3543c,fadE29
+p.Ile491Phe,Rv0667,rpoB
+p.Leu113Arg,Rv3423c,alr
+p.Leu430Pro,Rv0667,rpoB
+p.Leu43Pro,Rv1132,
+p.Leu44Arg,Rv2665,
+p.Leu452Pro,Rv0667,rpoB
+p.Lys374fs,Rv0272c,
+p.Met306Val,Rv3795,embB
+p.MetAsp434IleTyr,Rv0667,rpoB
+p.Phe433dup,Rv0667,rpoB
+p.Phe868Val,Rv1662,pks8
+p.Pro355fs,Rv2888c,amiC
+p.Pro38Leu,Rv3365c,
+p.Ser14Cys,Rv1946c,lppG
+p.Ser315Asn,Rv1908c,katG
+p.Ser441Leu,Rv0667,rpoB
+p.Ser450Leu,Rv0667,rpoB
+p.Ser450Phe,Rv0667,rpoB
+p.Ser450Trp,Rv0667,rpoB
+p.Val170Phe,Rv0667,rpoB
+p.Val483Ala,Rv0668,rpoC
+p.Val483Gly,Rv0668,rpoC

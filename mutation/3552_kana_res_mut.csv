@@ -1,0 +1,3557 @@
+100482,snp,T,C,C:20 T:0
+1010064,snp,T,C,C:20 T:0
+1010097,snp,C,G,G:20 C:0
+1016753,snp,A,G,G:20 A:0
+1026916,ins,C,CGG,CGG:18 C:0
+1026965,snp,T,G,G:12 T:0
+1026965,snp,T,G,G:20 T:0
+1029386,ins,G,GCGC,GCGC:20 G:0
+1029399,snp,A,G,G:20 A:0
+1034886,snp,G,C,C:20 G:0
+104767,snp,C,T,T:11 C:0,repeat_region,-,,,intergenic_region n.104767C>T 
+1056715,snp,C,T,T:20 C:0
+1056896,snp,C,G,G:20 C:0
+1061834,snp,C,T,T:20 C:0
+1076108,snp,A,G,G:20 A:0
+1093148,snp,C,T,T:20 C:0
+1093322,snp,C,T,T:17 C:0
+11065,snp,C,G,G:20 C:0
+1113760,snp,C,A,A:20 C:0
+11224,snp,T,G,G:20 T:0
+1127909,snp,G,T,T:20 G:0
+11303,snp,G,T,T:20 G:0
+1131569,snp,A,T,T:20 A:0
+11371,snp,C,A,A:20 C:0
+11372,snp,T,C,C:20 T:0
+11605,snp,C,T,T:20 C:0
+1163404,snp,C,G,G:20 C:0
+1163642,snp,A,C,C:20 A:0
+1164401,snp,C,T,T:19 C:0
+1164488,snp,C,T,T:20 C:0
+1170689,snp,A,G,G:14 A:0,mobile_element,+,,,intergenic_region n.1170689A>G 
+1170861,snp,C,T,T:16 C:0
+1176317,snp,A,G,G:20 A:0
+117701,snp,G,T,T:20 G:0
+1178726,snp,C,T,T:20 C:0
+1179069,snp,G,A,A:20 G:0
+1196161,snp,G,C,C:20 G:0
+1203183,snp,T,G,G:20 T:0
+1205269,snp,C,T,T:20 C:0
+1209662,snp,C,T,T:20 C:0
+1213958,snp,G,C,C:20 G:0
+1216296,snp,C,G,G:20 C:0
+1216365,ins,T,TGTGCATTCTGTCCATGGGAAAC,TGTGCATTCTGTCCATGGGAAAC:12 T:0
+1219227,snp,A,C,C:20 A:0
+1240021,snp,C,A,A:20 C:0
+1241556,snp,C,A,A:20 C:0
+1261682,snp,C,T,T:20 C:0
+1262197,snp,A,C,C:20 A:0
+1264980,del,TCGC,T,T:18 TCGC:0
+1267253,snp,G,A,A:11 G:0
+1272279,snp,G,A,A:20 G:0
+1282914,snp,T,C,C:20 T:0
+1302917,ins,G,GA,GA:19 G:0
+130551,complex,CTTCAAC,T,T:18 CTTCAAC:0
+1313423,snp,G,T,T:20 G:0
+1329323,del,GCAAGTC,G,G:18 GCAAGTC:0
+1338749,snp,T,G,G:20 T:0
+1357234,snp,C,T,T:20 C:0
+1357249,ins,A,AC,AC:18 A:0
+1357249,ins,A,AC,AC:19 A:0
+1357659,snp,C,G,G:20 C:0
+1359456,snp,T,G,G:20 T:0
+13638,snp,T,C,C:20 T:0
+1371567,snp,G,T,T:20 G:0
+1371628,snp,A,C,C:20 A:0
+1389302,del,GAGCCGAACGCCTCGTCGCTGTTTGATGTCTCCTCGAGCGTTCGGCTGAGCGAACTC,G,G:10 GAGCCGAACGCCTCGTCGCTGTTTGATGTCTCCTCGAGCGTTCGGCTGAGCGAACTC:0
+139937,ins,C,CT,CT:19 C:0
+1417606,snp,T,G,G:20 T:0
+1419912,snp,G,A,A:20 G:0
+1437160,snp,C,A,A:20 C:0
+1467683,snp,C,T,T:20 C:0
+1471653,snp,C,T,T:20 C:0,ncRNA,+,,,non_coding_transcript_variant  ,,mcr3,Putative small regulatory RNA
+1471754,snp,T,G,G:20 T:0
+1472337,snp,C,T,T:20 C:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+1472359,snp,A,C,C:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+1472359,snp,A,T,T:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+1472362,snp,C,T,T:20 C:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+1472723,snp,G,A,A:20 G:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+1472751,snp,A,G,G:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+1472920,ins,G,GT,GT:20 G:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+1473246,snp,A,G,G:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+1473329,snp,G,T,T:20 G:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+1473893,snp,T,C,C:20 T:0,rRNA,+,,,non_coding_transcript_variant  ,,rrl,Ribosomal RNA 23S
+1474294,snp,C,G,G:20 C:0,rRNA,+,,,non_coding_transcript_variant  ,,rrl,Ribosomal RNA 23S
+1475509,snp,C,A,A:20 C:0,rRNA,+,,,non_coding_transcript_variant  ,,rrl,Ribosomal RNA 23S
+1475954,snp,A,C,C:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrl,Ribosomal RNA 23S
+1476428,snp,C,T,T:20 C:0,rRNA,+,,,non_coding_transcript_variant  ,,rrl,Ribosomal RNA 23S
+1476711,snp,G,A,A:20 G:0,rRNA,+,,,non_coding_transcript_variant  ,,rrl,Ribosomal RNA 23S
+1480864,snp,C,T,T:15 C:0
+148481,snp,C,A,A:20 C:0
+1505909,snp,G,C,C:20 G:0
+1518758,snp,A,G,G:20 A:0
+1531076,snp,C,T,T:20 C:0
+157756,snp,G,A,A:20 G:0
+1582069,snp,G,A,A:20 G:0
+1589279,snp,G,A,A:20 G:0
+1593415,snp,C,T,T:20 C:0
+1618108,snp,G,T,T:20 G:0
+1622752,snp,C,G,G:20 C:0
+1625380,snp,C,G,G:20 C:0,repeat_region,-,,,intergenic_region n.1625380C>G 
+1634437,snp,G,T,T:12 G:0,repeat_region,-,191/3990,64/1329,missense_variant c.191C>A p.Ala64Glu
+1637187,del,GCCCCGCCGGTCCCGCCAA,G,G:12 GCCCCGCCGGTCCCGCCAA:0,repeat_region,-,1042/2226,342/741,disruptive_inframe_deletion c.1025_1042delTTGGCGGGACCGGCGGGG p.Val342_Gly347del
+1637197,snp,T,C,C:10 T:0,repeat_region,-,1033/2226,345/741,missense_variant c.1033A>G p.Thr345Ala
+1637197,snp,T,C,C:11 T:0,repeat_region,-,1033/2226,345/741,missense_variant c.1033A>G p.Thr345Ala
+1638364,snp,C,T,T:20 C:1,repeat_region,-,,,intergenic_region n.1638364C>T 
+1655547,snp,C,G,G:20 C:0
+1656917,snp,T,G,G:20 T:0
+1662632,snp,C,T,T:20 C:0
+1673406,snp,C,T,T:20 C:0
+168695,snp,C,G,G:20 C:0
+1693895,snp,C,T,T:20 C:0
+1697900,snp,A,G,G:20 A:0
+1701235,snp,T,C,C:20 T:0
+172185,snp,A,G,G:20 A:0
+1728758,snp,C,T,T:20 C:0
+1733047,snp,G,A,A:20 G:0
+1735530,snp,C,A,A:20 C:0
+174767,snp,C,T,T:20 C:0
+1757376,del,TC,T,T:18 TC:0
+1761628,snp,C,T,T:20 C:0
+176960,snp,C,A,A:20 C:0
+177057,del,CTTCGCGG,C,C:18 CTTCGCGG:0
+1775306,del,CCATG,C,C:19 CCATG:0
+1784434,snp,C,T,T:20 C:0
+1793908,snp,G,A,A:20 G:0
+1806121,snp,C,T,T:20 C:0
+1807869,snp,C,T,T:20 C:0
+180977,snp,A,C,C:20 A:0
+1833540,snp,A,G,G:20 A:0
+1836366,snp,A,C,C:20 A:0
+1846706,snp,G,A,A:20 G:0
+1849,snp,C,A,A:16 C:0
+1849,snp,C,A,A:17 C:0
+1855540,snp,C,T,T:20 C:0
+1855561,ins,C,CG,CG:18 C:0
+1855561,ins,C,CG,CG:19 C:0
+1915051,snp,A,G,G:20 A:0,ncRNA,-,,,non_coding_transcript_variant  ,,G2,Putative small regulatory RNA
+1928573,snp,C,T,T:20 C:0,repeat_region,+,3/1365,1/454,initiator_codon_variant c.3G>A p.Met1?
+1934026,snp,C,A,A:20 C:0
+1934828,snp,C,G,G:20 C:0
+1951845,snp,A,G,G:20 A:0
+1952291,snp,T,G,G:20 T:0,ncRNA,-,440/1386,147/461,missense_variant c.440T>G p.Val147Gly,,AS1726,Putative small regulatory RNA
+1952501,snp,T,C,C:20 T:0,ncRNA,-,650/1386,217/461,missense_variant c.650T>C p.Val217Ala,,AS1726,Putative small regulatory RNA
+1955642,snp,T,G,G:20 T:0
+1960582,snp,G,C,C:20 G:0
+1965460,snp,G,C,C:20 G:0
+1965624,snp,A,C,C:20 A:0
+1965643,snp,A,T,T:20 A:0
+196819,snp,G,A,A:20 G:0
+1970941,snp,G,C,C:20 G:0
+1972091,snp,C,T,T:20 C:0
+1981025,snp,A,C,C:20 A:0
+2007813,snp,A,G,G:20 A:0
+2012648,snp,G,C,C:20 G:0
+2014677,snp,T,G,G:20 T:0
+2025070,snp,C,T,T:20 C:0
+2029774,snp,A,G,G:20 A:0
+2030342,complex,GCAA,CAG,CAG:16 GCAA:0
+2030342,complex,GCAA,CAG,CAG:17 GCAA:0
+2038849,snp,G,A,A:20 G:0
+2038913,snp,T,G,G:20 T:0
+2041559,del,GC,G,G:20 GC:0
+2049663,snp,T,G,G:20 T:0
+2057486,snp,G,A,A:20 G:0
+2059529,snp,C,T,T:20 C:0,repeat_region,+,,,intergenic_region n.2059529C>T 
+2061142,snp,G,A,A:20 G:0
+2074458,snp,G,A,A:10 G:0
+2074458,snp,G,A,A:11 G:0
+2074794,snp,A,G,G:20 A:0
+2075569,snp,G,C,C:20 G:0
+2078793,del,GT,G,G:20 GT:0
+2092230,del,TCG,T,T:19 TCG:0
+2104140,snp,A,G,G:20 A:0
+2104945,snp,A,G,G:20 A:0
+212275,snp,C,A,A:20 C:0
+2124911,snp,T,C,C:20 T:0
+2124965,snp,T,G,G:20 T:0
+2138262,snp,G,A,A:20 G:0
+2139739,snp,A,G,G:20 A:0
+2142430,snp,C,T,T:20 C:0
+2144929,snp,A,G,G:20 A:0
+2147658,snp,G,A,A:20 G:0
+2156138,snp,T,C,C:20 T:0
+2156618,snp,G,C,C:20 G:0
+2160461,snp,C,T,T:20 C:0
+2162796,snp,G,A,A:20 G:0
+2167474,snp,C,G,G:20 C:0
+2167590,snp,T,C,C:20 T:0
+2167639,snp,T,G,G:20 T:0
+2170983,snp,C,T,T:20 C:0
+2171614,snp,C,G,G:20 C:0
+2187303,snp,C,T,T:20 C:0
+219383,snp,C,T,T:20 C:0
+2204732,del,GTT,G,G:19 GTT:0
+2205572,snp,G,A,A:20 G:0
+2207253,snp,A,C,C:20 A:0
+2207287,snp,A,G,G:20 A:0
+2207526,snp,A,G,G:20 A:0
+2219612,snp,A,G,G:16 A:0
+2223233,snp,C,G,G:20 C:0
+2230944,snp,C,A,A:20 C:0
+2232577,snp,C,G,G:20 C:0
+2232654,snp,T,C,C:20 T:0
+2238918,snp,T,C,C:20 T:0
+2242886,snp,C,T,T:20 C:0
+2248557,complex,TGGTG,A,A:18 TGGTG:0
+2256554,snp,G,A,A:20 G:0
+2260339,snp,G,T,T:20 G:0
+2261695,snp,G,A,A:20 G:0
+2265059,snp,T,G,G:40 T:0
+226756,snp,G,C,C:20 G:0
+2271770,snp,A,G,G:20 A:0
+2291950,snp,G,A,A:20 G:0
+2307028,snp,A,C,C:20 A:0
+230789,del,TG,T,T:19 TG:0
+2320754,ins,C,CA,CA:19 C:0
+2332906,snp,G,C,C:20 G:0
+2343954,snp,C,T,T:20 C:0,mobile_element,+,,,intergenic_region n.2343954C>T 
+2365103,snp,A,C,C:20 A:0
+23788,snp,C,T,T:20 C:0
+2388260,snp,T,C,C:20 T:0
+2398586,snp,A,G,G:20 A:0
+2401825,snp,T,C,C:20 T:0
+2401848,snp,C,A,A:20 C:0
+2402123,snp,T,G,G:20 T:0
+241376,del,TGGAC,T,T:18 TGGAC:0
+2423180,del,TG,T,T:20 TG:0
+2424862,del,AC,A,A:19 AC:0
+2430094,del,CAGCCGGTGACGACCCGGCTGGG,C,C:12 CAGCCGGTGACGACCCGGCTGGG:0
+2431471,ins,A,AGACAGCCGGTGACGACCCGGCT,AGACAGCCGGTGACGACCCGGCT:10 A:0,repeat_region,-,,,intergenic_region n.2431471_2431472insGACAGCCGGTGACGACCCGGCT 
+2432178,complex,GTC,TTT,TTT:19 GTC:0
+2432185,snp,A,G,G:20 A:0
+2434719,snp,A,C,C:20 A:0
+2440321,snp,T,G,G:20 T:0
+2447055,snp,A,C,C:20 A:0
+2453383,snp,A,G,G:20 A:0
+2453657,del,GCC,G,G:20 GCC:0
+2453673,del,CTGT,C,C:17 CTGT:0
+2453681,complex,CCGC,GTGG,GTGG:17 CCGC:0
+2471383,snp,G,A,A:20 G:0
+2500730,snp,T,G,G:20 T:0,misc_RNA,-,,,intergenic_region n.2500730T>G ,,rnpB,Ribonuclease P RNA
+2522244,del,AGCGGT,A,A:19 AGCGGT:0
+2529300,snp,G,T,T:20 G:0
+2529318,snp,C,A,A:20 C:0
+2532176,snp,C,G,G:11 C:0,repeat_region,-,,,intergenic_region n.2532176C>G 
+2533980,snp,G,A,A:20 G:0
+2538642,snp,C,G,G:20 C:0
+2538655,snp,C,T,T:20 C:0
+2562585,snp,T,C,C:20 T:0
+2569020,snp,T,G,G:20 T:0
+2572063,snp,G,C,C:20 G:0
+2573793,snp,A,C,C:20 A:0
+25806,snp,C,T,T:20 C:0
+2582761,snp,T,G,G:20 T:0
+2583011,snp,T,G,G:20 T:0
+25890,snp,T,C,C:20 T:0
+2603687,snp,C,T,T:20 C:0
+2610702,snp,T,C,C:15 T:0
+2614372,snp,C,T,T:20 C:0
+2619515,snp,G,A,A:20 G:0
+2630333,del,TG,T,T:19 TG:0
+2632175,snp,G,T,T:20 G:0
+2632290,snp,G,T,T:20 G:0
+2641233,snp,T,C,C:20 T:0
+2651672,snp,T,C,C:20 T:0
+2651984,snp,C,G,G:20 C:0
+2651997,snp,T,G,G:20 T:0
+2667189,snp,T,G,G:20 T:0
+2684444,snp,A,C,C:20 A:0
+2715346,snp,G,A,A:20 G:0
+2720698,snp,G,A,A:15 G:0
+2740436,snp,T,G,G:20 T:0
+2745142,snp,G,C,C:20 G:0
+2745176,snp,T,C,C:20 T:0
+27495,del,CG,C,C:19 CG:0
+2751594,snp,T,C,C:20 T:0
+2792510,snp,C,A,A:20 C:0
+2794053,snp,G,T,T:20 G:0
+2800715,snp,T,C,C:20 T:0,repeat_region,+,166/3414,56/1137,missense_variant c.166A>G p.Thr56Ala
+2801175,snp,G,A,A:20 G:0
+2819918,snp,A,G,G:20 A:0
+2829918,complex,T,CG,CG:15 T:0,mobile_element,-,,,intergenic_region n.2829918delTinsCG 
+2830738,snp,G,A,A:20 G:0
+2832701,snp,C,T,T:20 C:0
+2835576,snp,G,A,A:20 G:0
+2849472,del,TC,T,T:19 TC:0
+2850945,snp,C,T,T:20 C:0
+2864903,snp,G,A,A:20 G:0
+287098,snp,C,T,T:20 C:0
+2881740,snp,G,T,T:20 G:0
+2882257,snp,A,G,G:20 A:0,ncRNA,+,,,non_coding_transcript_variant  ,,mpr12,Fragment of putative small regulatory RNA
+2894482,snp,A,C,C:20 A:0
+29210,del,GC,G,G:20 GC:0
+2945838,snp,G,A,A:20 G:0
+2948592,snp,A,G,G:20 A:0
+2952536,snp,T,C,C:20 T:0
+295716,del,GTCAAAATATA,G,G:18 GTCAAAATATA:0
+295731,snp,T,C,C:18 T:0
+295731,snp,T,C,C:19 T:0
+2960049,snp,C,T,T:20 C:0
+2976558,ins,A,AC,AC:19 A:0
+2996085,snp,G,A,A:20 G:0,repeat_region,+,,,intergenic_region n.2996085G>A 
+3007145,snp,T,G,G:20 T:0,repeat_region,-,,,intergenic_region n.3007145T>G 
+3011834,snp,C,T,T:20 C:0
+3015054,del,GC,G,G:18 GC:0
+3019426,snp,G,C,C:20 G:0
+3022426,snp,A,C,C:20 A:0
+3023479,ins,A,AGCGGCGGGCATACCGCTGCGGTGGG,AGCGGCGGGCATACCGCTGCGGTGGG:10 A:0
+3025397,snp,G,A,A:20 G:0
+302858,snp,C,G,G:20 C:0
+3039805,del,GC,G,G:20 GC:0
+3053737,snp,C,T,T:20 C:0
+3053750,snp,C,T,T:20 C:0
+3068024,snp,T,G,G:20 T:0
+3068031,snp,T,G,G:20 T:0
+3076829,snp,G,A,A:20 G:0
+3079190,snp,C,A,A:20 C:0
+3092943,snp,A,C,C:20 A:0
+309571,snp,T,G,G:20 T:0
+3112455,snp,T,G,G:20 T:0
+3115393,snp,T,C,C:20 T:0
+3119408,snp,T,C,C:20 T:0,repeat_region,-,,,intergenic_region n.3119408T>C 
+3119513,snp,C,T,T:13 C:0,repeat_region,-,,,intergenic_region n.3119513C>T 
+3119596,snp,T,A,A:20 T:0,repeat_region,-,,,intergenic_region n.3119596T>A 
+3119626,del,GGTTTCCGTCCCCTCTCGGGGTTTTGGGTCTGACGACAGGGCACTGGACCTGTATGAGGCACAGATGGCGTACTA,G,G:11 GGTTTCCGTCCCCTCTCGGGGTTTTGGGTCTGACGACAGGGCACTGGACCTGTATGAGGCACAGATGGCGTACTA:0,repeat_region,-,,,intergenic_region n.3119627_3119700delGTTTCCGTCCCCTCTCGGGGTTTTGGGTCTGACGACAGGGCACTGGACCTGTATGAGGCACAGATGGCGTACTA 
+3119720,snp,G,C,C:20 G:0,repeat_region,-,,,intergenic_region n.3119720G>C 
+3122894,del,TC,T,T:14 TC:0,repeat_region,-,,,intergenic_region n.3122895delC 
+3138040,snp,G,C,C:20 G:0
+3155937,snp,A,C,C:20 A:0,repeat_region,-,,,intergenic_region n.3155937A>C 
+3183826,snp,C,T,T:20 C:0
+3184674,snp,A,C,C:20 A:0
+3184826,snp,C,G,G:20 C:0
+3226332,snp,T,C,C:20 T:0
+3232815,snp,A,G,G:10 A:0
+3239789,complex,CGGCAAAGCCGGC,GGAGGT,GGAGGT:11 CGGCAAAGCCGGC:0
+3276305,snp,G,T,T:20 G:0
+3282719,snp,C,G,G:20 C:0
+3287851,del,AT,A,A:20 AT:0
+3290580,del,CGTT,C,C:20 CGTT:0
+3302953,snp,C,G,G:20 C:0
+3308573,snp,G,A,A:20 G:0
+3318056,snp,G,C,C:20 G:0
+3318258,snp,C,A,A:20 C:0
+33202,del,TG,T,T:18 TG:0
+3336528,snp,T,A,A:12 T:0
+3336546,snp,T,G,G:10 T:0
+3336587,snp,T,A,A:18 T:0
+3336620,del,TA,T,T:11 TA:0
+3336620,del,TA,T,T:12 TA:0
+3336620,del,TA,T,T:13 TA:1
+3336620,del,TA,T,T:15 TA:0
+3336620,del,TA,T,T:15 TA:1
+3336620,del,TA,T,T:16 TA:1
+3336679,del,TA,T,T:13 TA:0
+3336679,del,TA,T,T:14 TA:0
+3351186,snp,G,A,A:20 G:0
+3359375,snp,A,C,C:20 A:0
+3364677,snp,G,A,A:20 G:0
+3369904,snp,T,C,C:20 T:0
+3378419,snp,G,C,C:19 G:0
+3378419,snp,G,C,C:20 G:0
+3381190,snp,G,A,A:20 G:0
+3382737,complex,T,CG,CG:16 T:0
+3382748,snp,C,G,G:16 C:0
+3389083,snp,G,A,A:20 G:0
+339230,snp,G,C,C:16 G:0
+3392809,snp,G,A,A:20 G:0
+33994,snp,G,C,C:20 G:0
+3407690,snp,C,T,T:20 C:0
+3411154,snp,A,G,G:20 A:0
+3414230,snp,G,A,A:20 G:0
+3429708,snp,G,A,A:20 G:0
+3430358,ins,C,CATGTACAAATGTACAA,CATGTACAAATGTACAA:14 C:1
+3457477,snp,A,C,C:20 A:0
+3457732,snp,C,T,T:20 C:0
+3458089,snp,A,C,C:20 A:0
+3458109,snp,T,G,G:20 T:0
+3487716,snp,G,T,T:20 G:0
+3487731,snp,A,C,C:20 A:0
+3505300,snp,C,T,T:20 C:0
+3511368,snp,G,T,T:20 G:0
+3519230,snp,A,G,G:20 A:0
+3545401,snp,T,C,C:20 T:0
+3547041,snp,C,T,T:20 C:0
+3547142,snp,T,G,G:20 T:0
+3556805,snp,G,A,A:20 G:0
+3559169,snp,C,T,T:20 C:0
+3571217,snp,C,T,T:20 C:0
+3572548,snp,G,C,C:20 G:0
+3580606,snp,C,T,T:20 C:0
+3580634,complex,CACT,TAC,TAC:18 CACT:0
+3580634,complex,CACT,TAC,TAC:20 CACT:0
+3584779,snp,A,C,C:20 A:0
+3594400,snp,A,G,G:20 A:0
+3595483,ins,A,ACTGGCAGCGTAGT,ACTGGCAGCGTAGT:14 A:0
+3597773,snp,C,T,T:20 C:0
+3597870,snp,C,T,T:20 C:0
+3599651,snp,G,A,A:20 G:0
+3603351,snp,A,C,C:20 A:0
+3611286,del,GC,G,G:18 GC:0
+3640240,snp,A,G,G:20 A:0
+3640415,snp,T,C,C:20 T:0
+3643094,snp,T,A,A:20 T:0
+3644849,snp,T,G,G:20 T:0
+364498,del,TG,T,T:18 TG:0
+364514,snp,T,C,C:20 T:0
+3650189,snp,A,G,G:20 A:0
+3666266,snp,A,C,C:20 A:0
+3687650,snp,G,C,C:20 G:0
+3690947,snp,A,G,G:10 A:0
+3742944,snp,G,C,C:20 G:0
+3743250,snp,G,C,C:20 G:0,repeat_region,+,206/258,69/85,missense_variant c.206C>G p.Ala69Gly
+3754508,snp,G,C,C:13 G:0,mobile_element,-,526/741,176/246,missense_variant c.526C>G p.Leu176Val,Rv3349c
+3767309,snp,C,T,T:20 C:0
+3770768,snp,G,T,T:20 G:0
+3772612,snp,C,T,T:20 C:0
+3794879,snp,G,T,T:14 G:0
+3798732,snp,G,C,C:20 G:0
+3798739,snp,A,C,C:20 A:0
+3820486,snp,G,A,A:19 G:0
+3820502,complex,CAGCCTG,GGCTT,GGCTT:14 CAGCCTG:0
+3820502,complex,CAGCCTG,GGCTT,GGCTT:17 CAGCCTG:0
+3822042,ins,A,AC,AC:19 A:0
+3823865,snp,A,G,G:20 A:0
+3828776,snp,G,A,A:20 G:0
+3831558,snp,C,G,G:20 C:0
+3831621,snp,G,C,C:20 G:0
+3834657,snp,C,T,T:20 C:0
+383560,snp,C,T,T:20 C:0
+3841433,snp,C,G,G:20 C:0
+3841473,snp,C,T,T:21 C:0
+3841652,complex,TGT,AGG,AGG:19 TGT:0
+3841662,complex,TC,CT,CT:23 TC:0
+3841662,snp,T,C,C:11 T:0
+3843816,snp,G,C,C:20 G:0
+384504,snp,C,A,A:20 C:0
+3846791,snp,A,G,G:10 A:0
+3849276,del,CCACTCG,C,C:19 CCACTCG:0
+385158,snp,G,A,A:20 G:0
+3874367,snp,G,A,A:20 G:0
+3876830,snp,G,A,A:20 G:0
+3876832,snp,C,A,A:20 C:0
+3883467,snp,A,G,G:13 A:0
+3888807,snp,G,C,C:20 G:0
+3893877,snp,G,A,A:20 G:0
+3902910,snp,G,C,C:20 G:0
+39030,snp,C,T,T:10 C:0
+3907221,snp,A,G,G:20 A:0
+3909820,complex,CCCTGGA,AGCGGG,AGCGGG:18 CCCTGGA:0
+3930958,snp,C,T,T:20 C:0
+3945519,snp,C,T,T:10 C:0,repeat_region,-,230/657,77/218,missense_variant c.230G>A p.Gly77Asp,Rv3513c,fadD18
+3950458,snp,C,G,G:20 C:0
+3956308,snp,C,A,A:20 C:0
+3959522,snp,A,G,G:20 A:0
+396120,del,CA,C,C:19 CA:0
+396150,snp,G,T,T:20 G:0
+3965554,snp,G,A,A:20 G:0
+3995704,complex,ACA,CG,CG:19 ACA:0
+400145,complex,GTAGCGA,CAGCGGC,CAGCGGC:14 GTAGCGA:0
+4012351,snp,G,T,T:20 G:0
+4041408,del,CACA,C,C:19 CACA:0
+4056430,snp,T,C,C:20 T:0
+4056480,del,GT,G,G:19 GT:0
+4081489,snp,C,G,G:20 C:0
+4081500,snp,A,C,C:20 A:0
+4081513,snp,T,G,G:20 T:0
+4088197,snp,C,G,G:20 C:0
+4088546,complex,TTTT,GTTTC,GTTTC:20 TTTT:0
+4092976,snp,G,A,A:20 G:0
+4093094,snp,A,C,C:20 A:0
+4094541,snp,C,G,G:16 C:0
+4094541,snp,C,G,G:18 C:0
+4094569,snp,G,C,C:20 G:0
+4094574,snp,T,G,G:20 T:0
+4099456,snp,A,G,G:20 A:0,ncRNA,-,,,non_coding_transcript_variant  ,,B11,Putative small regulatory RNA
+4107120,snp,T,C,C:20 T:0
+4107595,snp,G,A,A:20 G:0
+4120983,snp,A,G,G:15 A:0
+4120983,snp,A,G,G:16 A:0
+4121112,snp,C,A,A:12 C:0
+4121620,snp,G,A,A:20 G:0
+4121642,snp,G,A,A:20 G:0
+4121674,snp,T,G,G:20 T:0
+4126514,del,GGT,G,G:19 GGT:0
+4138152,snp,C,G,G:20 C:0
+4138156,snp,G,A,A:20 G:0
+4148295,snp,G,A,A:20 G:0
+4162280,snp,G,A,A:20 G:0
+4162297,snp,C,T,T:20 C:0
+4168283,snp,C,T,T:20 C:0
+4168470,complex,CGCGGACGGGAAC,A,A:16 CGCGGACGGGAAC:0
+4171244,snp,G,T,T:20 G:0
+4190584,del,AC,A,A:20 AC:0
+4193344,snp,G,T,T:20 G:0
+4198621,snp,A,C,C:20 A:0
+4211943,snp,A,C,C:20 A:0
+4212026,snp,G,A,A:13 G:0
+4212160,snp,G,A,A:20 G:0
+4215033,snp,G,C,C:20 G:0
+4224961,snp,C,A,A:20 C:0
+4234760,snp,G,C,C:20 G:0
+4243218,snp,C,G,G:20 C:0
+4243221,complex,CC,AA,AA:19 CC:0
+4266668,snp,C,T,T:20 C:0
+4268906,snp,G,T,T:20 G:0
+4291571,snp,T,C,C:20 T:0
+4306837,snp,G,T,T:20 G:0
+4314094,snp,A,G,G:20 A:0
+4317395,snp,G,C,C:20 G:0
+4317668,snp,T,G,G:20 T:0
+4320444,snp,G,A,A:20 G:0
+4320458,snp,G,A,A:20 G:0
+4321346,del,CG,C,C:19 CG:0
+4321528,snp,G,A,A:20 G:0
+4336527,snp,G,A,A:20 G:0
+4336577,snp,C,A,A:20 C:0
+4338533,snp,A,G,G:20 A:0
+4338563,snp,C,A,A:20 C:0
+4338596,complex,CTCTA,TCTG,TCTG:19 CTCTA:0
+43388,snp,C,T,T:20 C:0
+4351065,snp,A,C,C:20 A:0
+4376041,snp,G,A,A:20 G:0
+4384123,snp,G,A,A:20 G:0
+4391084,snp,A,C,C:20 A:0
+4403124,del,TCTGCGACAATACCGGTTGG,T,T:17 TCTGCGACAATACCGGTTGG:0
+4408899,snp,G,A,A:20 G:0
+4411093,snp,G,A,A:20 G:0
+467430,snp,C,T,T:20 C:0
+472682,snp,C,T,T:20 C:0
+476307,snp,T,G,G:20 T:0
+503407,snp,C,T,T:20 C:0
+510291,snp,T,C,C:20 T:0
+52739,snp,C,A,A:20 C:0
+532278,snp,T,G,G:20 T:0
+53431,snp,G,C,C:20 G:0
+542030,snp,A,G,G:20 A:0
+542980,snp,A,C,C:20 A:0
+545373,snp,A,G,G:20 A:0
+557311,snp,T,G,G:20 T:0
+557336,snp,G,T,T:20 G:0
+563462,snp,A,G,G:20 A:0
+563522,snp,G,A,A:20 G:0
+577462,snp,C,T,T:20 C:0
+58573,snp,G,A,A:20 G:0
+591473,snp,T,G,G:20 T:0
+612921,snp,C,T,T:20 C:0
+637511,snp,T,C,C:20 T:0
+640030,snp,C,T,T:20 C:0
+640185,snp,T,G,G:20 T:0
+658238,snp,C,G,G:20 C:0
+659341,snp,T,C,C:13 T:0
+664929,snp,C,A,A:20 C:0
+675923,snp,C,T,T:20 C:0
+696957,snp,A,G,G:20 A:0
+697050,snp,C,A,A:20 C:0
+714158,del,GT,G,G:18 GT:0
+715334,snp,A,C,C:20 A:0
+718017,snp,T,G,G:20 T:0
+718747,ins,T,TA,TA:19 T:0
+718751,snp,C,T,T:20 C:0
+739262,snp,C,T,T:20 C:0
+759615,snp,A,C,C:20 A:0
+759620,snp,A,C,C:20 A:0
+789561,snp,A,T,T:20 A:0
+794598,snp,T,G,G:20 T:0
+800233,snp,G,A,A:20 G:0
+80351,snp,A,G,G:20 A:0,repeat_region,+,,,intergenic_region n.80351A>G 
+80473,complex,GAA,TAG,TAG:20 GAA:0,repeat_region,+,,,intergenic_region n.80473_80475delGAAinsTAG 
+810950,snp,G,T,T:20 G:0
+812915,snp,G,C,C:20 G:0,repeat_region,+,,,intergenic_region n.812915G>C 
+819744,snp,T,G,G:20 T:0
+824650,snp,T,G,G:20 T:0
+833513,del,CAACGGCGGT,C,C:16 CAACGGCGGT:0
+850225,snp,C,G,G:20 C:0
+860903,snp,G,A,A:20 G:0
+87173,snp,A,G,G:20 A:0
+879326,del,CG,C,C:18 CG:0
+888992,del,AACCTCAACACCCCCTCAAGTGAAGGAGG,A,A:10 AACCTCAACACCCCCTCAAGTGAAGGAGG:0
+895761,snp,G,T,T:20 G:0
+895789,snp,T,C,C:20 T:0
+898787,snp,T,C,C:20 T:0
+901588,snp,C,T,T:20 C:0
+909432,snp,C,G,G:12 C:0
+923985,snp,A,C,C:20 A:0
+924490,snp,T,G,G:20 T:0
+930573,snp,C,T,T:20 C:0
+934480,snp,A,G,G:20 A:0
+944779,snp,A,C,C:20 A:0
+960324,del,CG,C,C:13 CG:0,repeat_region,-,,,intergenic_region n.960325delG 
+965813,snp,A,G,G:20 A:0
+986101,snp,G,A,A:20 G:0
+986994,snp,G,A,A:20 G:0
+993493,snp,A,C,C:20 A:0
+996437,ins,C,CA,CA:20 C:0
+p.Ala101Val,Rv0511,hemD
+p.Ala101Val,Rv3789,
+p.Ala103Pro,Rv1446c,opcA
+p.Ala1045Gly,Rv2524c,fas
+p.Ala104Gly,Rv0131c,fadE1
+p.Ala104_Leu111del,Rv0192A,
+p.Ala104Thr,Rv0538,
+p.Ala104Thr,Rv3736,
+p.Ala105Thr,Rv1306,atpF
+p.Ala105Val,Rv3442c,rpsI
+p.Ala107Thr,Rv0008c,
+p.Ala107Val,Rv2004c,
+p.Ala1082Pro,Rv0386,
+p.Ala1086fs,Rv0648,
+p.Ala109Val,Rv0628c,
+p.Ala10Gly,Rv3752c,
+p.Ala111Glu,Rv0353,hspR
+p.Ala111Ser,Rv2013,
+p.Ala114Gly,Rv0317c,glpQ2
+p.Ala114Thr,Rv1889c,
+p.Ala114Thr,Rv2014,
+p.Ala115Gly,Rv1647,
+p.Ala116Pro,Rv2998,
+p.Ala118Thr,Rv2970c,lipN
+p.Ala119Thr,Rv1428c,
+p.Ala11Thr,Rv1479,moxR1
+p.Ala1207Pro,Rv2946c,pks1
+p.Ala1208Thr,Rv2940c,mas
+p.Ala120Glu,Rv1944c,
+p.Ala120Thr,Rv0268c,
+p.Ala121Asp,Rv3046c,
+p.Ala121Val,Rv2558,
+p.Ala122Ser,Rv0153c,ptbB
+p.Ala122Val,Rv3743c,ctpJ
+p.Ala1248Thr,Rv2934,ppsD
+p.Ala124_Gly126del,Rv3716c,
+p.Ala124Val,Rv1879,
+p.Ala125Ser,Rv3071,
+p.Ala125Val,Rv1748,
+p.Ala127Val,Rv3698,
+p.Ala128Val,Rv3410c,guaB3
+p.Ala129fs,Rv3397c,phyA
+p.Ala129Thr,Rv0010c,
+p.Ala129Val,Rv1907c,
+p.Ala12Glu,Rv0478,deoC
+p.Ala12Gly,Rv2812,
+p.Ala12Thr,Rv3337,
+p.Ala12Val,Rv0425c,ctpH
+p.Ala12Val,Rv1593c,
+p.Ala130Thr,Rv3408,vapC47
+p.Ala132fs,Rv3901c,
+p.Ala1344Ser,Rv0101,nrp
+p.Ala134Gly,Rv2043c,pncA
+p.Ala134Val,Rv2043c,pncA
+p.Ala135Glu,Rv0392c,ndhA
+p.Ala135Ser,Rv0404,fadD30
+p.Ala136Ser,Rv0869c,moaA2
+p.Ala137Pro,Rv2587c,secD
+p.Ala137Val,Rv1060,
+p.Ala138Glu,Rv3919c,gid
+p.Ala138Thr,Rv2213,pepB
+p.Ala140Val,Rv0686,
+p.Ala140Val,Rv1358,
+p.Ala140Val,Rv2403c,lppR
+p.Ala141_Lys144del,Rv0706,rplV
+p.Ala141Val,Rv3770c,
+p.Ala142Val,Rv2502c,accD1
+p.Ala143Thr,Rv0037c,
+p.Ala143Val,Rv2043c,pncA
+p.Ala144Gly,Rv3825c,pks2
+p.Ala144Thr,Rv1480,
+p.Ala145Val,Rv2403c,lppR
+p.Ala148Thr,Rv3688c,
+p.Ala14Gly,Rv0417,thiG
+p.Ala14Gly,Rv2056c,rpsN2
+p.Ala14Pro,Rv0120c,fusA2
+p.Ala14Val,Rv1909c,furA
+p.Ala151Gly,Rv3897c,
+p.Ala151Val,Rv3082c,virS
+p.Ala1521Thr,Rv1527c,pks5
+p.Ala153Glu,Rv2862c,
+p.Ala153Val,Rv2886c,
+p.Ala154Thr,Rv1167c,
+p.Ala155dup,Rv0267,narU
+p.Ala155Thr,Rv2643,arsC
+p.Ala155Val,Rv2065,cobH
+p.Ala157Pro,Rv2671,ribD
+p.Ala157Ser,Rv0370c,
+p.Ala157Val,Rv1438,tpi
+p.Ala158Gly,Rv1378c,
+p.Ala158Thr,Rv3870,eccCa1
+p.Ala15Thr,Rv2332,mez
+p.Ala15Val,Rv0545c,pitA
+p.Ala162Pro,Rv1569,bioF1
+p.Ala166Thr,Rv2601,speE
+p.Ala168Val,Rv0264c,
+p.Ala16Pro,Rv3627c,
+p.Ala16Val,Rv3518c,cyp142
+p.Ala170Asp,Rv2491,
+p.Ala174Glu,Rv0706,rplV
+p.Ala175Gly,Rv3728,
+p.Ala175Thr,Rv1071c,echA9
+p.Ala175Thr,Rv1349,irtB
+p.Ala176Val,Rv2116,lppK
+p.Ala178Thr,Rv0513,
+p.Ala179Pro,Rv1610,
+p.Ala179Thr,Rv2402,
+p.Ala179Val,Rv0505c,serB1
+p.Ala17Asp,Rv1412,ribC
+p.Ala181Thr,Rv0421c,
+p.Ala182Val,Rv0341,iniB
+p.Ala183Pro,Rv0216,
+p.Ala183Val,Rv2780,ald
+p.Ala184Gly,Rv3535c,hsaG
+p.Ala185fs,Rv0213c,
+p.Ala185Glu,Rv0819,mshD
+p.Ala185Thr,Rv3883c,mycP1
+p.Ala187Asp,Rv2191,
+p.Ala188Thr,Rv0207c,
+p.Ala188Thr,Rv3152,nuoH
+p.Ala189Pro,Rv0070c,glyA2
+p.Ala18Glu,Rv1882c,
+p.Ala18Val,Rv1206,fadD6
+p.Ala18Val,Rv3656c,
+p.Ala1926Val,Rv1661,pks7
+p.Ala192Thr,Rv3062,ligB
+p.Ala1940Ser,Rv1527c,pks5
+p.Ala194Thr,Rv1244,lpqZ
+p.Ala1953Ser,Rv1661,pks7
+p.Ala196Thr,Rv1250,
+p.Ala196Val,Rv1933c,fadE18
+p.Ala199fs,Rv1194c,
+p.Ala19Ser,Rv0277A,vapB25
+p.Ala19Thr,Rv1825,
+p.Ala19Val,Rv2042c,
+p.Ala19Val,Rv3019c,esxR
+p.Ala200Gly,Rv3285,accA3
+p.Ala203Val,Rv0986,
+p.Ala204Glu,Rv2695,
+p.Ala205Glu,Rv1513,
+p.Ala205Thr,Rv0493c,
+p.Ala206Pro,Rv2552c,aroE
+p.Ala206Val,Rv0144,
+p.Ala208Val,Rv1464,csd
+p.Ala209Gly,Rv0421c,
+p.Ala20Thr,Rv2473,
+p.Ala20Val,Rv2301,cut2
+p.Ala210Gly,Rv2130c,mshC
+p.Ala210Val,Rv0006,gyrA
+p.Ala212Val,Rv0803,purL
+p.Ala216Pro,Rv0493c,
+p.Ala216Val,Rv3913,trxB2
+p.Ala21Thr,Rv0395,
+p.Ala21Thr,Rv3273,
+p.Ala220fs,Rv0492c,
+p.Ala220Ser,Rv2298,
+p.Ala220Val,Rv0359,
+p.Ala223Ser,Rv0933,pstB
+p.Ala223Thr,Rv0412c,
+p.Ala225Thr,Rv3903c,
+p.Ala225Val,Rv3446c,
+p.Ala226Gly,Rv1333,
+p.Ala227fs,Rv2434c,
+p.Ala229Val,Rv0458,
+p.Ala22Pro,Rv0410c,pknG
+p.Ala230Glu,Rv3921c,
+p.Ala230Thr,Rv3895c,eccB2
+p.Ala234Thr,Rv3470c,ilvB2
+p.Ala236Pro,Rv2398c,cysW
+p.Ala237Thr,Rv3524,
+p.Ala237Val,Rv3806c,ubiA
+p.Ala239Pro,Rv0077c,
+p.Ala23Pro,Rv0415,thiO
+p.Ala23Val,Rv3468c,
+p.Ala244Thr,Rv2296,
+p.Ala247Ser,Rv1422,
+p.Ala247Val,Rv1662,pks8
+p.Ala248Gly,Rv2407,
+p.Ala24Val,Rv1382,
+p.Ala251Val,Rv2920c,amt
+p.Ala252Val,Rv2824c,
+p.Ala253Gly,Rv0973c,accA2
+p.Ala253Val,Rv2897c,
+p.Ala254Thr,Rv2417c,
+p.Ala258Thr,Rv3157,nuoM
+p.Ala25Gly,Rv0540,
+p.Ala25Val,Rv2415c,
+p.Ala260Pro,Rv3419c,gcp
+p.Ala266fs,Rv3085,
+p.Ala266Thr,Rv2994,
+p.Ala266Val,Rv0777,purB
+p.Ala269fs,Rv0070c,glyA2
+p.Ala26Thr,Rv1394c,cyp132
+p.Ala272Glu,Rv1423,whiA
+p.Ala272Ser,Rv1186c,
+p.Ala279Asp,Rv0954,
+p.Ala279Thr,Rv0377,
+p.Ala279Thr,Rv1527c,pks5
+p.Ala279Val,Rv0486,mshA
+p.Ala27Ser,Rv0255c,cobQ1
+p.Ala280Gly,Rv1143,mcr
+p.Ala282Thr,Rv0907,
+p.Ala283Ser,Rv3691,
+p.Ala285Gly,Rv0845,
+p.Ala286Thr,Rv3877,eccD1
+p.Ala287Ser,Rv1456c,
+p.Ala287Thr,Rv0086,hycQ
+p.Ala288Asp,Rv0006,gyrA
+p.Ala288Thr,Rv3649,
+p.Ala289Val,Rv0873,fadE10
+p.Ala290fs,Rv0064,
+p.Ala290Thr,Rv0751c,mmsB
+p.Ala296Gly,Rv0492c,
+p.Ala29Val,Rv1153c,omt
+p.Ala301fs,Rv0954,
+p.Ala301Val,Rv1329c,dinG
+p.Ala301Val,Rv2374c,hrcA
+p.Ala302Thr,Rv3863,
+p.Ala302Val,Rv0860,fadB
+p.Ala302Val,Rv1011,ispE
+p.Ala304Gly,Rv2566,
+p.Ala304Pro,Rv2449c,
+p.Ala305Gly,Rv0193c,
+p.Ala305Pro,Rv1021,
+p.Ala306Pro,Rv0015c,pknA
+p.Ala308Ser,Rv0533c,fabH
+p.Ala309Thr,Rv0946c,pgi
+p.Ala311fs,Rv2173,idsA2
+p.Ala313Val,Rv3825c,pks2
+p.Ala317Thr,Rv3698,
+p.Ala318Val,Rv3626c,
+p.Ala31Pro,Rv1885c,
+p.Ala31Val,Rv2074,
+p.Ala323Val,Rv2380c,mbtE
+p.Ala324Pro,Rv3885c,eccE2
+p.Ala327Pro,Rv0509,hemA
+p.Ala328Pro,Rv0509,hemA
+p.Ala329Pro,Rv0922,
+p.Ala329Pro,Rv2748c,ftsK
+p.Ala330Val,Rv3194c,
+p.Ala333Val,Rv1162,narH
+p.Ala334Val,Rv3402c,
+p.Ala336Thr,Rv3061c,fadE22
+p.Ala339Gly,Rv1449c,tkt
+p.Ala33Val,Rv2861c,mapB
+p.Ala340fs,Rv3401,
+p.Ala342Val,Rv0376c,
+p.Ala343Gly,Rv3826,fadD23
+p.Ala344Val,Rv2155c,murD
+p.Ala345Thr,Rv0565c,
+p.Ala349Thr,Rv1508c,
+p.Ala34Val,Rv3806c,ubiA
+p.Ala351Gly,Rv2386c,mbtI
+p.Ala352Glu,Rv0938,ligD
+p.Ala355Ser,Rv2922c,smc
+p.Ala358Thr,Rv0988,
+p.Ala360Val,Rv0389,purT
+p.Ala362Val,Rv0517,
+p.Ala364Gly,Rv3480c,
+p.Ala365Val,Rv2992c,gltS
+p.Ala367Pro,Rv2631,
+p.Ala367Val,Rv2052c,
+p.Ala368Val,Rv0237,lpqI
+p.Ala369Val,Rv0920c,
+p.Ala36Gly,Rv3110,moaB1
+p.Ala36Pro,Rv0183,
+p.Ala36Val,Rv1395,
+p.Ala373Thr,Rv1894c,
+p.Ala374Val,Rv1238,sugC
+p.Ala376Gly,Rv1868,
+p.Ala376Pro,Rv3899c,
+p.Ala379Val,Rv2343c,dnaG
+p.Ala381Pro,Rv3854c,ethA
+p.Ala389Val,Rv3805c,aftB
+p.Ala38Glu,Rv1050,
+p.Ala38Gly,Rv3384c,vapC46
+p.Ala38Thr,Rv3806c,ubiA
+p.Ala391fs,Rv0136,cyp138
+p.Ala393Glu,Rv1527c,pks5
+p.Ala396Thr,Rv0511,hemD
+p.Ala39Thr,Rv0222,echA1
+p.Ala3Val,Rv2243,fabD
+p.Ala402Pro,Rv3909,
+p.Ala406Ser,Rv3794,embA
+p.Ala413Val,Rv1355c,moeY
+p.Ala416Pro,Rv0457c,
+p.Ala416Thr,Rv1378c,
+p.Ala41Pro,Rv1899c,lppD
+p.Ala41Ser,Rv3074,
+p.Ala426Asp,Rv2181,
+p.Ala431Thr,Rv0897c,
+p.Ala435Ser,Rv0663,atsD
+p.Ala435Val,Rv1029,kdpA
+p.Ala43Pro,Rv0183,
+p.Ala440Val,Rv1007c,metS
+p.Ala443Val,Rv2155c,murD
+p.Ala447Thr,Rv1842c,
+p.Ala450Val,Rv1751,
+p.Ala452Pro,Rv1781c,malQ
+p.Ala458Val,Rv0507,mmpL2
+p.Ala45Ser,Rv3405c,
+p.Ala45Val,Rv1401,
+p.Ala460Val,Rv1836c,
+p.Ala465Thr,Rv0099,fadD10
+p.Ala469Gly,Rv0083,
+p.Ala46Val,Rv2923c,
+p.Ala472fs,Rv2264c,
+p.Ala474Val,Rv0119,fadD7
+p.Ala478Ser,Rv0120c,fusA2
+p.Ala479Gly,Rv3728,
+p.Ala480Val,Rv0565c,
+p.Ala483Pro,Rv0538,
+p.Ala485Gly,Rv2455c,
+p.Ala48Ser,Rv0893c,
+p.Ala497Gly,Rv1165,typA
+p.Ala49Thr,Rv0111,
+p.Ala4Val,Rv2183c,
+p.Ala500Ser,Rv1020,mfd
+p.Ala504Val,Rv0005,gyrB
+p.Ala506Thr,Rv2411c,
+p.Ala50Gly,Rv0966c,
+p.Ala50Val,Rv0757,phoP
+p.Ala510Thr,Rv2488c,
+p.Ala517fs,Rv0507,mmpL2
+p.Ala517Ser,Rv0551c,fadD8
+p.Ala51Val,Rv0638,secE1
+p.Ala521Thr,Rv3829c,
+p.Ala522Val,Rv2973c,recG
+p.Ala531Gly,Rv3014c,ligA
+p.Ala53Ser,Rv2453c,mobA
+p.Ala53Thr,Rv2542,
+p.Ala53Thr,Rv2548,vapC19
+p.Ala53Thr,Rv3895c,eccB2
+p.Ala548Val,Rv1253,deaD
+p.Ala562Thr,Rv0032,bioF2
+p.Ala562Val,Rv3903c,
+p.Ala56Gly,Rv2231B,vapB16
+p.Ala56Pro,Rv1277,
+p.Ala56Val,Rv0413,mutT3
+p.Ala57Ser,Rv3064c,
+p.Ala57Thr,Rv1445c,devB
+p.Ala58_Leu60delinsVal,Rv0844c,narL
+p.Ala595Gly,Rv0339c,
+p.Ala596Glu,Rv1835c,
+p.Ala59Val,Rv1530,adh
+p.Ala5Glu,Rv2652c,
+p.Ala613Pro,Rv2737c,recA
+p.Ala614Val,Rv1183,mmpL10
+p.Ala618Thr,Rv0386,
+p.Ala626Gly,Rv3156,nuoL
+p.Ala62Glu,Rv1312,
+p.Ala643Val,Rv0648,
+p.Ala653Val,Rv3610c,ftsH
+p.Ala659Gly,Rv2748c,ftsK
+p.Ala667Val,Rv0058,dnaB
+p.Ala66Thr,Rv3862c,whiB6
+p.Ala674Gly,Rv1161,narG
+p.Ala689Val,Rv0266c,oplA
+p.Ala68Val,Rv1007c,metS
+p.Ala68Val,Rv1541c,lprI
+p.Ala69Ser,Rv0360c,
+p.Ala69Val,Rv0383c,
+p.Ala6Glu,Rv0598c,vapC27
+p.Ala715Val,Rv1384,carB
+p.Ala71fs,Rv1625c,cya
+p.Ala71Glu,Rv3818,
+p.Ala71Thr,Rv2920c,amt
+p.Ala72Gly,Rv3862c,whiB6
+p.Ala72Thr,Rv0439c,
+p.Ala73Gly,Rv3556c,fadA6
+p.Ala73Ser,Rv2494,vapC38
+p.Ala74Ser,Rv3375,amiD
+p.Ala74Val,Rv2678c,hemE
+p.Ala75Pro,Rv1217c,
+p.Ala75Thr,Rv1174c,TB8.4
+p.Ala76Ser,Rv3771c,
+p.Ala76Val,Rv0692,
+p.Ala78Ser,Rv0308,
+p.Ala796Gly,Rv0194,
+p.Ala799Pro,Rv0338c,
+p.Ala79Glu,Rv3307,deoD
+p.Ala79Val,Rv0057,
+p.Ala80Pro,Rv3919c,gid
+p.Ala817Gly,Rv0613c,
+p.Ala81Thr,Rv3396c,guaA
+p.Ala82Val,Rv1714,
+p.Ala83Ser,Rv0953c,
+p.Ala84Glu,Rv2764c,thyA
+p.Ala851Ser,Rv3296,lhr
+p.Ala85Ser,Rv3560c,fadE30
+p.Ala86Thr,Rv2700,
+p.Ala86Val,Rv1939,
+p.Ala87fs,Rv2319c,
+p.Ala87Ser,Rv1330c,pncB1
+p.Ala87Val,Rv1913,
+p.Ala88Val,Rv3886c,mycP2
+p.Ala895Val,Rv0630c,recB
+p.Ala89Val,Rv2536,
+p.Ala8Ser,Rv2253,
+p.Ala90Pro,Rv2540c,aroF
+p.Ala916Thr,Rv2931,ppsA
+p.Ala923Thr,Rv3193c,
+p.Ala92Asp,Rv0437c,psd
+p.Ala92Gly,Rv1049,
+p.Ala92Thr,Rv2573,
+p.Ala92Val,Rv3665c,dppB
+p.Ala93Thr,Rv0281,
+p.Ala95_Ter96insPheAla,Rv3875,esxA
+p.Ala96Gly,Rv0622,
+p.Ala96Val,Rv1187,rocA
+p.Ala98Thr,Rv0692,
+p.Ala99fs,Rv0277c,vapC25
+p.Ala99Thr,Rv0983,pepD
+p.Ala9Gly,Rv2319c,
+p.Ala9Val,Rv2502c,accD1
+p.AlaAla1085GlyGly,Rv1020,mfd
+p.AlaAsp930GlyGly,Rv3447c,eccC4
+p.AlaGlu119AspGln,Rv2645,
+p.AlaHis305ProPro,Rv1021,
+p.AlaIle635ProThr,Rv3792,aftA
+p.AlaPhe30GlyVal,Rv1916,aceAb
+p.AlaVal231GlyGly,Rv0724,sppA
+p.Arg1000His,Rv1161,narG
+p.Arg101Pro,Rv3716c,
+p.Arg102Gln,Rv2120c,
+p.Arg102His,Rv2765,
+p.Arg1031fs,Rv0631c,recC
+p.Arg103Cys,Rv2923c,
+p.Arg106Cys,Rv1874,
+p.Arg106Lys,Rv1351,
+p.Arg109His,Rv0121c,
+p.Arg109Ser,Rv2081c,
+p.Arg110His,Rv1991c,mazF6
+p.Arg111*,Rv3655c,
+p.Arg112Cys,Rv0470A,
+p.Arg115fs,Rv2821c,
+p.Arg117Gly,Rv3401,
+p.Arg117His,Rv3831,
+p.Arg119Cys,Rv0852,fadD16
+p.Arg119Gly,Rv2051c,ppm1
+p.Arg119Trp,Rv2414c,
+p.Arg120fs,Rv2752c,
+p.Arg120Gly,Rv1736c,narX
+p.Arg124Trp,Rv0726c,
+p.Arg1255Cys,Rv2006,otsB1
+p.Arg1260*,Rv1662,pks8
+p.Arg126fs,Rv1964,yrbE3A
+p.Arg126Leu,Rv3420c,rimI
+p.Arg127Trp,Rv1431,
+p.Arg1288Cys,Rv2524c,fas
+p.Arg128Leu,Rv0842,
+p.Arg130His,Rv1175c,fadH
+p.Arg131Leu,Rv2206,
+p.Arg131Trp,Rv0558,menH
+p.Arg134His,Rv2423,
+p.Arg135Gly,Rv1940,ribA1
+p.Arg137*,Rv2456c,
+p.Arg137Trp,Rv0905,echA6
+p.Arg139Ser,Rv0745,
+p.Arg13Gly,Rv3850,
+p.Arg140Gln,Rv0472c,
+p.Arg140Gln,Rv3548c,
+p.Arg140Leu,Rv1988,erm(37)
+p.Arg143Pro,Rv1312,
+p.Arg144His,Rv0817c,
+p.Arg144Pro,Rv0822c,
+p.Arg144Trp,Rv0512,hemB
+p.Arg145Cys,Rv1908c,katG
+p.Arg146Ser,Rv2418c,
+p.Arg149Cys,Rv0893c,
+p.Arg150Cys,Rv0830,
+p.Arg153Cys,Rv1341,
+p.Arg154fs,Rv2043c,pncA
+p.Arg154Pro,Rv3919c,gid
+p.Arg155Gln,Rv0077c,
+p.Arg158Leu,Rv3674c,nth
+p.Arg158_Ser162del,Rv3649,
+p.Arg15*,Rv1460,
+p.Arg15Trp,Rv0741,
+p.Arg161Pro,Rv1989c,
+p.Arg168Tyr,Rv3214,gpm2
+p.Arg169Cys,Rv3761c,fadE36
+p.Arg16Ser,Rv3908,mutT4
+p.Arg173Leu,Rv2646,
+p.Arg178Cys,Rv1641,infC
+p.Arg179Cys,Rv1141c,echA11
+p.Arg180Gly,Rv3895c,eccB2
+p.Arg180Pro,Rv1425,
+p.Arg181Trp,Rv0577,TB27.3
+p.Arg182Leu,Rv3457c,rpoA
+p.Arg183Pro,Rv2114,
+p.Arg184Pro,Rv0606,
+p.Arg187Leu,Rv3497c,mce4C
+p.Arg189Leu,Rv3404c,
+p.Arg189Trp,Rv3449,mycP4
+p.Arg191Cys,Rv0284,eccC3
+p.Arg191Leu,Rv3889c,espG2
+p.Arg192Ser,Rv2129c,
+p.Arg194Leu,Rv1232c,
+p.Arg200fs,Rv2732c,
+p.Arg207Gly,Rv3854c,ethA
+p.Arg213fs,Rv0072,
+p.Arg214fs,Rv1378c,
+p.Arg214*,Rv2426c,
+p.Arg216Trp,Rv3377c,
+p.Arg219Trp,Rv1462,
+p.Arg21Gln,Rv3712,
+p.Arg21Pro,Rv1870c,
+p.Arg220Gln,Rv2068c,blaC
+p.Arg220Gln,Rv3520c,
+p.Arg222Gly,Rv3026c,
+p.Arg222His,Rv3903c,
+p.Arg222Leu,Rv2026c,
+p.Arg223Gly,Rv3283,sseA
+p.Arg226Gln,Rv1057,
+p.Arg226His,Rv1699,pyrG
+p.Arg233Gln,Rv0001,dnaA
+p.Arg234fs,Rv2308,
+p.Arg235His,Rv0246,
+p.Arg236Ser,Rv1683,
+p.Arg239Gly,Rv3854c,ethA
+p.Arg242Gly,Rv3693,
+p.Arg243His,Rv2216,
+p.Arg24Leu,Rv3331,sugI
+p.Arg250Trp,Rv1132,
+p.Arg255Gln,Rv3464,rmlB
+p.Arg256Leu,Rv2605c,tesB2
+p.Arg257Cys,Rv2084,
+p.Arg261Trp,Rv3498c,mce4B
+p.Arg261Trp,Rv3854c,ethA
+p.Arg262Gln,Rv3589,mutY
+p.Arg266*,Rv3071,
+p.Arg271Gly,Rv3714c,
+p.Arg273fs,Rv3075c,
+p.Arg276His,Rv0574c,
+p.Arg279*,Rv3854c,ethA
+p.Arg27His,Rv1053c,
+p.Arg27Trp,Rv1733c,
+p.Arg283Trp,Rv2973c,recG
+p.Arg286Trp,Rv3603c,
+p.Arg291His,Rv3106,fprA
+p.Arg299Cys,Rv3727,
+p.Arg29Cys,Rv1774,
+p.Arg2Trp,Rv1473A,
+p.Arg300Gln,Rv3328c,sigJ
+p.Arg304His,Rv0946c,pgi
+p.Arg306Gly,Rv1240,mdh
+p.Arg30His,Rv3505,fadE27
+p.Arg30Pro,Rv0114,gmhB
+p.Arg313Trp,Rv2192c,trpD
+p.Arg323Pro,Rv0136,cyp138
+p.Arg324Leu,Rv3285,accA3
+p.Arg325Leu,Rv1425,
+p.Arg326Leu,Rv1032c,trcS
+p.Arg326Trp,Rv3305c,amiA1
+p.Arg32Gln,Rv1912c,fadB5
+p.Arg32Gly,Rv3827c,
+p.Arg33Cys,Rv3387,
+p.Arg340Gln,Rv3340,metC
+p.Arg342Cys,Rv0585c,
+p.Arg343Gly,Rv0914c,
+p.Arg347Pro,Rv2812,
+p.Arg349fs,Rv1869c,
+p.Arg349Gly,Rv3640c,
+p.Arg35Gly,Rv1309,atpG
+p.Arg367Cys,Rv3068c,pgmA
+p.Arg367Gly,Rv2974c,
+p.Arg370His,Rv3089,fadD13
+p.Arg370Ser,Rv3409c,choD
+p.Arg374Pro,Rv2339,mmpL9
+p.Arg37His,Rv0410c,pknG
+p.Arg381Gln,Rv1659,argH
+p.Arg385Trp,Rv3704c,gshA
+p.Arg387Gln,Rv0897c,
+p.Arg38Cys,Rv0119,fadD7
+p.Arg38Ser,Rv0093c,
+p.Arg391Cys,Rv3303c,lpdA
+p.Arg397Gln,Rv2459,
+p.Arg39His,Rv3836,
+p.Arg39Trp,Rv2593c,ruvA
+p.Arg409Gln,Rv1979c,
+p.Arg411His,Rv0131c,fadE1
+p.Arg419Cys,Rv2800,
+p.Arg42Cys,Rv3861,
+p.Arg433Gln,Rv3193c,
+p.Arg437Pro,Rv1493,mutB
+p.Arg43Leu,Rv3568c,hsaC
+p.Arg443His,Rv2154c,ftsW
+p.Arg446His,Rv0005,gyrB
+p.Arg446Pro,Rv2791c,
+p.Arg464Leu,Rv2047c,
+p.Arg474Ser,Rv1297,rho
+p.Arg487fs,Rv0585c,
+p.Arg49His,Rv1185c,fadD21
+p.Arg49Trp,Rv1736c,narX
+p.Arg50Gly,Rv1312,
+p.Arg50His,Rv0919,
+p.Arg50Leu,Rv0919,
+p.Arg528Cys,Rv0194,
+p.Arg535Gly,Rv0051,
+p.Arg53Pro,Rv2013,
+p.Arg546Cys,Rv1327c,glgE
+p.Arg546His,Rv3909,
+p.Arg549Trp,Rv3299c,atsB
+p.Arg54Trp,Rv2024c,
+p.Arg552Leu,Rv0667,rpoB
+p.Arg56Thr,Rv2719c,
+p.Arg589Gly,Rv3910,
+p.Arg58Cys,Rv1473A,
+p.Arg59Trp,Rv0168,yrbE1B
+p.Arg5fs,Rv0220,lipC
+p.Arg5Gly,Rv0237,lpqI
+p.Arg60Ser,Rv3215,entC
+p.Arg613Ser,Rv1175c,fadH
+p.Arg640Trp,Rv0803,purL
+p.Arg658Cys,Rv3401,
+p.Arg664Gly,Rv2476c,gdh
+p.Arg66fs,Rv2828A,
+p.Arg6His,Rv1641,infC
+p.Arg705fs,Rv3879c,espK
+p.Arg71Cys,Rv3082c,virS
+p.Arg71Trp,Rv3328c,sigJ
+p.Arg73Gly,Rv1207,folP2
+p.Arg75Leu,Rv2724c,fadE20
+p.Arg75Ser,Rv1327c,glgE
+p.Arg77Thr,Rv0966c,
+p.Arg79Gly,Rv3869,eccB1
+p.Arg81Cys,Rv0026,
+p.Arg827Gln,Rv2006,otsB1
+p.Arg827His,Rv0667,rpoB
+p.Arg850His,Rv0631c,recC
+p.Arg858fs,Rv0266c,oplA
+p.Arg85Pro,Rv3850,
+p.Arg89_Tyr91del,Rv2621c,
+p.Arg8His,Rv1510,
+p.Arg91fs,Rv1982c,vapC36
+p.Arg935del,Rv3728,
+p.Arg94Cys,Rv0261c,narK3
+p.Arg94fs,Rv2590,fadD9
+p.Arg962Cys,Rv1183,mmpL10
+p.Arg98Cys,Rv3742c,
+p.Arg99Pro,Rv2850c,
+p.Arg9Leu,Rv3913,trxB2
+p.ArgPhe24GlyVal,Rv3071,
+p.ArgTrp104*,Rv2627c,
+p.Asn107Lys,Rv2812,
+p.Asn11fs,Rv0986,
+p.Asn11fs,Rv2780,ald
+p.Asn150Tyr,Rv0169,mce1A
+p.Asn152Ser,Rv3457c,rpoA
+p.Asn1610del,Rv0107c,ctpI
+p.Asn176Asp,Rv0195,
+p.Asn180Lys,Rv1101c,
+p.Asn184Thr,Rv0012,
+p.Asn189Asp,Rv3232c,ppk2
+p.Asn198Asp,Rv0988,
+p.Asn204His,Rv0016c,pbpA
+p.Asn221Lys,Rv0594,mce2F
+p.Asn22Asp,Rv0580c,
+p.Asn22Lys,Rv1061,
+p.Asn233His,Rv1184c,
+p.Asn246Ser,Rv1775,
+p.Asn263Asp,Rv2579,dhaA
+p.Asn263Thr,Rv0479c,
+p.Asn273Ser,Rv3720,
+p.Asn283Ile,Rv0402c,mmpL1
+p.Asn284Lys,Rv1622c,cydB
+p.Asn292Thr,Rv2935,ppsE
+p.Asn294Ile,Rv3484,cpsA
+p.Asn296His,Rv3795,embB
+p.Asn298Asp,Rv2303c,
+p.Asn2Ser,Rv3034c,
+p.Asn300fs,Rv2780,ald
+p.Asn306Asp,Rv2953,
+p.Asn312Thr,Rv0210,
+p.Asn321Asp,Rv0496,
+p.Asn349Thr,Rv3106,fprA
+p.Asn366Ser,Rv3229c,desA3
+p.Asn368Thr,Rv1442,bisC
+p.Asn373Lys,Rv2684,arsA
+p.Asn390Ser,Rv2318,uspC
+p.Asn398Ser,Rv3506,fadD17
+p.Asn39Thr,Rv2871,vapB43
+p.Asn409Ser,Rv1666c,cyp139
+p.Asn40His,Rv1194c,
+p.Asn416Ser,Rv0668,rpoC
+p.Asn432Ser,Rv1663,pks17
+p.Asn441Asp,Rv3303c,lpdA
+p.Asn44Lys,Rv0709,rpmC
+p.Asn46fs,Rv2277c,
+p.Asn484Lys,Rv0087,hycE
+p.Asn499Thr,Rv0005,gyrB
+p.Asn50Asp,Rv0342,iniA
+p.Asn527Thr,Rv0058,dnaB
+p.Asn567Ser,Rv0584,
+p.Asn61Asp,Rv2617c,
+p.Asn621Thr,Rv2931,ppsA
+p.Asn6Ser,Rv2295,
+p.Asn6Thr,Rv3161c,
+p.Asn72His,Rv0639,nusG
+p.Asn75Thr,Rv1871c,
+p.Asn76Ser,Rv2880c,
+p.Asn84His,Rv2812,
+p.Asn857Thr,Rv1384,carB
+p.Asn880Thr,Rv3894c,eccC2
+p.Asn8His,Rv3563,fadE32
+p.Asn97Asp,Rv0395,
+p.AsnLeuAsn257LysLeuGly,Rv2079,
+p.Asp101Asn,Rv0344c,lpqJ
+p.Asp101fs,Rv1911c,lppC
+p.Asp103Ala,Rv2678c,hemE
+p.Asp103Gly,Rv3866,espG1
+p.Asp106Glu,Rv3909,
+p.Asp1073Glu,Rv0266c,oplA
+p.Asp10Ala,Rv2090,
+p.Asp10fs,Rv1192,
+p.Asp112Asn,Rv1454c,qor
+p.Asp112Gly,Rv2659c,
+p.Asp113Asn,Rv1916,aceAb
+p.Asp116Ala,Rv0822c,
+p.Asp1189Ala,Rv2524c,fas
+p.Asp118Glu,Rv3283,sseA
+p.Asp119Glu,Rv2212,
+p.Asp1203Ala,Rv2524c,fas
+p.Asp121Asn,Rv0781,ptrBa
+p.Asp125Ala,Rv3672c,
+p.Asp129Gly,Rv0800,pepC
+p.Asp130Ala,Rv1108c,xseA
+p.Asp132Glu,Rv3919c,gid
+p.Asp134Ala,Rv0536,galE3
+p.Asp135Ala,Rv2447c,folC
+p.Asp137Ala,Rv1676,
+p.Asp137Gly,Rv1596,nadC
+p.Asp140Ala,Rv0264c,
+p.Asp141fs,Rv0678,
+p.Asp1429Glu,Rv3800c,pks13
+p.Asp142Asn,Rv0078A,
+p.Asp143Ala,Rv1971,mce3F
+p.Asp144Ala,Rv1700,
+p.Asp145Asn,Rv3291c,lrpA
+p.Asp147Gly,Rv2577,
+p.Asp149Ala,Rv1860,apa
+p.Asp156Ala,Rv2831,echA16
+p.Asp158Gly,Rv2149c,yfiH
+p.Asp15Gly,Rv1630,rpsA
+p.Asp163Glu,Rv2568c,
+p.Asp169Ala,Rv2875,mpt70
+p.Asp1759Gly,Rv2933,ppsC
+p.Asp178Ala,Rv0216,
+p.Asp17fs,Rv3614c,espD
+p.Asp181Ala,Rv0867c,rpfA
+p.Asp182Ala,Rv0511,hemD
+p.Asp182Gly,Rv0208c,
+p.Asp182Gly,Rv0214,fadD4
+p.Asp1832Glu,Rv1527c,pks5
+p.Asp184Asn,Rv3120,
+p.Asp187Ala,Rv0867c,rpfA
+p.Asp190Tyr,Rv2339,mmpL9
+p.Asp191His,Rv2121c,hisG
+p.Asp195fs,Rv2286c,
+p.Asp197Glu,Rv2037c,
+p.Asp198Ala,Rv1376,
+p.Asp198His,Rv0013,trpG
+p.Asp200Ala,Rv0946c,pgi
+p.Asp200Gly,Rv1638,uvrA
+p.Asp203Tyr,Rv1277,
+p.Asp205fs,Rv0144,
+p.Asp207Glu,Rv1178,
+p.Asp20Ala,Rv3702c,
+p.Asp212Asn,Rv2217,lipB
+p.Asp212Glu,Rv2568c,
+p.Asp21Asn,Rv2632c,
+p.Asp220Gly,Rv2155c,murD
+p.Asp223fs,Rv0711,atsA
+p.Asp223fs,Rv2915c,
+p.Asp225Asn,Rv1427c,fadD12
+p.Asp228fs,Rv1431,
+p.Asp2316Ala,Rv0101,nrp
+p.Asp231Asn,Rv2032,acg
+p.Asp231Gly,Rv2970c,lipN
+p.Asp233Gly,Rv3710,leuA
+p.Asp239Glu,Rv3796,
+p.Asp242Ala,Rv1112,
+p.Asp246Ala,Rv3693,
+p.Asp247Glu,Rv0112,gca
+p.Asp24fs,Rv3768,
+p.Asp252Glu,Rv0119,fadD7
+p.Asp256Glu,Rv0758,phoR
+p.Asp257Glu,Rv1940,ribA1
+p.Asp268His,Rv1543,
+p.Asp270Asn,Rv3822,
+p.Asp272Asn,Rv2528c,mrr
+p.Asp275fs,Rv2471,aglA
+p.Asp278Asn,Rv2579,dhaA
+p.Asp279Glu,Rv1512,epiA
+p.Asp27Asn,Rv2237,
+p.Asp290fs,Rv3854c,ethA
+p.Asp297Ala,Rv3691,
+p.Asp299Gly,Rv3071,
+p.Asp29Gly,Rv2964,purU
+p.Asp304Asn,Rv0982,mprB
+p.Asp31Glu,Rv1125,
+p.Asp31Glu,Rv3661,
+p.Asp321Asn,Rv0766c,cyp123
+p.Asp322Gly,Rv1001,arcA
+p.Asp325Ala,Rv0613c,
+p.Asp330Glu,Rv1345,mbtM
+p.Asp330Gly,Rv0132c,fgd2
+p.Asp339Ala,Rv1770,
+p.Asp342Ala,Rv1968,mce3C
+p.Asp345Gly,Rv0976c,
+p.Asp347Gly,Rv0932c,pstS2
+p.Asp34Ala,Rv3183,
+p.Asp350Ala,Rv1232c,
+p.Asp353Ala,Rv0858c,dapC
+p.Asp35Ala,Rv0959,
+p.Asp35_Asp37del,Rv3319,sdhB
+p.Asp365Ala,Rv0631c,recC
+p.Asp366Asn,Rv0037c,
+p.Asp372Glu,Rv2305,
+p.Asp379Ala,Rv0425c,ctpH
+p.Asp383Gly,Rv3895c,eccB2
+p.Asp388Ala,Rv0119,fadD7
+p.Asp38Ala,Rv2292c,
+p.Asp393Ala,Rv1381,pyrC
+p.Asp399His,Rv2124c,metH
+p.Asp39fs,Rv3862c,whiB6
+p.Asp40Ala,Rv2426c,
+p.Asp410Ala,Rv1971,mce3F
+p.Asp412Asn,Rv1639c,
+p.Asp4140Ala,Rv2048c,pks12
+p.Asp427His,Rv1173,fbiC
+p.Asp430_Ile434delinsVal,Rv0126,treS
+p.Asp441Ala,Rv0886,fprB
+p.Asp455Ala,Rv3308,pmmB
+p.Asp460Gly,Rv0969,ctpV
+p.Asp461Asn,Rv0005,gyrB
+p.Asp461His,Rv0005,gyrB
+p.Asp464fs,Rv3854c,ethA
+p.Asp485Asn,Rv0668,rpoC
+p.Asp485Tyr,Rv0668,rpoC
+p.Asp501Tyr,Rv2488c,
+p.Asp50Ala,Rv2978c,
+p.Asp51Gly,Rv0089,
+p.Asp523Glu,Rv3743c,ctpJ
+p.Asp53Gly,Rv3724B,cut5b
+p.Asp53Gly,Rv3900c,
+p.Asp53Tyr,Rv3218,
+p.Asp545Glu,Rv0667,rpoB
+p.Asp562Tyr,Rv0949,uvrD1
+p.Asp56Glu,Rv1082,mca
+p.Asp56Gly,Rv3551,
+p.Asp573Gly,Rv1133c,metE
+p.Asp59Gly,Rv0137c,msrA
+p.Asp5Asn,Rv0143c,
+p.Asp601Ala,Rv2082,
+p.Asp636Gly,Rv3894c,eccC2
+p.Asp63Asn,Rv0583c,lpqN
+p.Asp64Ala,Rv2115c,mpa
+p.Asp67_Leu68insPheGlnThrAsp,Rv0835,lpqQ
+p.Asp68Ala,Rv3071,
+p.Asp691Gly,Rv1781c,malQ
+p.Asp69Gly,Rv2331A,
+p.Asp705Ala,Rv1564c,treX
+p.Asp70Asn,Rv2745c,clgR
+p.Asp713Gly,Rv1328,glgP
+p.Asp72Gly,Rv2932,ppsB
+p.Asp73Gly,Rv0376c,
+p.Asp743His,Rv1028c,kdpD
+p.Asp744Asn,Rv1937,
+p.Asp748Glu,Rv0384c,clpB
+p.Asp74Ala,Rv2261c,
+p.Asp777Asn,Rv0667,rpoB
+p.Asp788Asn,Rv3894c,eccC2
+p.Asp78Ala,Rv1348,irtA
+p.Asp79Val,Rv2908c,
+p.Asp7Gly,Rv2781c,
+p.Asp81Ala,Rv2764c,thyA
+p.Asp81His,Rv3887c,eccD2
+p.Asp820Ala,Rv0613c,
+p.Asp820Ala,Rv3370c,dnaE2
+p.Asp83Ala,Rv0672,fadE8
+p.Asp88Ala,Rv2122c,hisE
+p.Asp89Ala,Rv2351c,plcA
+p.Asp8Asn,Rv2043c,pncA
+p.Asp912Gly,Rv2381c,mbtD
+p.Asp94Asn,Rv0006,gyrA
+p.Asp968His,Rv3894c,eccC2
+p.Asp96Glu,Rv1133c,metE
+p.Asp99Asn,Rv2002,fabG3
+p.AspLeu116AlaPro,Rv0822c,
+p.AspLeu387AlaPro,Rv3446c,
+p.Cys106Arg,Rv1121,zwf1
+p.Cys10_Arg11insLysProMetSer,Rv1810,
+p.Cys119Arg,Rv0182c,sigG
+p.Cys138del,Rv2043c,pncA
+p.Cys13Arg,Rv0971c,echA7
+p.Cys14Arg,Rv2043c,pncA
+p.Cys14Gly,Rv2043c,pncA
+p.Cys14Ser,Rv3142c,
+p.Cys160Arg,Rv1830,
+p.Cys184Arg,Rv3468c,
+p.Cys188Arg,Rv1509,
+p.Cys194Trp,Rv3000,
+p.Cys253fs,Rv3854c,ethA
+p.Cys254fs,Rv2948c,fadD22
+p.Cys280Trp,Rv3026c,
+p.Cys290Arg,Rv0972c,fadE12
+p.Cys43Ser,Rv1899c,lppD
+p.Cys45Tyr,Rv0999,
+p.Cys536Tyr,Rv3910,
+p.Cys62Ser,Rv1687c,
+p.Cys81Arg,Rv2978c,
+p.Cys81Ser,Rv0254c,cobU
+p.Cys81Ser,Rv3414c,sigD
+p.Cys9Tyr,Rv0118c,oxcA
+p.Gln101His,Rv3220c,
+p.Gln103Arg,Rv0421c,
+p.Gln1045Arg,Rv2934,ppsD
+p.Gln1076His,Rv0386,
+p.Gln108*,Rv2370c,
+p.Gln109*,Rv0572c,
+p.Gln10Arg,Rv2043c,pncA
+p.Gln110fs,Rv1203c,
+p.Gln1110His,Rv0668,rpoC
+p.Gln1172Pro,Rv2062c,cobN
+p.Gln121Arg,Rv0554,bpoC
+p.Gln124Arg,Rv3113,
+p.Gln126*,Rv2917,
+p.Gln135Lys,Rv1638,uvrA
+p.Gln13*,Rv0393,
+p.Gln141Pro,Rv2043c,pncA
+p.Gln146Glu,Rv2700,
+p.Gln148His,Rv1992c,ctpG
+p.Gln157His,Rv3835,
+p.Gln158*,Rv1928c,
+p.Gln163Arg,Rv3382c,lytB1
+p.Gln165Pro,Rv3854c,ethA
+p.Gln165*,Rv2764c,thyA
+p.Gln179Arg,Rv2984,ppk1
+p.Gln180*,Rv1762c,
+p.Gln182Pro,Rv1156,
+p.Gln182*,Rv3740c,
+p.Gln190Lys,Rv1857,modA
+p.Gln192His,Rv1696,recN
+p.Gln217*,Rv3848,
+p.Gln219Pro,Rv2571c,
+p.Gln229Pro,Rv1730c,
+p.Gln230Lys,Rv1823,
+p.Gln232His,Rv2394,ggtB
+p.Gln234His,Rv0528,
+p.Gln234His,Rv3698,
+p.Gln238fs,Rv3554,fdxB
+p.Gln239Glu,Rv1189,sigI
+p.Gln245*,Rv2407,
+p.Gln246*,Rv2752c,
+p.Gln24*,Rv3854c,ethA
+p.Gln253Arg,Rv3719,
+p.Gln263*,Rv1338,murI
+p.Gln265Glu,Rv0604,lpqO
+p.Gln271Lys,Rv3824c,papA1
+p.Gln273His,Rv1259,udgB
+p.Gln28Lys,Rv0213c,
+p.Gln290Arg,Rv0370c,
+p.Gln293Glu,Rv2500c,fadE19
+p.Gln296Lys,Rv2935,ppsE
+p.Gln30Pro,Rv3897c,
+p.Gln315Pro,Rv1899c,lppD
+p.Gln31Arg,Rv2542,
+p.Gln320*,Rv2795c,
+p.Gln323*,Rv2791c,
+p.Gln338Lys,Rv3060c,
+p.Gln342dup,Rv2823c,
+p.Gln345Pro,Rv3229c,desA3
+p.Gln347*,Rv3854c,ethA
+p.Gln372Ser,Rv3494c,mce4F
+p.Gln375Lys,Rv1640c,lysX
+p.Gln379Pro,Rv0972c,fadE12
+p.Gln37Lys,Rv1726,
+p.Gln382His,Rv2157c,murF
+p.Gln3Arg,Rv2211c,gcvT
+p.Gln406Arg,Rv3882c,eccE1
+p.Gln410Arg,Rv1630,rpsA
+p.Gln414Pro,Rv3329,
+p.Gln426Lys,Rv0020c,fhaA
+p.Gln431*,Rv0235c,
+p.Gln432Leu,Rv0667,rpoB
+p.Gln443Pro,Rv2577,
+p.Gln46Pro,Rv1765A,
+p.Gln472Arg,Rv3280,accD5
+p.Gln47Arg,Rv0960,vapC9
+p.Gln506Arg,Rv0457c,
+p.Gln523Glu,Rv0668,rpoC
+p.Gln544dup,Rv2411c,
+p.Gln549Pro,Rv2264c,
+p.Gln56His,Rv2780,ald
+p.Gln56Pro,Rv2023A,
+p.Gln603Arg,Rv1449c,tkt
+p.Gln60Lys,Rv1975,
+p.Gln655Pro,Rv1661,pks7
+p.Gln67*,Rv2910c,
+p.Gln68His,Rv2012,
+p.Gln69fs,Rv0008c,
+p.Gln70His,Rv2888c,amiC
+p.Gln719His,Rv3365c,
+p.Gln79His,Rv3499c,mce4A
+p.Gln800Arg,Rv2221c,glnE
+p.Gln80Arg,Rv1830,
+p.Gln845His,Rv0338c,
+p.Gln851His,Rv1183,mmpL10
+p.Gln864Pro,Rv2524c,fas
+p.Gln869His,Rv3479,
+p.Gln86Arg,Rv0417,thiG
+p.Gln87Arg,Rv1747,
+p.Gln893*,Rv1664,pks9
+p.Gln92*,Rv3449,mycP4
+p.Glu100Asp,Rv3629c,
+p.Glu102Val,Rv0071,
+p.Glu1033Val,Rv0668,rpoC
+p.Glu105Asp,Rv2597,
+p.Glu107Lys,Rv3408,vapC47
+p.Glu108Ala,Rv2475c,
+p.Glu1113Gly,Rv0668,rpoC
+p.Glu116Gly,Rv2913c,
+p.Glu118Asp,Rv1424c,
+p.Glu118Asp,Rv2072c,cobL
+p.Glu127Lys,Rv0610c,
+p.Glu130Ala,Rv2031c,hspX
+p.Glu132Lys,Rv2587c,secD
+p.Glu133Asp,Rv2587c,secD
+p.Glu13Lys,Rv2780,ald
+p.Glu141Asp,Rv2587c,secD
+p.Glu143Lys,Rv0844c,narL
+p.Glu145Gln,Rv3279c,birA
+p.Glu147Ala,Rv3722c,
+p.Glu148Ala,Rv0959,
+p.Glu148Gly,Rv0058,dnaB
+p.Glu158Gln,Rv2171,lppM
+p.Glu163Lys,Rv0450c,mmpL4
+p.Glu164Gly,Rv1378c,
+p.Glu166Gln,Rv2215,dlaT
+p.Glu172Ala,Rv0840c,pip
+p.Glu172Lys,Rv1194c,
+p.Glu173fs,Rv2043c,pncA
+p.Glu177Ala,Rv2006,otsB1
+p.Glu180Asp,Rv1938,ephB
+p.Glu184Gly,Rv0020c,fhaA
+p.Glu184Gly,Rv2895c,viuB
+p.Glu188Asp,Rv3169,
+p.Glu193Lys,Rv2928,tesA
+p.Glu194Ala,Rv2313c,
+p.Glu196Asp,Rv0633c,
+p.Glu200Gly,Rv0158,
+p.Glu209Ala,Rv3062,ligB
+p.Glu210Ala,Rv0084,hycD
+p.Glu222Lys,Rv0929,pstC2
+p.Glu224Asp,Rv2247,accD6
+p.Glu226Lys,Rv1315,murA
+p.Glu229Lys,Rv0846c,
+p.Glu229Lys,Rv3555c,
+p.Glu229*,Rv0087,hycE
+p.Glu235Ala,Rv0610c,
+p.Glu242Ala,Rv3089,fadD13
+p.Glu244Gly,Rv2988c,leuC
+p.Glu247Ala,Rv1448c,tal
+p.Glu2566Lys,Rv2524c,fas
+p.Glu260Asp,Rv3084,lipR
+p.Glu262Ala,Rv1186c,
+p.Glu268Gln,Rv0244c,fadE5
+p.Glu269Asp,Rv0265c,
+p.Glu26Gly,Rv3048c,nrdF2
+p.Glu274fs,Rv3854c,ethA
+p.Glu274Gly,Rv3457c,rpoA
+p.Glu278Arg,Rv3383c,idsB
+p.Glu294Lys,Rv0923c,
+p.Glu297Asp,Rv1631,coaE
+p.Glu309Gly,Rv1028c,kdpD
+p.Glu31fs,Rv1322,
+p.Glu323fs,Rv3879c,espK
+p.Glu325Gly,Rv0958,
+p.Glu331Ala,Rv0630c,recB
+p.Glu331Ala,Rv3001c,ilvC
+p.Glu344Lys,Rv1689,tyrS
+p.Glu34Gln,Rv3408,vapC47
+p.Glu359Asp,Rv0161,
+p.Glu359Lys,Rv3161c,
+p.Glu359Lys,Rv3877,eccD1
+p.Glu35Asp,Rv3856c,
+p.Glu367Asp,Rv3179,
+p.Glu368Lys,Rv0338c,
+p.Glu377Gly,Rv0530,
+p.Glu389Ala,Rv1415,ribA2
+p.Glu38Ala,Rv3881c,espB
+p.Glu39Gly,Rv1590,
+p.Glu3Ala,Rv3335c,
+p.Glu3Asp,Rv3335c,
+p.Glu401Gly,Rv2931,ppsA
+p.Glu415fs,Rv1029,kdpA
+p.Glu429Gly,Rv3245c,mtrB
+p.Glu430Lys,Rv0001,dnaA
+p.Glu447Leu,Rv2380c,mbtE
+p.Glu44Gln,Rv2350c,plcB
+p.Glu451Asp,Rv3868,eccA1
+p.Glu468Gly,Rv2572c,aspS
+p.Glu479Ala,Rv3391,acrA1
+p.Glu498Gly,Rv0032,bioF2
+p.Glu49Asp,Rv3698,
+p.Glu4Ala,Rv0771,
+p.Glu4Lys,Rv1373,
+p.Glu500Asp,Rv3296,lhr
+p.Glu50Lys,Rv0244c,fadE5
+p.Glu52Gly,Rv2346c,esxO
+p.Glu541Asp,Rv3800c,pks13
+p.Glu54Ala,Rv1134,
+p.Glu55Asp,Rv1208,gpgS
+p.Glu574Lys,Rv2721c,
+p.Glu57Lys,Rv1191,
+p.Glu60*,Rv1336,cysM
+p.Glu61Gln,Rv2195,qcrA
+p.Glu647Lys,Rv3299c,atsB
+p.Glu64Asp,Rv1991A,mazE6
+p.Glu64Gly,Rv1552,frdA
+p.Glu650Ala,Rv2748c,ftsK
+p.Glu65Gln,Rv1740,vapB34
+p.Glu69Gln,Rv1276c,
+p.Glu6fs,Rv2624c,
+p.Glu6Lys,Rv1661,pks7
+p.Glu71Gln,Rv1493,mutB
+p.Glu71Gln,Rv3907c,pcnA
+p.Glu71Lys,Rv2212,
+p.Glu724Asp,Rv3365c,
+p.Glu757Gly,Rv0668,rpoC
+p.Glu79Gly,Rv3797,fadE35
+p.Glu807Asp,Rv2922c,smc
+p.Glu82Lys,Rv0122,
+p.Glu84Lys,Rv1912c,fadB5
+p.Glu85Lys,Rv3179,
+p.Glu85Lys,Rv3398c,idsA1
+p.Glu861_Thr863del,Rv2444c,rne
+p.Glu86Lys,Rv0273c,
+p.Glu88Gln,Rv1022,lpqU
+p.Glu93Asp,Rv2444c,rne
+p.Glu970Gly,Rv3910,
+p.Glu989fs,Rv0425c,ctpH
+p.GluPhe3GlyVal,Rv3488,
+p.GluSer164GlyAla,Rv1378c,
+p.GluTyr544GlyAsp,Rv0684,fusA1
+p.Gly100Arg,Rv1716,
+p.Gly1018Ala,Rv3447c,eccC4
+p.Gly102Asp,Rv0307c,
+p.Gly102_Gly103insTrp,Rv2081c,
+p.Gly103Cys,Rv1171,
+p.Gly103_Gly104dup,Rv2081c,
+p.Gly105Ala,Rv1872c,lldD2
+p.Gly106Val,Rv2823c,
+p.Gly107Ala,Rv0823c,
+p.Gly109del,Rv0197,
+p.Gly112Asp,Rv0185,
+p.Gly113Cys,Rv0590,mce2B
+p.Gly113_Leu116delinsVal,Rv2043c,pncA
+p.Gly117Arg,Rv2571c,
+p.Gly11fs,Rv3854c,ethA
+p.Gly11Ser,Rv1393c,
+p.Gly120dup,Rv0888,
+p.Gly123Ala,Rv1589,bioB
+p.Gly123Asp,Rv1870c,
+p.Gly123Ser,Rv3593,lpqF
+p.Gly125Asp,Rv1312,
+p.Gly125Ser,Rv3575c,
+p.Gly125Val,Rv0577,TB27.3
+p.Gly131Asp,Rv2796c,lppV
+p.Gly133Asp,Rv0295c,
+p.Gly135Arg,Rv2679,echA15
+p.Gly135fs,Rv3067,
+p.Gly138Arg,Rv1175c,fadH
+p.Gly138Glu,Rv3853,rraA
+p.Gly143Arg,Rv2812,
+p.Gly145Ser,Rv1104,
+p.Gly145Ser,Rv1694,tlyA
+p.Gly14Asp,Rv3592,mhuD
+p.Gly153Arg,Rv0576,
+p.Gly155fs,Rv2780,ald
+p.Gly155Val,Rv0341,iniB
+p.Gly156Asp,Rv0231,fadE4
+p.Gly157fs,Rv3241c,
+p.Gly157Ser,Rv2938,drrC
+p.Gly159Asp,Rv2473,
+p.Gly159Cys,Rv1391,dfp
+p.Gly15Arg,Rv2492,
+p.Gly160Glu,Rv0114,gmhB
+p.Gly161fs,Rv1421,
+p.Gly165Ser,Rv1015c,rplY
+p.Gly166Arg,Rv2787,
+p.Gly167Ser,Rv3302c,glpD2
+p.Gly173Ser,Rv0002,dnaN
+p.Gly174Arg,Rv2241,aceE
+p.Gly177Ser,Rv0622,
+p.Gly178Ser,Rv3267,
+p.Gly179Arg,Rv2582,ppiB
+p.Gly17Ser,Rv1104,
+p.Gly181Arg,Rv3050c,
+p.Gly1840Arg,Rv1661,pks7
+p.Gly185Asp,Rv3493c,
+p.Gly187Cys,Rv2928,tesA
+p.Gly188Ser,Rv1314c,
+p.Gly190Val,Rv2215,dlaT
+p.Gly191Asp,Rv1896c,
+p.Gly192fs,Rv0975c,fadE13
+p.Gly196Val,Rv3286c,sigF
+p.Gly199Arg,Rv0713,
+p.Gly19Arg,Rv0010c,
+p.Gly19Asp,Rv1775,
+p.Gly203Ala,Rv0266c,oplA
+p.Gly205Ser,Rv3666c,dppA
+p.Gly206Val,Rv3401,
+p.Gly207Ser,Rv0066c,icd2
+p.Gly209Asp,Rv3910,
+p.Gly215Glu,Rv1323,fadA4
+p.Gly215Ser,Rv2232,ptkA
+p.Gly217_Val220del,Rv0341,iniB
+p.Gly218Ala,Rv0116c,ldtA
+p.Gly218Ala,Rv3829c,
+p.Gly21Ala,Rv0093c,
+p.Gly21Ala,Rv2654c,
+p.Gly220Cys,Rv1099c,glpX
+p.Gly224Val,Rv0758,phoR
+p.Gly228Glu,Rv0427c,xthA
+p.Gly234Val,Rv2670c,
+p.Gly237Asp,Rv3725,
+p.Gly237Ser,Rv0891c,
+p.Gly241Arg,Rv3436c,glmS
+p.Gly243Arg,Rv3428c,
+p.Gly243_Tyr244insTyrProAspGlnGlyGly,Rv0020c,fhaA
+p.Gly244Cys,Rv1860,apa
+p.Gly244Ser,Rv3340,metC
+p.Gly245Glu,Rv0456c,echA2
+p.Gly24Arg,Rv2043c,pncA
+p.Gly250Ser,Rv2723,
+p.Gly250Ser,Rv3068c,pgmA
+p.Gly251Asp,Rv3560c,fadE30
+p.Gly254Arg,Rv3693,
+p.Gly255Ser,Rv3212,
+p.Gly25Arg,Rv2037c,
+p.Gly266Arg,Rv0217c,lipW
+p.Gly268Asp,Rv3806c,ubiA
+p.Gly269Ser,Rv1552,frdA
+p.Gly270Asp,Rv0604,lpqO
+p.Gly270fs,Rv1718,
+p.Gly272Ala,Rv0725c,
+p.Gly272fs,Rv1366A,
+p.Gly274Glu,Rv1232c,
+p.Gly278Arg,Rv3394c,
+p.Gly278Ser,Rv2030c,
+p.Gly281Ala,Rv1794,
+p.Gly283Arg,Rv2963,
+p.Gly283Ser,Rv0118c,oxcA
+p.Gly288fs,Rv3754,tyrA
+p.Gly291Asp,Rv1511,gmdA
+p.Gly294Ala,Rv1650,pheT
+p.Gly297Arg,Rv0568,cyp135B1
+p.Gly299Ala,Rv0111,
+p.Gly2Ser,Rv2887,
+p.Gly313Arg,Rv0772,purD
+p.Gly31Cys,Rv3092c,
+p.Gly31Ser,Rv3457c,rpoA
+p.Gly325Asp,Rv0728c,serA2
+p.Gly329Asp,Rv2394,ggtB
+p.Gly32Arg,Rv1776c,
+p.Gly32Ser,Rv1970,lprM
+p.Gly32Ser,Rv2428,ahpC
+p.Gly32Ser,Rv2586c,secF
+p.Gly331Cys,Rv2139,pyrD
+p.Gly33Asp,Rv0260c,
+p.Gly341Ser,Rv0914c,
+p.Gly344Asp,Rv0191,
+p.Gly346Arg,Rv1384,carB
+p.Gly354Ser,Rv3825c,pks2
+p.Gly358Cys,Rv3778c,
+p.Gly361Val,Rv1129c,
+p.Gly362fs,Rv3776,
+p.Gly365Ser,Rv1552,frdA
+p.Gly367Ala,Rv0490,senX3
+p.Gly368Asp,Rv3758c,proV
+p.Gly36Ser,Rv1289,
+p.Gly378Ser,Rv0327c,cyp135A1
+p.Gly37Ala,Rv3919c,gid
+p.Gly37Ser,Rv3874,esxB
+p.Gly384Ser,Rv1364c,
+p.Gly385Asp,Rv1315,murA
+p.Gly38_Pro40del,Rv2579,dhaA
+p.Gly391Arg,Rv1258c,
+p.Gly397Ala,Rv0783c,emrB
+p.Gly39Cys,Rv3506,fadD17
+p.Gly3Arg,Rv2342,
+p.Gly401Ala,Rv3894c,eccC2
+p.Gly418*,Rv0913c,
+p.Gly41Asp,Rv0367c,
+p.Gly429Asp,Rv0890c,
+p.Gly438Val,Rv1614,lgt
+p.Gly43Cys,Rv3854c,ethA
+p.Gly442Glu,Rv0667,rpoB
+p.Gly44Asp,Rv2552c,aroE
+p.Gly454fs,Rv3884c,eccA2
+p.Gly459Ser,Rv1148c,
+p.Gly465Val,Rv2320c,rocE
+p.Gly474Arg,Rv1183,mmpL10
+p.Gly475Ser,Rv0457c,
+p.Gly47Asp,Rv2214c,ephD
+p.Gly489Ser,Rv0172,mce1D
+p.Gly495Asp,Rv0373c,
+p.Gly497Asp,Rv0861c,ercc3
+p.Gly498Asp,Rv1536,ileS
+p.Gly514Arg,Rv2391,sirA
+p.Gly523Asp,Rv0120c,fusA2
+p.Gly52Ser,Rv0584,
+p.Gly551Arg,Rv0373c,
+p.Gly560Arg,Rv2931,ppsA
+p.Gly56Arg,Rv2451,
+p.Gly56Ser,Rv0243,fadA2
+p.Gly56Ser,Rv2513,
+p.Gly56Trp,Rv2478c,
+p.Gly578Asp,Rv1185c,fadD21
+p.Gly58Asp,Rv2554c,
+p.Gly59Asp,Rv1877,
+p.Gly614Arg,Rv3649,
+p.Gly615Arg,Rv0669c,
+p.Gly61Asp,Rv0708,rplP
+p.Gly621Ala,Rv0584,
+p.Gly637Arg,Rv2192c,trpD
+p.Gly64Cys,Rv2304c,
+p.Gly65Asp,Rv3393,iunH
+p.Gly68Ser,Rv0997,
+p.Gly69Ala,Rv3168,
+p.Gly706Ala,Rv1475c,acn
+p.Gly714Ser,Rv3370c,dnaE2
+p.Gly71Asp,Rv1218c,
+p.Gly71*,Rv3919c,gid
+p.Gly72Arg,Rv0010c,
+p.Gly72Arg,Rv3826,fadD23
+p.Gly72Asp,Rv2464c,
+p.Gly73Ala,Rv2334,cysK1
+p.Gly73fs,Rv1625c,cya
+p.Gly74Cys,Rv3359,
+p.Gly774Ala,Rv1661,pks7
+p.Gly775Ser,Rv3401,
+p.Gly78Arg,Rv1344,mbtL
+p.Gly78del,Rv2776c,
+p.Gly78fs,Rv2333c,stp
+p.Gly7Ser,Rv3909,
+p.Gly80Arg,Rv2437,
+p.Gly81Cys,Rv1529,fadD24
+p.Gly82Arg,Rv3319,sdhB
+p.Gly84_Arg87del,Rv3197A,whiB7
+p.Gly84Asp,Rv1140,
+p.Gly86Arg,Rv3574,kstR
+p.Gly87Asp,Rv2273,
+p.Gly88Arg,Rv1663,pks17
+p.Gly92Arg,Rv0058,dnaB
+p.Gly92fs,Rv0620,galK
+p.Gly93Cys,Rv1490,
+p.Gly94Asp,Rv3090,
+p.Gly94Glu,Rv1228,lpqX
+p.Gly950Ser,Rv2124c,metH
+p.Gly951Glu,Rv2967c,pca
+p.Gly969Arg,Rv2933,ppsC
+p.Gly96Glu,Rv3254,
+p.Gly984Cys,Rv2590,fadD9
+p.Gly98Arg,Rv3486,
+p.Gly99Arg,Rv3645,
+p.Gly9Arg,Rv3252c,alkB
+p.Gly9Asp,Rv0105c,rpmB1
+p.His102Arg,Rv3189,
+p.His105Arg,Rv1602,hisH
+p.His105Arg,Rv2252,
+p.His107Pro,Rv3309c,upp
+p.His108fs,Rv0057,
+p.His110Tyr,Rv3818,
+p.His111Pro,Rv0057,
+p.His113Arg,Rv0004,
+p.His126Tyr,Rv1814,erg3
+p.His134Leu,Rv2917,
+p.His136Arg,Rv1830,
+p.His13Tyr,Rv2455c,
+p.His141Asn,Rv2835c,ugpA
+p.His154Asp,Rv3737,
+p.His15Tyr,Rv3392c,cmaA1
+p.His165Gln,Rv0311,
+p.His166Arg,Rv2906c,trmD
+p.His185Tyr,Rv3644c,
+p.His1883Tyr,Rv1527c,pks5
+p.His188Pro,Rv0182c,sigG
+p.His18fs,Rv0923c,
+p.His192Gln,Rv1372,
+p.His201Gln,Rv2323c,
+p.His203fs,Rv0029,
+p.His209Arg,Rv2332,mez
+p.His212Tyr,Rv1427c,fadD12
+p.His22fs,Rv3854c,ethA
+p.His22Tyr,Rv2174,mptA
+p.His234Gln,Rv3300c,
+p.His244Gln,Rv0588,yrbE2B
+p.His247Tyr,Rv0106,
+p.His252Arg,Rv2495c,bkdC
+p.His25Pro,Rv0646c,lipG
+p.His265Pro,Rv3239c,
+p.His26Pro,Rv0487,
+p.His288Pro,Rv3879c,espK
+p.His296Tyr,Rv1079,metB
+p.His297fs,Rv1981c,nrdF1
+p.His299Pro,Rv3397c,phyA
+p.His302Pro,Rv2566,
+p.His304Arg,Rv2713,sthA
+p.His305Pro,Rv2351c,plcA
+p.His312Asp,Rv3305c,amiA1
+p.His31Tyr,Rv0981,mprA
+p.His329fs,Rv2950c,fadD29
+p.His33Tyr,Rv0713,
+p.His344Gln,Rv2176,pknL
+p.His34Arg,Rv0061c,
+p.His350Tyr,Rv0785,
+p.His384Tyr,Rv1726,
+p.His391fs,Rv1194c,
+p.His391Pro,Rv2800,
+p.His393Arg,Rv3903c,
+p.His396Tyr,Rv2723,
+p.His403Asp,Rv0405,pks6
+p.His410Arg,Rv2947c,pks15
+p.His429Arg,Rv3409c,choD
+p.His42Arg,Rv0342,iniA
+p.His433fs,Rv3734c,tgs2
+p.His438Pro,Rv2060,
+p.His463Arg,Rv3728,
+p.His479Pro,Rv3871,eccCb1
+p.His4fs,Rv3854c,ethA
+p.His4Tyr,Rv0949,uvrD1
+p.His50Tyr,Rv0891c,
+p.His518Arg,Rv3061c,fadE22
+p.His53Asn,Rv2464c,
+p.His578Tyr,Rv1328,glgP
+p.His57Arg,Rv2043c,pncA
+p.His57Asp,Rv2043c,pncA
+p.His592Pro,Rv2082,
+p.His59Tyr,Rv0918,
+p.His5Arg,Rv1938,ephB
+p.His62Pro,Rv0497,
+p.His67Asn,Rv0825c,
+p.His68fs,Rv1694,tlyA
+p.His69fs,Rv2042c,
+p.His6Arg,Rv3214,gpm2
+p.His70Arg,Rv0013,trpG
+p.His778Pro,Rv3296,lhr
+p.His77Asp,Rv2760c,vapB42
+p.His7Pro,Rv0412c,
+p.His83Pro,Rv1002c,
+p.His84Pro,Rv0663,atsD
+p.His95Tyr,Rv1339,
+p.His95Tyr,Rv1698,mctB
+p.His97fs,Rv3069,
+p.His99Arg,Rv0670,end
+p.Ile101fs,Rv1729c,
+p.Ile1042fs,Rv3239c,
+p.Ile108Val,Rv1490,
+p.Ile109Thr,Rv2019,
+p.Ile1106Thr,Rv0667,rpoB
+p.Ile1120Val,Rv1358,
+p.Ile113Thr,Rv0917,betP
+p.Ile113Val,Rv0527,ccdA
+p.Ile114Val,Rv1431,
+p.Ile121Val,Rv2359,zur
+p.Ile126Met,Rv3202c,
+p.Ile126Val,Rv0240,vapC24
+p.Ile129Val,Rv0374c,
+p.Ile130Thr,Rv2884,
+p.Ile135Val,Rv0423c,thiC
+p.Ile139Thr,Rv1349,irtB
+p.Ile13Met,Rv0905,echA6
+p.Ile13Val,Rv0104,
+p.Ile142Val,Rv2476c,gdh
+p.Ile149Val,Rv2958c,
+p.Ile154Thr,Rv0789c,
+p.Ile157Thr,Rv1869c,
+p.Ile158Val,Rv3764c,tcrY
+p.Ile15Ser,Rv1206,fadD6
+p.Ile162Val,Rv3131,
+p.Ile165Val,Rv2026c,
+p.Ile170Val,Rv3806c,ubiA
+p.Ile175Thr,Rv1273c,
+p.Ile175Val,Rv0844c,narL
+p.Ile178Met,Rv0940c,
+p.Ile190fs,Rv1984c,cfp21
+p.Ile195Val,Rv0318c,
+p.Ile199Thr,Rv0612,
+p.Ile200Val,Rv0119,fadD7
+p.Ile201fs,Rv3729,
+p.Ile211del,Rv1501,
+p.Ile21Thr,Rv3224,
+p.Ile233Val,Rv2569c,
+p.Ile247Asn,Rv1354c,
+p.Ile247Thr,Rv0116c,ldtA
+p.Ile247Thr,Rv1317c,alkA
+p.Ile249fs,Rv0142,
+p.Ile264Met,Rv0143c,
+p.Ile267Thr,Rv2955c,
+p.Ile268Ser,Rv0849,
+p.Ile275Thr,Rv1101c,
+p.Ile280Val,Rv2156c,murX
+p.Ile299del,Rv0551c,fadD8
+p.Ile299Leu,Rv0492c,
+p.Ile30Thr,Rv1119c,
+p.Ile319Val,Rv3869,eccB1
+p.Ile335Val,Rv1908c,katG
+p.Ile335Val,Rv2586c,secF
+p.Ile342Val,Rv3003c,ilvB1
+p.Ile348del,Rv0392c,ndhA
+p.Ile365Val,Rv0173,lprK
+p.Ile376Leu,Rv2522c,
+p.Ile377fs,Rv3854c,ethA
+p.Ile38Val,Rv1976c,
+p.Ile397Leu,Rv3080c,pknK
+p.Ile410Met,Rv2974c,
+p.Ile412Val,Rv1292,argS
+p.Ile419Val,Rv1568,bioA
+p.Ile43Ser,Rv2447c,folC
+p.Ile44Leu,Rv1532c,
+p.Ile45Met,Rv1063c,
+p.Ile470Phe,Rv0234c,gabD1
+p.Ile477Val,Rv3728,
+p.Ile482Val,Rv2101,helZ
+p.Ile491Val,Rv1832,gcvB
+p.Ile495Ser,Rv3824c,papA1
+p.Ile4Val,Rv2651c,
+p.Ile4Val,Rv2685,arsB1
+p.Ile509Val,Rv3871,eccCb1
+p.Ile50Thr,Rv3029c,fixA
+p.Ile51Thr,Rv2277c,
+p.Ile54Thr,Rv0653c,
+p.Ile560Val,Rv3436c,glmS
+p.Ile561Thr,Rv2264c,
+p.Ile575Val,Rv3296,lhr
+p.Ile627Val,Rv2874,dipZ
+p.Ile67fs,Rv0678,
+p.Ile68Val,Rv2127,ansP1
+p.Ile68Val,Rv2454c,
+p.Ile697Val,Rv2566,
+p.Ile698Met,Rv2583c,relA
+p.Ile6Val,Rv0263c,
+p.Ile752Leu,Rv3193c,
+p.Ile792Val,Rv1384,carB
+p.Ile806Thr,Rv1638,uvrA
+p.Ile819Thr,Rv1937,
+p.Ile837Val,Rv3646c,topA
+p.Ile85Val,Rv3585,radA
+p.Ile8Met,Rv3578,arsB2
+p.Ile908Ser,Rv1638,uvrA
+p.Ile9Leu,Rv3466,
+p.Leu101Pro,Rv2897c,
+p.Leu102Met,Rv3742c,
+p.Leu107Phe,Rv1429,
+p.Leu108Val,Rv1857,modA
+p.Leu109fs,Rv1200,
+p.Leu109Val,Rv2236c,cobD
+p.Leu1100Pro,Rv3296,lhr
+p.Leu113Arg,Rv3423c,alr
+p.Leu113Phe,Rv1345,mbtM
+p.Leu115Phe,Rv3697c,vapC48
+p.Leu117del,Rv2645,
+p.Leu119Arg,Rv3470c,ilvB2
+p.Leu120Pro,Rv2043c,pncA
+p.Leu120Val,Rv2502c,accD1
+p.Leu122Met,Rv1458c,
+p.Leu122Ser,Rv2456c,
+p.Leu123Arg,Rv2787,
+p.Leu124Trp,Rv0171,mce1C
+p.Leu1270Met,Rv0284,eccC3
+p.Leu1280Phe,Rv0101,nrp
+p.Leu128Met,Rv1614,lgt
+p.Leu12Ile,Rv2016,
+p.Leu131fs,Rv1256c,cyp130
+p.Leu131Ser,Rv1142c,echA10
+p.Leu133Arg,Rv1255c,
+p.Leu142Ser,Rv0173,lprK
+p.Leu149_Ala161del,Rv1217c,
+p.Leu153Ile,Rv1576c,
+p.Leu153Met,Rv1968,mce3C
+p.Leu154Phe,Rv1307,atpH
+p.Leu156Pro,Rv2043c,pncA
+p.Leu157Arg,Rv1363c,
+p.Leu158Met,Rv1461,
+p.Leu15Val,Rv0758,phoR
+p.Leu160Pro,Rv1378c,
+p.Leu162Phe,Rv3167c,
+p.Leu162Pro,Rv3328c,sigJ
+p.Leu162Val,Rv1232c,
+p.Leu163Arg,Rv1568,bioA
+p.Leu163Val,Rv2425c,
+p.Leu164Arg,Rv0147,
+p.Leu167Arg,Rv0158,
+p.Leu169Met,Rv2508c,
+p.Leu170Arg,Rv2164c,
+p.Leu170fs,Rv1490,
+p.Leu170Phe,Rv0023,
+p.Leu172Pro,Rv2043c,pncA
+p.Leu175Pro,Rv0867c,rpfA
+p.Leu177Val,Rv3249c,
+p.Leu178Arg,Rv2841c,nusA
+p.Leu17fs,Rv2902c,rnhB
+p.Leu181Pro,Rv3271c,
+p.Leu182Ser,Rv0770,
+p.Leu201fs,Rv3881c,espB
+p.Leu205Pro,Rv3854c,ethA
+p.Leu210Val,Rv0949,uvrD1
+p.Leu217Val,Rv3635,
+p.Leu21Phe,Rv1237,sugB
+p.Leu221Arg,Rv3529c,
+p.Leu222Phe,Rv0758,phoR
+p.Leu228Pro,Rv1912c,fadB5
+p.Leu232fs,Rv1151c,
+p.Leu23fs,Rv0599c,vapB27
+p.Leu23Ser,Rv2546,vapC18
+p.Leu241Pro,Rv2679,echA15
+p.Leu243Arg,Rv3843c,
+p.Leu245Phe,Rv3101c,ftsX
+p.Leu245Pro,Rv3093c,
+p.Leu250Arg,Rv2264c,
+p.Leu250Phe,Rv2995c,leuB
+p.Leu251Phe,Rv2027c,dosT
+p.Leu251Pro,Rv1834,lipZ
+p.Leu253Phe,Rv3848,
+p.Leu269fs,Rv3485c,
+p.Leu275Pro,Rv2000,
+p.Leu27fs,Rv2308,
+p.Leu282Val,Rv1938,ephB
+p.Leu294fs,Rv2780,ald
+p.Leu29Arg,Rv2133c,
+p.Leu310fs,Rv1336,cysM
+p.Leu310Gln,Rv3032,
+p.Leu324Pro,Rv1971,mce3F
+p.Leu332Phe,Rv1464,csd
+p.Leu336Val,Rv2092c,helY
+p.Leu348Val,Rv3795,embB
+p.Leu350Phe,Rv2942,mmpL7
+p.Leu354fs,Rv2329c,narK1
+p.Leu35Arg,Rv1401,
+p.Leu361fs,Rv2918c,glnD
+p.Leu362Pro,Rv3252c,alkB
+p.Leu366fs,Rv0888,
+p.Leu366Met,Rv3775,lipE
+p.Leu386Ile,Rv2416c,eis
+p.Leu391Val,Rv1842c,
+p.Leu396fs,Rv2339,mmpL9
+p.Leu398Arg,Rv3239c,
+p.Leu398Val,Rv2153c,murG
+p.Leu399dup,Rv1923,lipD
+p.Leu39Arg,Rv0183,
+p.Leu39Val,Rv1062,
+p.Leu3Pro,Rv0928,pstS3
+p.Leu402Val,Rv3795,embB
+p.Leu405Pro,Rv0092,ctpA
+p.Leu409Ser,Rv2100,
+p.Leu410Val,Rv2920c,amt
+p.Leu415Ser,Rv1286,cysN
+p.Leu418Pro,Rv0261c,narK3
+p.Leu41Ser,Rv2254c,
+p.Leu439Arg,Rv2092c,helY
+p.Leu442Ile,Rv3826,fadD23
+p.Leu457fs,Rv3854c,ethA
+p.Leu462Pro,Rv1329c,dinG
+p.Leu470Val,Rv1292,argS
+p.Leu484fs,Rv2459,
+p.Leu49Val,Rv2643,arsC
+p.Leu4Pro,Rv1156,
+p.Leu503Val,Rv1992c,ctpG
+p.Leu507Val,Rv0668,rpoC
+p.Leu508Phe,Rv1442,bisC
+p.Leu52Phe,Rv2467,pepN
+p.Leu53fs,Rv2305,
+p.Leu551fs,Rv1819c,bacA
+p.Leu55Val,Rv2070c,cobK
+p.Leu571Arg,Rv2566,
+p.Leu57Arg,Rv1831,
+p.Leu57fs,Rv0433,
+p.Leu5Pro,Rv1880c,cyp140
+p.Leu619Pro,Rv2079,
+p.Leu61Pro,Rv2994,
+p.Leu637Phe,Rv3903c,
+p.Leu639fs,Rv0931c,pknD
+p.Leu63Arg,Rv1032c,trcS
+p.Leu689Pro,Rv1251c,
+p.Leu68Val,Rv0882,
+p.Leu68Val,Rv1073,
+p.Leu68Val,Rv3578,arsB2
+p.Leu701Val,Rv0630c,recB
+p.Leu71fs,Rv1489A,
+p.Leu72Pro,Rv0047c,
+p.Leu74Phe,Rv0944,
+p.Leu758Phe,Rv1992c,ctpG
+p.Leu75Phe,Rv2280,
+p.Leu769Met,Rv2932,ppsB
+p.Leu76Val,Rv1715,fadB3
+p.Leu776Pro,Rv0890c,
+p.Leu77Val,Rv1699,pyrG
+p.Leu79Phe,Rv1831,
+p.Leu79Pro,Rv1671,
+p.Leu80Pro,Rv3156,nuoL
+p.Leu80Val,Rv0426c,
+p.Leu81Phe,Rv2638,
+p.Leu83Phe,Rv0569,
+p.Leu84Val,Rv3644c,
+p.Leu85Val,Rv1483,fabG1
+p.Leu89Phe,Rv0840c,pip
+p.Lys100Gln,Rv3100c,smpB
+p.Lys10Arg,Rv1952,vapB14
+p.Lys113Asn,Rv2878c,mpt53
+p.Lys154Asn,Rv2858c,aldC
+p.Lys154Glu,Rv1286,cysN
+p.Lys165Asn,Rv3795,embB
+p.Lys181Thr,Rv2963,
+p.Lys183fs,Rv1714,
+p.Lys183Met,Rv0407,fgd1
+p.Lys18*,Rv2274c,mazF8
+p.Lys201Thr,Rv2969c,
+p.Lys203Asn,Rv1938,ephB
+p.Lys218Arg,Rv3234c,tgs3
+p.Lys255*,Rv1662,pks8
+p.Lys267fs,Rv0115,hddA
+p.Lys26Glu,Rv3284,
+p.Lys270Gln,Rv1189,sigI
+p.Lys282Arg,Rv0018c,pstP
+p.Lys296Arg,Rv0407,fgd1
+p.Lys309fs,Rv3854c,ethA
+p.Lys31fs,Rv1694,tlyA
+p.Lys323Glu,Rv2951c,
+p.Lys32Thr,Rv0369c,
+p.Lys34Asn,Rv3543c,fadE29
+p.Lys41Glu,Rv1416,ribH
+p.Lys442fs,Rv1522c,mmpL12
+p.Lys47Gln,Rv2300c,
+p.Lys4Asn,Rv0637,hadC
+p.Lys519Arg,Rv1821,secA2
+p.Lys51Glu,Rv1844c,gnd1
+p.Lys565Glu,Rv0284,eccC3
+p.Lys58fs,Rv2855,mtr
+p.Lys64Thr,Rv0032,bioF2
+p.Lys715Thr,Rv0668,rpoC
+p.Lys78Glu,Rv2969c,
+p.Lys848Gln,Rv0507,mmpL2
+p.Lys84Glu,Rv3173c,
+p.Lys88Gln,Rv0682,rpsL
+p.Lys94Thr,Rv1645c,
+p.LysAlaMet687AsnAlaVal,Rv0425c,ctpH
+p.Met106Ile,Rv0905,echA6
+p.Met115Thr,Rv1900c,lipJ
+p.Met11Ile,Rv0315,
+p.Met124Ile,Rv3026c,
+p.Met125Thr,Rv3825c,pks2
+p.Met131Ile,Rv2187,fadD15
+p.Met131Ile,Rv3465,rmlC
+p.Met137Val,Rv0216,
+p.Met1408Ile,Rv2048c,pks12
+p.Met154Ile,Rv2972c,
+p.Met155Val,Rv2714,
+p.Met157Ile,Rv2196,qcrB
+p.Met166Ile,Rv2918c,glnD
+p.Met169Ile,Rv3170,aofH
+p.Met176Ile,Rv3518c,cyp142
+p.Met176Val,Rv3277,
+p.Met179Leu,Rv0503c,cmaA2
+p.Met181fs,Rv1225c,
+p.Met191Val,Rv2090,
+p.Met196Leu,Rv1941,
+p.Met1fs,Rv2043c,pncA
+p.Met1?,Rv0275c,
+p.Met1?,Rv0294,tam
+p.Met1?,Rv1893,
+p.Met1?,Rv2274c,mazF8
+p.Met1?,Rv2760c,vapB42
+p.Met1?,Rv3389c,htdY
+p.Met208Ile,Rv2607,pdxH
+p.Met20Thr,Rv0146,
+p.Met211fs,Rv3470c,ilvB2
+p.Met224Ile,Rv3401,
+p.Met226Arg,Rv0573c,pncB2
+p.Met245Thr,Rv0402c,mmpL1
+p.Met250Ile,Rv2834c,ugpE
+p.Met252fs,Rv0142,
+p.Met253Ile,Rv1464,csd
+p.Met268Ile,Rv1464,csd
+p.Met281Thr,Rv1001,arcA
+p.Met28Val,Rv3290c,lat
+p.Met296Thr,Rv1372,
+p.Met299Ile,Rv1212c,glgA
+p.Met312Val,Rv1796,mycP5
+p.Met32Thr,Rv0077c,
+p.Met343Thr,Rv3423c,alr
+p.Met423Thr,Rv3795,embB
+p.Met427Ile,Rv1263,amiB2
+p.Met442Ile,Rv0221,
+p.Met452Leu,Rv0647c,
+p.Met497Val,Rv0226c,
+p.Met498Ile,Rv0629c,recD
+p.Met50Ile,Rv2176,pknL
+p.Met624Ile,Rv1908c,katG
+p.Met63Thr,Rv3736,
+p.Met74Arg,Rv1421,
+p.Met82Ile,Rv0059,
+p.Met89Arg,Rv2540c,aroF
+p.Met93Ile,Rv2052c,
+p.Met97Ile,Rv2046,lppI
+p.MetAsp434IleTyr,Rv0667,rpoB
+p.Phe102Ser,Rv1908c,katG
+p.Phe1042Val,Rv1161,narG
+p.Phe105Leu,Rv3528c,
+p.Phe107Ile,Rv0212c,nadR
+p.Phe108Val,Rv0369c,
+p.Phe10Leu,Rv1130,prpD
+p.Phe110Ser,Rv3263,
+p.Phe1138Val,Rv2124c,metH
+p.Phe122Leu,Rv0554,bpoC
+p.Phe123Val,Rv1427c,fadD12
+p.Phe125Leu,Rv0949,uvrD1
+p.Phe126Val,Rv0054,ssb
+p.Phe1276Leu,Rv2006,otsB1
+p.Phe127Leu,Rv1154c,
+p.Phe1327Leu,Rv2476c,gdh
+p.Phe132Leu,Rv0876c,
+p.Phe1335Val,Rv3296,lhr
+p.Phe137fs,Rv3639c,
+p.Phe13Leu,Rv2043c,pncA
+p.Phe156Leu,Rv0914c,
+p.Phe1660Leu,Rv0101,nrp
+p.Phe172Ser,Rv2003c,
+p.Phe173fs,Rv0342,iniA
+p.Phe173Leu,Rv2498c,citE
+p.Phe18Val,Rv1894c,
+p.Phe204Cys,Rv0621,
+p.Phe209Leu,Rv1645c,
+p.Phe20Ala,Rv2366c,
+p.Phe213Val,Rv0584,
+p.Phe214Leu,Rv1138c,
+p.Phe230Leu,Rv2471,aglA
+p.Phe234Leu,Rv1681,moeX
+p.Phe239Leu,Rv0782,ptrBb
+p.Phe254Leu,Rv2984,ppk1
+p.Phe254Val,Rv2407,
+p.Phe259Val,Rv2836c,dinF
+p.Phe25Val,Rv0587,yrbE2A
+p.Phe25Val,Rv3071,
+p.Phe260Leu,Rv0650,
+p.Phe264Val,Rv2824c,
+p.Phe272Val,Rv0500,proC
+p.Phe2Val,Rv1359,
+p.Phe306Leu,Rv2212,
+p.Phe30Val,Rv0171,mce1C
+p.Phe336Leu,Rv0785,
+p.Phe354Ile,Rv3719,
+p.Phe374fs,Rv2281,pitB
+p.Phe383Leu,Rv2627c,
+p.Phe387Ser,Rv0227c,
+p.Phe39Ser,Rv0075,
+p.Phe3Ser,Rv1155,
+p.Phe417Val,Rv3645,
+p.Phe431Tyr,Rv1130,prpD
+p.Phe439Val,Rv2363,amiA2
+p.Phe43Val,Rv1590,
+p.Phe452Leu,Rv0668,rpoC
+p.Phe452Ser,Rv0668,rpoC
+p.Phe487Val,Rv2345,
+p.Phe4Leu,Rv3423c,alr
+p.Phe503Ser,Rv0667,rpoB
+p.Phe520Ser,Rv3663c,dppD
+p.Phe535Leu,Rv3793,embC
+p.Phe555fs,Rv0271c,fadE6
+p.Phe55Ser,Rv1654,argB
+p.Phe567Leu,Rv1908c,katG
+p.Phe64Cys,Rv0881,
+p.Phe661Ser,Rv0058,dnaB
+p.Phe83Val,Rv2948c,fadD22
+p.Phe854fs,Rv0194,
+p.Phe872Val,Rv1661,pks7
+p.Phe92Val,Rv0849,
+p.Phe97fs,Rv1087A,
+p.PheLeu733LeuIle,Rv0584,
+p.Pro100fs,Rv3705A,
+p.Pro103Arg,Rv2698,
+p.Pro103Leu,Rv2948c,fadD22
+p.Pro103Ser,Rv3123,
+p.Pro109Arg,Rv2782c,pepR
+p.Pro10Ser,Rv0064A,vapB1
+p.Pro1101Ser,Rv3296,lhr
+p.Pro1165Ser,Rv2383c,mbtB
+p.Pro116Leu,Rv1446c,opcA
+p.Pro117Arg,Rv3432c,gadB
+p.Pro119Ser,Rv0714,rplN
+p.Pro11Leu,Rv1685c,
+p.Pro11Ser,Rv3442c,rpsI
+p.Pro120Ser,Rv3828c,
+p.Pro121Ser,Rv1958c,
+p.Pro129Leu,Rv2159c,
+p.Pro130Gln,Rv0835,lpqQ
+p.Pro130Ser,Rv3863,
+p.Pro130Thr,Rv2485c,lipQ
+p.Pro133Ser,Rv0594,mce2F
+p.Pro136fs,Rv2577,
+p.Pro138Ala,Rv3649,
+p.Pro139Leu,Rv2235,
+p.Pro141Arg,Rv3918c,parA
+p.Pro141Ser,Rv1907c,
+p.Pro143Leu,Rv0246,
+p.Pro145fs,Rv0963c,
+p.Pro146Leu,Rv1014c,pth
+p.Pro1516Leu,Rv2933,ppsC
+p.Pro152His,Rv0273c,
+p.Pro157Leu,Rv1004c,
+p.Pro157Leu,Rv1304,atpB
+p.Pro159Ser,Rv1118c,
+p.Pro15Leu,Rv2337c,
+p.Pro162Arg,Rv0089,
+p.Pro164Leu,Rv1358,
+p.Pro165Ser,Rv0004,
+p.Pro172Leu,Rv3606c,folK
+p.Pro178fs,Rv0625c,
+p.Pro181Ser,Rv1531,
+p.Pro182Ser,Rv2890c,rpsB
+p.Pro184Leu,Rv1065,
+p.Pro187Thr,Rv1427c,fadD12
+p.Pro189Ser,Rv1385,pyrF
+p.Pro192Arg,Rv0711,atsA
+p.Pro192Thr,Rv1115,
+p.Pro193Ser,Rv3127,
+p.Pro209Ser,Rv3160c,
+p.Pro219Leu,Rv1550,fadD11
+p.Pro21Arg,Rv0186,bglS
+p.Pro231Leu,Rv0409,ackA
+p.Pro231Leu,Rv1407,fmu
+p.Pro234Leu,Rv0899,ompA
+p.Pro237Ala,Rv3130c,tgs1
+p.Pro239Arg,Rv2884,
+p.Pro23Arg,Rv3705A,
+p.Pro241Ser,Rv3003c,ilvB1
+p.Pro241Ser,Rv3587c,
+p.Pro246fs,Rv3889c,espG2
+p.Pro246Leu,Rv0118c,oxcA
+p.Pro246Ser,Rv2315c,
+p.Pro24Gln,Rv0680c,
+p.Pro251Leu,Rv0899,ompA
+p.Pro252Thr,Rv3365c,
+p.Pro253Ala,Rv2764c,thyA
+p.Pro256Ser,Rv2832c,ugpC
+p.Pro259Ser,Rv0415,thiO
+p.Pro262Ser,Rv0174,mce1F
+p.Pro263Ser,Rv2715,
+p.Pro263_Thr266del,Rv1526c,
+p.Pro273Leu,Rv3761c,fadE36
+p.Pro276Ser,Rv1832,gcvB
+p.Pro278Arg,Rv2962c,
+p.Pro281Ala,Rv0015c,pknA
+p.Pro283Ser,Rv0168,yrbE1B
+p.Pro289Leu,Rv0983,pepD
+p.Pro28Thr,Rv1663,pks17
+p.Pro290Ser,Rv1230c,
+p.Pro299Ser,Rv1564c,treX
+p.Pro2fs,Rv2849c,cobO
+p.Pro2Ser,Rv0683,rpsG
+p.Pro2Ser,Rv1320c,
+p.Pro2Ser,Rv2671,ribD
+p.Pro300Thr,Rv3787c,
+p.Pro301_Ala316del,Rv0867c,rpfA
+p.Pro304Leu,Rv0035,fadD34
+p.Pro305Leu,Rv0711,atsA
+p.Pro314Leu,Rv0785,
+p.Pro316Leu,Rv2338c,moeW
+p.Pro317Thr,Rv0492c,
+p.Pro319Leu,Rv2072c,cobL
+p.Pro32Leu,Rv2867c,
+p.Pro330Ala,Rv1551,plsB1
+p.Pro333Ala,Rv0522,gabP
+p.Pro333Leu,Rv3804c,fbpA
+p.Pro336Ser,Rv3229c,desA3
+p.Pro338Gln,Rv0867c,rpfA
+p.Pro346Ser,Rv0648,
+p.Pro347Ala,Rv2614c,thrS
+p.Pro347_Ser348delinsAla,Rv3616c,espA
+p.Pro349_Ala352del,Rv3822,
+p.Pro350Ser,Rv2339,mmpL9
+p.Pro355fs,Rv2888c,amiC
+p.Pro355Leu,Rv3330,dacB1
+p.Pro361fs,Rv2285,
+p.Pro363Gln,Rv0465c,
+p.Pro367Gln,Rv1215c,
+p.Pro372Ser,Rv1743,pknE
+p.Pro374Leu,Rv3884c,eccA2
+p.Pro37Leu,Rv2451,
+p.Pro391Ser,Rv3433c,
+p.Pro396Leu,Rv1266c,pknH
+p.Pro397Thr,Rv3795,embB
+p.Pro399Ala,Rv3825c,pks2
+p.Pro39Leu,Rv3331,sugI
+p.Pro405Thr,Rv0143c,
+p.Pro417Thr,Rv1639c,
+p.Pro418His,Rv0373c,
+p.Pro419Ser,Rv3825c,pks2
+p.Pro422Leu,Rv0087,hycE
+p.Pro429Leu,Rv3835,
+p.Pro434Arg,Rv1661,pks7
+p.Pro43Ala,Rv1615,
+p.Pro45Ser,Rv0306,
+p.Pro45Ser,Rv0667,rpoB
+p.Pro45Ser,Rv1253,deaD
+p.Pro45Thr,Rv3886c,mycP2
+p.Pro461Arg,Rv0014c,pknB
+p.Pro462Leu,Rv3825c,pks2
+p.Pro473Arg,Rv1186c,
+p.Pro477Leu,Rv2721c,
+p.Pro497Leu,Rv2733c,
+p.Pro4Ser,Rv1985c,
+p.Pro504Thr,Rv0064,
+p.Pro51Arg,Rv2157c,murF
+p.Pro51His,Rv3854c,ethA
+p.Pro51Leu,Rv2271,
+p.Pro526Leu,Rv2482c,plsB2
+p.Pro534Ser,Rv0206c,mmpL3
+p.Pro53His,Rv0899,ompA
+p.Pro53Ser,Rv1485,hemZ
+p.Pro54Leu,Rv2043c,pncA
+p.Pro55Ala,Rv1665,pks11
+p.Pro563His,Rv2934,ppsD
+p.Pro56Ser,Rv2592c,ruvB
+p.Pro575dup,Rv2264c,
+p.Pro583Gln,Rv3299c,atsB
+p.Pro60Ala,Rv3663c,dppD
+p.Pro60Ser,Rv0620,galK
+p.Pro62Ser,Rv2043c,pncA
+p.Pro66Leu,Rv3898c,
+p.Pro67fs,Rv1985c,
+p.Pro68Ser,Rv3566A,
+p.Pro69Arg,Rv2043c,pncA
+p.Pro70Ser,Rv2378c,mbtG
+p.Pro73His,Rv0186,bglS
+p.Pro743Gln,Rv3193c,
+p.Pro74Ala,Rv0577,TB27.3
+p.Pro74Ala,Rv3860,
+p.Pro75Ser,Rv3919c,gid
+p.Pro76Gln,Rv0828c,
+p.Pro78Leu,Rv2237,
+p.Pro792Leu,Rv2379c,mbtF
+p.Pro84Ala,Rv0858c,dapC
+p.Pro86fs,Rv3797,fadE35
+p.Pro8Arg,Rv0373c,
+p.Pro8Ser,Rv3265c,wbbL1
+p.Pro927Leu,Rv0194,
+p.Pro930Leu,Rv3193c,
+p.Pro93Leu,Rv3209,
+p.Pro97fs,Rv2884,
+p.Pro97Leu,Rv0426c,
+p.Pro990Gln,Rv1662,pks8
+p.Pro9Ala,Rv3890c,esxC
+p.Pro9Ser,Rv0288,esxH
+p.ProLeu98AlaIle,Rv3770c,
+p.Ser102Gln,Rv1417,
+p.Ser106Ala,Rv3534c,hsaF
+p.Ser106Ala,Rv3573c,fadE34
+p.Ser106fs,Rv2636,
+p.Ser106Gly,Rv0039c,
+p.Ser10Asn,Rv0480c,
+p.Ser1115Pro,Rv0668,rpoC
+p.Ser112Pro,Rv2197c,
+p.Ser113Ala,Rv0358,
+p.Ser114Asn,Rv1375,
+p.Ser116Trp,Rv2112c,dop
+p.Ser118Arg,Rv1810,
+p.Ser118Pro,Rv1679,fadE16
+p.Ser119Pro,Rv1109c,
+p.Ser1207Asn,Rv2006,otsB1
+p.Ser1207Thr,Rv2006,otsB1
+p.Ser120Pro,Rv0758,phoR
+p.Ser121Pro,Rv2762c,
+p.Ser123Thr,Rv0051,
+p.Ser126Arg,Rv2875,mpt70
+p.Ser126Phe,Rv0522,gabP
+p.Ser128fs,Rv3080c,pknK
+p.Ser12del,Rv1416,ribH
+p.Ser12*,Rv1500,
+p.Ser130Arg,Rv1077,cbs
+p.Ser133Asn,Rv2270,lppN
+p.Ser134Pro,Rv2958c,
+p.Ser136Pro,Rv1312,
+p.Ser137Cys,Rv3132c,devS
+p.Ser139Pro,Rv1312,
+p.Ser140Arg,Rv1004c,
+p.Ser144Phe,Rv3856c,
+p.Ser144Pro,Rv1687c,
+p.Ser147Ala,Rv2613c,
+p.Ser1481Leu,Rv2476c,gdh
+p.Ser150Asn,Rv0229c,
+p.Ser150Leu,Rv0302,
+p.Ser153fs,Rv1303,
+p.Ser153*,Rv0486,mshA
+p.Ser162Phe,Rv0579,
+p.Ser164Pro,Rv2043c,pncA
+p.Ser165Ala,Rv1378c,
+p.Ser165Leu,Rv1797,eccE5
+p.Ser170Thr,Rv3878,espJ
+p.Ser171Cys,Rv3731,ligC
+p.Ser173Ala,Rv3806c,ubiA
+p.Ser17Leu,Rv2001,
+p.Ser188*,Rv2804c,
+p.Ser18fs,Rv2043c,pncA
+p.Ser18Gly,Rv3854c,ethA
+p.Ser190Pro,Rv1936,
+p.Ser194_Ala195dup,Rv1206,fadD6
+p.Ser197Phe,Rv3888c,
+p.Ser199Leu,Rv0848,cysK2
+p.Ser203fs,Rv1775,
+p.Ser20Ala,Rv1518,
+p.Ser210Asn,Rv2485c,lipQ
+p.Ser212Leu,Rv2864c,
+p.Ser217Tyr,Rv0044c,
+p.Ser219fs,Rv3099c,
+p.Ser223Pro,Rv3093c,
+p.Ser224Pro,Rv0883c,
+p.Ser227Pro,Rv1004c,
+p.Ser22Leu,Rv3423c,alr
+p.Ser231Ala,Rv1825,
+p.Ser232Gly,Rv2827c,
+p.Ser233Gly,Rv3311,
+p.Ser234Ala,Rv2150c,ftsZ
+p.Ser236Gly,Rv0537c,
+p.Ser237Cys,Rv0266c,oplA
+p.Ser246Ala,Rv2913c,
+p.Ser249Asn,Rv2860c,glnA4
+p.Ser24Phe,Rv2761c,hsdS
+p.Ser251fs,Rv3854c,ethA
+p.Ser252fs,Rv1694,tlyA
+p.Ser253Tyr,Rv3497c,mce4C
+p.Ser25Leu,Rv3232c,ppk2
+p.Ser270Asn,Rv0592,mce2D
+p.Ser272_Ile274dup,Rv2209,
+p.Ser277fs,Rv1097c,
+p.Ser277Gly,Rv1296,thrB
+p.Ser27Arg,Rv1735c,
+p.Ser27Leu,Rv3322c,
+p.Ser27Tyr,Rv0010c,
+p.Ser287Arg,Rv1682,
+p.Ser287Asn,Rv3199c,nudC
+p.Ser2Arg,Rv0547c,
+p.Ser2Gly,Rv0085,hycP
+p.Ser303Ala,Rv2351c,plcA
+p.Ser306Thr,Rv2476c,gdh
+p.Ser30Phe,Rv3591c,
+p.Ser318Ala,Rv1021,
+p.Ser319Ala,Rv2508c,
+p.Ser31Gly,Rv0432,sodC
+p.Ser322Asn,Rv0824c,desA1
+p.Ser326Arg,Rv3913,trxB2
+p.Ser326Asn,Rv3679,
+p.Ser337Asn,Rv1007c,metS
+p.Ser345Thr,Rv0711,atsA
+p.Ser354Arg,Rv2655c,
+p.Ser355Thr,Rv2555c,alaS
+p.Ser364Arg,Rv3252c,alkB
+p.Ser369Arg,Rv2739c,
+p.Ser375Tyr,Rv3854c,ethA
+p.Ser3Pro,Rv3014c,ligA
+p.Ser402Pro,Rv1877,
+p.Ser40Arg,Rv1285,cysD
+p.Ser40Phe,Rv2561,
+p.Ser418Ala,Rv2329c,narK1
+p.Ser420Pro,Rv2264c,
+p.Ser422Arg,Rv1378c,
+p.Ser423Pro,Rv0171,mce1C
+p.Ser425Ala,Rv0017c,rodA
+p.Ser426*,Rv0594,mce2F
+p.Ser429Ala,Rv0343,iniC
+p.Ser444Arg,Rv0897c,
+p.Ser447Phe,Rv0005,gyrB
+p.Ser452Ala,Rv3011c,gatA
+p.Ser464Gly,Rv0507,mmpL2
+p.Ser471Pro,Rv0373c,
+p.Ser475Cys,Rv2973c,recG
+p.Ser47Pro,Rv1136,
+p.Ser48Thr,Rv2258c,
+p.Ser49Phe,Rv2287,yjcE
+p.Ser4fs,Rv1261c,
+p.Ser504fs,Rv3270,ctpC
+p.Ser508fs,Rv3270,ctpC
+p.Ser512fs,Rv0186,bglS
+p.Ser513Ala,Rv1650,pheT
+p.Ser51Pro,Rv1537,dinX
+p.Ser520Gly,Rv1162,narH
+p.Ser52Arg,Rv0760c,
+p.Ser555Pro,Rv2264c,
+p.Ser566fs,Rv0197,
+p.Ser56Cys,Rv0407,fgd1
+p.Ser570Ala,Rv2934,ppsD
+p.Ser58Gly,Rv2607,pdxH
+p.Ser60Ala,Rv2733c,
+p.Ser62Ala,Rv0215c,fadE3
+p.Ser698Arg,Rv1640c,lysX
+p.Ser71Arg,Rv0612,
+p.Ser72Pro,Rv0082,
+p.Ser732fs,Rv3649,
+p.Ser74fs,Rv3434c,
+p.Ser74Ile,Rv1911c,lppC
+p.Ser77Pro,Rv1141c,echA11
+p.Ser78Phe,Rv1029,kdpA
+p.Ser7dup,Rv2790c,ltp1
+p.Ser80Arg,Rv0511,hemD
+p.Ser82Arg,Rv2151c,ftsQ
+p.Ser82Gly,Rv3233c,
+p.Ser836Phe,Rv3202c,
+p.Ser916Leu,Rv0284,eccC3
+p.Ser92Thr,Rv3848,
+p.Ser93Pro,Rv3398c,idsA1
+p.Ser955Arg,Rv2932,ppsB
+p.Ser95Gly,Rv1626,
+p.Ser96Ala,Rv3498c,mce4B
+p.Ser98Pro,Rv0802c,
+p.Ser9Phe,Rv2497c,bkdA
+p.Ter122Tyrext*?,Rv1311,atpC
+p.Ter123Argext*?,Rv2694c,
+p.Ter163Tyrext*?,Rv0245,
+p.Ter165Serext*?,Rv1120c,
+p.Ter271Trpext*?,Rv0817c,
+p.Ter324Gluext*?,Rv2077c,
+p.Ter394fs,Rv2625c,
+p.Ter482fs,Rv1630,rpsA
+p.Ter64Ter,Rv3643,
+p.Thr100Ile,Rv2043c,pncA
+p.Thr100Ser,Rv1929c,
+p.Thr101Asn,Rv2494,vapC38
+p.Thr101Asn,Rv2916c,ffh
+p.Thr103Ile,Rv2618,
+p.Thr103Pro,Rv3257c,pmmA
+p.Thr1055Ile,Rv3447c,eccC4
+p.Thr1064Pro,Rv2488c,
+p.Thr1072Pro,Rv0386,
+p.Thr112fs,Rv2855,mtr
+p.Thr112Pro,Rv0314c,
+p.Thr113Ile,Rv3248c,sahH
+p.Thr119Ala,Rv2250c,
+p.Thr121Ser,Rv2272,
+p.Thr122Ser,Rv0113,gmhA
+p.Thr124Pro,Rv0157,pntB
+p.Thr127Pro,Rv0539,
+p.Thr128Pro,Rv0377,
+p.Thr128Pro,Rv1312,
+p.Thr128Pro,Rv3731,ligC
+p.Thr129Ala,Rv3451,cut3
+p.Thr130Ala,Rv3379c,dxs2
+p.Thr131Ile,Rv1336,cysM
+p.Thr134Pro,Rv3055,
+p.Thr135Pro,Rv2043c,pncA
+p.Thr137Met,Rv0116c,ldtA
+p.Thr138Pro,Rv0610c,
+p.Thr139Pro,Rv1417,
+p.Thr143Lys,Rv3383c,idsB
+p.Thr143Pro,Rv0139,
+p.Thr1449Pro,Rv2048c,pks12
+p.Thr145Ala,Rv0077c,
+p.Thr146Ile,Rv0555,menD
+p.Thr147Pro,Rv1860,apa
+p.Thr14Ala,Rv3673c,
+p.Thr150Ala,Rv0628c,
+p.Thr152Met,Rv0386,
+p.Thr152Pro,Rv0897c,
+p.Thr153Pro,Rv0432,sodC
+p.Thr155Ala,Rv2072c,cobL
+p.Thr155Ser,Rv1591,
+p.Thr157Pro,Rv2138,lppL
+p.Thr159Met,Rv2598,
+p.Thr15Pro,Rv2153c,murG
+p.Thr160Ala,Rv2043c,pncA
+p.Thr166Ile,Rv0079,
+p.Thr16Ile,Rv1914c,
+p.Thr171Pro,Rv2978c,
+p.Thr176Pro,Rv1157c,
+p.Thr177fs,Rv1204c,
+p.Thr177Pro,Rv1274,lprB
+p.Thr178Pro,Rv0840c,pip
+p.Thr179Ile,Rv1260,
+p.Thr181Pro,Rv0036c,
+p.Thr187Ile,Rv1709,scpA
+p.Thr191Pro,Rv2983,
+p.Thr194Pro,Rv3189,
+p.Thr198Arg,Rv2336,
+p.Thr202Ile,Rv3490,otsA
+p.Thr202Pro,Rv2696c,
+p.Thr204Ser,Rv3630,
+p.Thr205Lys,Rv3741c,
+p.Thr206Ala,Rv3870,eccCa1
+p.Thr20Met,Rv3423c,alr
+p.Thr210Pro,Rv1266c,pknH
+p.Thr211Pro,Rv0579,
+p.Thr212Ala,Rv3438,
+p.Thr214Ala,Rv3566c,nat
+p.Thr214Ala,Rv3796,
+p.Thr215Ile,Rv2950c,fadD29
+p.Thr215Pro,Rv1878,glnA3
+p.Thr215Pro,Rv3365c,
+p.Thr218Ala,Rv1173,fbiC
+p.Thr219Ala,Rv0007,
+p.Thr219Ala,Rv0132c,fgd2
+p.Thr219Ile,Rv2624c,
+p.Thr21Ala,Rv3443c,rplM
+p.Thr21Lys,Rv3530c,
+p.Thr220Pro,Rv1647,
+p.Thr221Ile,Rv1323,fadA4
+p.Thr230Ala,Rv3586,
+p.Thr235Pro,Rv1722,
+p.Thr235Ser,Rv1716,
+p.Thr236Pro,Rv3229c,desA3
+p.Thr237Pro,Rv1722,
+p.Thr237Pro,Rv3307,deoD
+p.Thr238Met,Rv2902c,rnhB
+p.Thr240Pro,Rv3080c,pknK
+p.Thr241fs,Rv1905c,aao
+p.Thr241Pro,Rv2339,mmpL9
+p.Thr244Ala,Rv2508c,
+p.Thr247Ala,Rv0438c,moeA2
+p.Thr247Pro,Rv2897c,
+p.Thr248_Cys249delinsArg,Rv1668c,
+p.Thr24Ala,Rv1155,
+p.Thr24Ile,Rv2581c,
+p.Thr251Pro,Rv0393,
+p.Thr251Pro,Rv3833,
+p.Thr256Ile,Rv0996,
+p.Thr256Pro,Rv3731,ligC
+p.Thr259Ala,Rv1295,thrC
+p.Thr259Pro,Rv0895,
+p.Thr25Pro,Rv0758,phoR
+p.Thr263Pro,Rv0428c,
+p.Thr264Met,Rv3224A,
+p.Thr265Pro,Rv3480c,
+p.Thr266Pro,Rv3879c,espK
+p.Thr271Asn,Rv0648,
+p.Thr272Ala,Rv0894,
+p.Thr272Met,Rv2041c,
+p.Thr276Pro,Rv1324,
+p.Thr283Ile,Rv1407,fmu
+p.Thr286Ile,Rv0015c,pknA
+p.Thr28Pro,Rv0514,
+p.Thr292Pro,Rv2173,idsA2
+p.Thr295Pro,Rv0063,
+p.Thr295Pro,Rv3776,
+p.Thr2Ala,Rv2416c,eis
+p.Thr300Pro,Rv2296,
+p.Thr313Ile,Rv3921c,
+p.Thr314Ile,Rv3854c,ethA
+p.Thr319Ala,Rv2682c,dxs1
+p.Thr319Pro,Rv3879c,espK
+p.Thr322Pro,Rv0447c,ufaA1
+p.Thr322Pro,Rv2404c,lepA
+p.Thr324Pro,Rv1524,
+p.Thr329Ala,Rv3163c,
+p.Thr32Pro,Rv2426c,
+p.Thr330Pro,Rv1263,amiB2
+p.Thr336Ala,Rv1653,argJ
+p.Thr338Ala,Rv2781c,
+p.Thr347Ile,Rv3087,
+p.Thr348Pro,Rv2287,yjcE
+p.Thr352Ser,Rv1473,
+p.Thr357Pro,Rv3776,
+p.Thr35Pro,Rv0539,
+p.Thr35Pro,Rv0652,rplL
+p.Thr360Met,Rv3871,eccCb1
+p.Thr363Ser,Rv2542,
+p.Thr365Ile,Rv1453,
+p.Thr365Pro,Rv0064,
+p.Thr37Ala,Rv1467c,fadE15
+p.Thr385Ala,Rv2434c,
+p.Thr385Pro,Rv0136,cyp138
+p.Thr386Pro,Rv0171,mce1C
+p.Thr38Ile,Rv2855,mtr
+p.Thr392Ala,Rv2947c,pks15
+p.Thr396Pro,Rv3909,
+p.Thr398Pro,Rv0973c,accA2
+p.Thr402Ala,Rv3263,
+p.Thr403Ile,Rv0849,
+p.Thr40Pro,Rv2984,ppk1
+p.Thr414Pro,Rv3450c,eccB4
+p.Thr416Pro,Rv3450c,eccB4
+p.Thr418Ala,Rv1537,dinX
+p.Thr418Ala,Rv3554,fdxB
+p.Thr41Met,Rv2181,
+p.Thr41Pro,Rv1264,
+p.Thr42Ala,Rv0039c,
+p.Thr42Ala,Rv1545,
+p.Thr432Pro,Rv0485,
+p.Thr445Pro,Rv2812,
+p.Thr450Pro,Rv1327c,glgE
+p.Thr45Met,Rv0820,phoT
+p.Thr460Pro,Rv1650,pheT
+p.Thr46Pro,Rv1815,
+p.Thr47Pro,Rv2083,
+p.Thr494Pro,Rv0236c,aftD
+p.Thr498Pro,Rv0846c,
+p.Thr49Ala,Rv2307D,
+p.Thr49Ile,Rv2468A,
+p.Thr4Met,Rv1478,
+p.Thr4Pro,Rv3712,
+p.Thr503Asn,Rv3156,nuoL
+p.Thr506Pro,Rv2082,
+p.Thr51Ile,Rv2682c,dxs1
+p.Thr51Pro,Rv0533c,fabH
+p.Thr523Pro,Rv0244c,fadE5
+p.Thr526Pro,Rv0194,
+p.Thr528Pro,Rv3663c,dppD
+p.Thr529Pro,Rv2567,
+p.Thr53Ser,Rv2860c,glnA4
+p.Thr560Pro,Rv1821,secA2
+p.Thr565Pro,Rv2082,
+p.Thr566Pro,Rv0492c,
+p.Thr57Ile,Rv3750c,
+p.Thr59Ala,Rv2217,lipB
+p.Thr5Pro,Rv3002c,ilvN
+p.Thr605Ala,Rv3825c,pks2
+p.Thr61Lys,Rv3854c,ethA
+p.Thr61Pro,Rv1831,
+p.Thr625Pro,Rv2082,
+p.Thr62Ala,Rv0104,
+p.Thr62fs,Rv3751,
+p.Thr631fs,Rv0405,pks6
+p.Thr63fs,Rv2662,
+p.Thr63Pro,Rv2673,aftC
+p.Thr666fs,Rv3879c,espK
+p.Thr667Pro,Rv1908c,katG
+p.Thr66Ala,Rv0565c,
+p.Thr66Pro,Rv2350c,plcB
+p.Thr67fs,Rv1419,
+p.Thr69Ala,Rv0917,betP
+p.Thr69Pro,Rv0614,
+p.Thr715Ala,Rv1565c,
+p.Thr727Pro,Rv2567,
+p.Thr738fs,Rv0585c,
+p.Thr73Pro,Rv2350c,plcB
+p.Thr75Ala,Rv3423c,alr
+p.Thr76Ala,Rv1275,lprC
+p.Thr76Pro,Rv2043c,pncA
+p.Thr77Asn,Rv2824c,
+p.Thr7Ala,Rv0040c,mtc28
+p.Thr819Pro,Rv2092c,helY
+p.Thr81Met,Rv3654c,
+p.Thr82Asn,Rv1224,tatB
+p.Thr843Pro,Rv0630c,recB
+p.Thr84Ile,Rv2418c,
+p.Thr861Ile,Rv2006,otsB1
+p.Thr869Pro,Rv2488c,
+p.Thr87Ala,Rv2567,
+p.Thr87Ala,Rv3890c,esxC
+p.Thr87Asn,Rv1795,eccD5
+p.Thr880Ile,Rv2946c,pks1
+p.Thr89Pro,Rv3855,ethR
+p.Thr8Asn,Rv0767c,
+p.Thr90Pro,Rv2811,
+p.Thr934Lys,Rv0041,leuS
+p.Thr94Arg,Rv2415c,
+p.Thr95Ile,Rv1292,argS
+p.Thr95Met,Rv0753c,mmsA
+p.Thr96Met,Rv0241c,htdX
+p.Thr96Pro,Rv1295,thrC
+p.Thr973Pro,Rv3910,
+p.Thr97Ile,Rv0057,
+p.Thr98Ala,Rv1147,
+p.ThrThr35ProPro,Rv2800,
+p.Trp111_Asn129del,Rv1442,bisC
+p.Trp112Gly,Rv0880,
+p.Trp112*,Rv1624c,
+p.Trp121*,Rv0565c,
+p.Trp129Gly,Rv0196,
+p.Trp130Gly,Rv2546,vapC18
+p.Trp150*,Rv2285,
+p.Trp179Ser,Rv1228,lpqX
+p.Trp189Ser,Rv3591c,
+p.Trp196Gly,Rv0413,mutT3
+p.Trp19Cys,Rv2948c,fadD22
+p.Trp20fs,Rv3900c,
+p.Trp249Ser,Rv2226,
+p.Trp253Ser,Rv2950c,fadD29
+p.Trp256fs,Rv3854c,ethA
+p.Trp256*,Rv3854c,ethA
+p.Trp269Cys,Rv3298c,lpqC
+p.Trp271*,Rv3083,
+p.Trp272*,Rv0907,
+p.Trp319*,Rv3330,dacB1
+p.Trp3495Gly,Rv2048c,pks12
+p.Trp362*,Rv0293c,
+p.Trp374Cys,Rv2627c,
+p.Trp417Gly,Rv1777,cyp144
+p.Trp41Arg,Rv2319c,
+p.Trp422*,Rv1562c,treZ
+p.Trp43Gly,Rv1591,
+p.Trp445Cys,Rv2476c,gdh
+p.Trp45*,Rv3919c,gid
+p.Trp464Gly,Rv1779c,
+p.Trp465Gly,Rv1850,ureC
+p.Trp504Leu,Rv1469,ctpD
+p.Trp52Cys,Rv3888c,
+p.Trp538*,Rv0435c,
+p.Trp56Arg,Rv0621,
+p.Trp639Ser,Rv1327c,glgE
+p.Trp656Leu,Rv2101,helZ
+p.Trp678Gly,Rv1173,fbiC
+p.Trp67*,Rv1097c,
+p.Trp77Arg,Rv2819c,
+p.Trp80*,Rv1923,lipD
+p.Trp81Cys,Rv1736c,narX
+p.Trp83Arg,Rv2425c,
+p.Trp857*,Rv2590,fadD9
+p.Trp85Cys,Rv0996,
+p.Trp86*,Rv3415c,
+p.Trp88Ser,Rv1319c,
+p.Trp89Arg,Rv3647c,
+p.Trp8*,Rv2723,
+p.Trp92Gly,Rv2081c,
+p.Trp93*,Rv1882c,
+p.Trp94Ser,Rv0922,
+p.Trp9Gly,Rv3723,
+p.Tyr100*,Rv1907c,
+p.Tyr103*,Rv2043c,pncA
+p.Tyr105fs,Rv3736,
+p.Tyr110*,Rv2289,cdh
+p.Tyr119Asp,Rv0595c,vapC4
+p.Tyr12Asn,Rv2854,
+p.Tyr12fs,Rv2829c,vapC22
+p.Tyr1307Ser,Rv2946c,pks1
+p.Tyr132Cys,Rv1412,ribC
+p.Tyr147*,Rv3854c,ethA
+p.Tyr149Ser,Rv2629,
+p.Tyr155Ser,Rv1908c,katG
+p.Tyr171Asp,Rv2587c,secD
+p.Tyr172Ser,Rv0398c,
+p.Tyr184His,Rv2750,
+p.Tyr18Asp,Rv2564,glnQ
+p.Tyr199Asp,Rv0449c,
+p.Tyr205His,Rv2905,lppW
+p.Tyr206His,Rv3564,fadE33
+p.Tyr208Cys,Rv1816,
+p.Tyr213*,Rv3090,
+p.Tyr226*,Rv3737,
+p.Tyr226Ser,Rv3515c,fadD19
+p.Tyr229Ser,Rv0059,
+p.Tyr260Cys,Rv2835c,ugpA
+p.Tyr276fs,Rv3854c,ethA
+p.Tyr297Asp,Rv1050,
+p.Tyr2*,Rv2574,
+p.Tyr301fs,Rv3761c,fadE36
+p.Tyr304Ser,Rv3646c,topA
+p.Tyr325Asp,Rv1835c,
+p.Tyr337His,Rv3883c,mycP1
+p.Tyr338His,Rv0384c,clpB
+p.Tyr349Phe,Rv0932c,pstS2
+p.Tyr34*,Rv2043c,pncA
+p.Tyr360Cys,Rv2655c,
+p.Tyr36*,Rv2133c,
+p.Tyr37fs,Rv0186,bglS
+p.Tyr385Asp,Rv2752c,
+p.Tyr395Cys,Rv2823c,
+p.Tyr398Ser,Rv1971,mce3F
+p.Tyr406His,Rv3698,
+p.Tyr414His,Rv1726,
+p.Tyr416Asp,Rv0070c,glyA2
+p.Tyr41*,Rv2043c,pncA
+p.Tyr448Ser,Rv1013,pks16
+p.Tyr451Ser,Rv1699,pyrG
+p.Tyr491Ser,Rv0147,
+p.Tyr52Asp,Rv0866,moaE2
+p.Tyr52Asp,Rv1234,
+p.Tyr542Ser,Rv0197,
+p.Tyr543Cys,Rv2946c,pks1
+p.Tyr547Ser,Rv3805c,aftB
+p.Tyr551Cys,Rv2587c,secD
+p.Tyr60*,Rv3854c,ethA
+p.Tyr64Asp,Rv2043c,pncA
+p.Tyr65His,Rv2156c,murX
+p.Tyr679*,Rv0507,mmpL2
+p.Tyr78Cys,Rv2836c,dinF
+p.Tyr7His,Rv0634c,
+p.Tyr82*,Rv2760c,vapB42
+p.Tyr83His,Rv0690c,
+p.Tyr946*,Rv2590,fadD9
+p.Tyr96Ser,Rv3689,
+p.Tyr97Asp,Rv0565c,
+p.TyrThr11*,Rv3719,
+p.Val1005Gly,Rv0648,
+p.Val100fs,Rv2081c,
+p.Val100Gly,Rv2081c,
+p.Val100Met,Rv0071,
+p.Val101fs,Rv0658c,
+p.Val101Gly,Rv0036c,
+p.Val1039Gly,Rv0668,rpoC
+p.Val103Gly,Rv2135c,
+p.Val1047Gly,Rv0630c,recB
+p.Val1047Met,Rv1020,mfd
+p.Val104Gly,Rv2850c,
+p.Val104Leu,Rv2535c,pepQ
+p.Val1053Ala,Rv2934,ppsD
+p.Val1054Ala,Rv2048c,pks12
+p.Val105Gly,Rv2081c,
+p.Val109Gly,Rv1145,mmpL13a
+p.Val1114Leu,Rv3910,
+p.Val111fs,Rv1355c,moeY
+p.Val111Gly,Rv3270,ctpC
+p.Val112Gly,Rv1647,
+p.Val112Gly,Rv2280,
+p.Val112Gly,Rv2829c,vapC22
+p.Val113Gly,Rv1850,ureC
+p.Val113Gly,Rv2858c,aldC
+p.Val1146Gly,Rv0266c,oplA
+p.Val114Phe,Rv3666c,dppA
+p.Val115Met,Rv2564,glnQ
+p.Val115Phe,Rv1739c,
+p.Val116Gly,Rv2832c,ugpC
+p.Val116Ile,Rv3332,nagA
+p.Val116_Val117insGlu,Rv0187,
+p.Val121Ile,Rv3909,
+p.Val122Gly,Rv2383c,mbtB
+p.Val1239Gly,Rv2946c,pks1
+p.Val1242Gly,Rv2946c,pks1
+p.Val124Met,Rv2116,lppK
+p.Val125Ala,Rv2852c,mqo
+p.Val125Gly,Rv2043c,pncA
+p.Val126Gly,Rv0524,hemL
+p.Val128Gly,Rv2219,
+p.Val129Gly,Rv0376c,
+p.Val129Gly,Rv1647,
+p.Val130_Leu131insHisVal,Rv0491,regX3
+p.Val131Gly,Rv0997,
+p.Val131Ile,Rv1745c,idi
+p.Val131Met,Rv2997,
+p.Val132Gly,Rv2090,
+p.Val135Ile,Rv2508c,
+p.Val135Met,Rv1132,
+p.Val1367Gly,Rv2934,ppsD
+p.Val136Gly,Rv2380c,mbtE
+p.Val137Gly,Rv3433c,
+p.Val1383Leu,Rv1661,pks7
+p.Val139Leu,Rv1304,atpB
+p.Val139Met,Rv3765c,tcrX
+p.Val13Gly,Rv0291,mycP3
+p.Val140Leu,Rv2677c,hemY
+p.Val141Gly,Rv1492,mutA
+p.Val141Gly,Rv3671c,
+p.Val144Gly,Rv2090,
+p.Val145Gly,Rv1605,hisF
+p.Val145Gly,Rv2577,
+p.Val145Gly,Rv2668,
+p.Val145Ile,Rv1672c,
+p.Val146Met,Rv0296c,
+p.Val147Ile,Rv2637,dedA
+p.Val149Ile,Rv2208,cobS
+p.Val14Gly,Rv0418,lpqL
+p.Val14Gly,Rv1327c,glgE
+p.Val150Leu,Rv3491,
+p.Val150Phe,Rv0852,fadD16
+p.Val151Gly,Rv2614c,thrS
+p.Val151Leu,Rv1869c,
+p.Val151Met,Rv2374c,hrcA
+p.Val152Gly,Rv2812,
+p.Val152Ile,Rv1795,eccD5
+p.Val155fs,Rv3225c,
+p.Val155Gly,Rv1275,lprC
+p.Val155Gly,Rv1722,
+p.Val155Gly,Rv2405,
+p.Val155Gly,Rv2828c,
+p.Val156Ile,Rv1604,impA
+p.Val157Gly,Rv1115,
+p.Val158Phe,Rv1511,gmdA
+p.Val1605Ala,Rv2946c,pks1
+p.Val160Leu,Rv1146,mmpL13b
+p.Val162Gly,Rv2671,ribD
+p.Val163Ile,Rv2416c,eis
+p.Val165Gly,Rv1497,lipL
+p.Val165Ile,Rv3152,nuoH
+p.Val166Gly,Rv3013,
+p.Val166Leu,Rv2499c,
+p.Val168Gly,Rv2191,
+p.Val169Leu,Rv0283,eccB3
+p.Val172Gly,Rv2535c,pepQ
+p.Val172Gly,Rv3395c,
+p.Val173Ala,Rv0943c,
+p.Val173Gly,Rv0776c,
+p.Val174Leu,Rv1775,
+p.Val174Met,Rv0518,
+p.Val175Leu,Rv0990c,
+p.Val176Gly,Rv1654,argB
+p.Val178Phe,Rv2958c,
+p.Val179Ala,Rv0191,
+p.Val179fs,Rv0673,echA4
+p.Val17Leu,Rv2085,
+p.Val180Leu,Rv0391,metZ
+p.Val181Gly,Rv0375c,
+p.Val1885Gly,Rv2933,ppsC
+p.Val188Ala,Rv2921c,ftsY
+p.Val188fs,Rv0987,
+p.Val189Leu,Rv0874c,
+p.Val18Gly,Rv3307,deoD
+p.Val18Ile,Rv0068,
+p.Val196Gly,Rv2438c,nadE
+p.Val196Gly,Rv2924c,fpg
+p.Val198Ile,Rv3246c,mtrA
+p.Val199Gly,Rv1680,
+p.Val19Ala,Rv0972c,fadE12
+p.Val19Gly,Rv0401,
+p.Val19Ile,Rv3723,
+p.Val1?,Rv0048c,
+p.Val1?,Rv1002c,
+p.Val1?,Rv1489A,
+p.Val1?,Rv2474c,
+p.Val1?,Rv2742c,
+p.Val1?,Rv2920c,amt
+p.Val1?,Rv3573c,fadE34
+p.Val200Gly,Rv0647c,
+p.Val201Gly,Rv1515c,
+p.Val202Gly,Rv0058,dnaB
+p.Val203Ile,Rv2509,
+p.Val205Gly,Rv1395,
+p.Val206Gly,Rv0142,
+p.Val206Gly,Rv0849,
+p.Val210Gly,Rv2032,acg
+p.Val210Gly,Rv3311,
+p.Val211Gly,Rv2983,
+p.Val212Met,Rv0480c,
+p.Val213Ile,Rv3203,lipV
+p.Val214Gly,Rv1186c,
+p.Val214Gly,Rv2155c,murD
+p.Val214Phe,Rv3555c,
+p.Val216Gly,Rv2155c,murD
+p.Val216Gly,Rv3610c,ftsH
+p.Val216Ile,Rv3305c,amiA1
+p.Val216Met,Rv2498c,citE
+p.Val221Ala,Rv1570,bioD
+p.Val221Gly,Rv1075c,
+p.Val221Gly,Rv1833c,
+p.Val222Gly,Rv3610c,ftsH
+p.Val225Gly,Rv1402,priA
+p.Val228Leu,Rv1229c,mrp
+p.Val229Gly,Rv3806c,ubiA
+p.Val22Gly,Rv3703c,
+p.Val232Gly,Rv0724,sppA
+p.Val232Gly,Rv2079,
+p.Val233fs,Rv0790c,
+p.Val238Ala,Rv3594,
+p.Val238Gly,Rv3618,
+p.Val23Ala,Rv1368,lprF
+p.Val23Gly,Rv1834,lipZ
+p.Val23Ile,Rv1355c,moeY
+p.Val241Ala,Rv1859,modC
+p.Val243Ala,Rv0922,
+p.Val243Ile,Rv1368,lprF
+p.Val244fs,Rv3428c,
+p.Val247Ala,Rv1462,
+p.Val24Gly,Rv1497,lipL
+p.Val24Met,Rv0420c,
+p.Val24Met,Rv1900c,lipJ
+p.Val251Leu,Rv3085,
+p.Val252Leu,Rv1770,
+p.Val255Gly,Rv1315,murA
+p.Val255Ile,Rv3193c,
+p.Val256Gly,Rv3279c,birA
+p.Val259Gly,Rv0447c,ufaA1
+p.Val25Gly,Rv2601,speE
+p.Val261Ala,Rv2112c,dop
+p.Val261Ile,Rv1121,zwf1
+p.Val262Gly,Rv3562,fadE31
+p.Val263Gly,Rv1654,argB
+p.Val264Gly,Rv2157c,murF
+p.Val265Gly,Rv1328,glgP
+p.Val265Met,Rv1009,rpfB
+p.Val266Ala,Rv2940c,mas
+p.Val266Ile,Rv3794,embA
+p.Val267fs,Rv1999c,
+p.Val267Gly,Rv0794c,
+p.Val272Gly,Rv2560,
+p.Val272Leu,Rv1662,pks8
+p.Val275Ala,Rv2316,uspA
+p.Val275Ile,Rv0777,purB
+p.Val279Gly,Rv1812c,
+p.Val279Leu,Rv1180,pks3
+p.Val279Met,Rv1204c,
+p.Val27Ala,Rv0077c,
+p.Val27Gly,Rv2867c,
+p.Val280Gly,Rv0500,proC
+p.Val282Gly,Rv1376,
+p.Val289Gly,Rv2592c,ruvB
+p.Val28Gly,Rv0201c,
+p.Val28Leu,Rv3165c,
+p.Val291Leu,Rv0006,gyrA
+p.Val294Gly,Rv1538c,ansA
+p.Val295Gly,Rv3313c,add
+p.Val297Ile,Rv0362,mgtE
+p.Val299Ala,Rv0886,fprB
+p.Val299Gly,Rv2839c,infB
+p.Val299Ile,Rv1682,
+p.Val29Gly,Rv1173,fbiC
+p.Val29Gly,Rv3318,sdhA
+p.Val301Ala,Rv1704c,cycA
+p.Val301Met,Rv1360,
+p.Val306Leu,Rv0509,hemA
+p.Val310Gly,Rv3732,
+p.Val311fs,Rv1508c,
+p.Val313Phe,Rv2477c,
+p.Val315Met,Rv2088,pknJ
+p.Val316Asp,Rv2266,cyp124
+p.Val316Phe,Rv1459c,
+p.Val319Gly,Rv0227c,
+p.Val31Gly,Rv0082,
+p.Val31Gly,Rv0291,mycP3
+p.Val31Ile,Rv3578,arsB2
+p.Val320Gly,Rv0290,eccD3
+p.Val321Met,Rv0584,
+p.Val322Gly,Rv0290,eccD3
+p.Val322Gly,Rv0958,
+p.Val323Met,Rv1841c,
+p.Val326Leu,Rv1479,moxR1
+p.Val326Met,Rv3229c,desA3
+p.Val328Gly,Rv0092,ctpA
+p.Val32Gly,Rv0540,
+p.Val32Gly,Rv3540c,ltp2
+p.Val337Ala,Rv1730c,
+p.Val33Gly,Rv3318,sdhA
+p.Val343Gly,Rv0255c,cobQ1
+p.Val349Ala,Rv2231c,cobC
+p.Val350Ile,Rv1146,mmpL13b
+p.Val353Gly,Rv1263,amiB2
+p.Val356Gly,Rv2047c,
+p.Val356Met,Rv0205,
+p.Val368Gly,Rv2501c,accA1
+p.Val36Ala,Rv0080,
+p.Val36Gly,Rv0571c,
+p.Val36Gly,Rv3421c,
+p.Val372Ala,Rv1672c,
+p.Val376Ala,Rv0988,
+p.Val377Gly,Rv2739c,
+p.Val379Gly,Rv2739c,
+p.Val37Ala,Rv2876,
+p.Val381Gly,Rv0486,mshA
+p.Val383Gly,Rv0234c,gabD1
+p.Val389Ala,Rv3882c,eccE1
+p.Val389Gly,Rv1315,murA
+p.Val38Gly,Rv1219c,
+p.Val38Gly,Rv1633,uvrB
+p.Val38Met,Rv1717,
+p.Val391Gly,Rv3689,
+p.Val392Gly,Rv1329c,dinG
+p.Val394Ala,Rv0193c,
+p.Val398dup,Rv3854c,ethA
+p.Val3Ala,Rv3743c,ctpJ
+p.Val3Leu,Rv1898,
+p.Val401Leu,Rv0252,nirB
+p.Val415Ala,Rv1402,priA
+p.Val41Gly,Rv0956,purN
+p.Val422Leu,Rv3743c,ctpJ
+p.Val425Gly,Rv0753c,mmsA
+p.Val427Gly,Rv1683,
+p.Val428Ile,Rv3148,nuoD
+p.Val438Ala,Rv1327c,glgE
+p.Val43Ile,Rv0293c,
+p.Val443Gly,Rv0565c,
+p.Val449Ile,Rv0171,mce1C
+p.Val44fs,Rv0825c,
+p.Val44Gly,Rv2541,
+p.Val44Gly,Rv2677c,hemY
+p.Val452Met,Rv1867,
+p.Val457Ala,Rv2690c,
+p.Val45Phe,Rv0310c,
+p.Val461Met,Rv0917,betP
+p.Val468Gly,Rv0234c,gabD1
+p.Val46Phe,Rv3678A,
+p.Val47Gly,Rv1022,lpqU
+p.Val47Gly,Rv1644,tsnR
+p.Val47Gly,Rv3414c,sigD
+p.Val482Ala,Rv2115c,mpa
+p.Val483Ala,Rv0668,rpoC
+p.Val485Met,Rv3303c,lpdA
+p.Val488Ile,Rv1290c,
+p.Val48Gly,Rv2081c,
+p.Val490Gly,Rv0198c,zmp1
+p.Val493Gly,Rv0969,ctpV
+p.Val498Gly,Rv2158c,murE
+p.Val4Ile,Rv0889c,citA
+p.Val517Gly,Rv1850,ureC
+p.Val51Leu,Rv2891,
+p.Val528Gly,Rv3014c,ligA
+p.Val52Ala,Rv3060c,
+p.Val533Ile,Rv1297,rho
+p.Val538Ile,Rv3156,nuoL
+p.Val53Gly,Rv0480c,
+p.Val53Gly,Rv1715,fadB3
+p.Val54Gly,Rv2426c,
+p.Val552Gly,Rv1467c,fadE15
+p.Val553Gly,Rv3879c,espK
+p.Val555Met,Rv2079,
+p.Val559Gly,Rv1661,pks7
+p.Val55Gly,Rv2345,
+p.Val56Gly,Rv0242c,fabG4
+p.Val56Gly,Rv3821,
+p.Val575Gly,Rv3909,
+p.Val577Ala,Rv3014c,ligA
+p.Val57Phe,Rv2235,
+p.Val589Gly,Rv3800c,pks13
+p.Val58Gly,Rv0539,
+p.Val58Gly,Rv0921,
+p.Val598Gly,Rv3014c,ligA
+p.Val5fs,Rv3637,
+p.Val60fs,Rv0523c,
+p.Val60Ile,Rv1972,
+p.Val611Gly,Rv0405,pks6
+p.Val62Leu,Rv3682,ponA2
+p.Val630Gly,Rv3156,nuoL
+p.Val639Gly,Rv0186,bglS
+p.Val669Met,Rv3909,
+p.Val672fs,Rv1664,pks9
+p.Val679Gly,Rv3296,lhr
+p.Val67Gly,Rv0131c,fadE1
+p.Val67Gly,Rv0243,fadA2
+p.Val69Gly,Rv0576,
+p.Val70Gly,Rv0082,
+p.Val71Ala,Rv3889c,espG2
+p.Val720Met,Rv0032,bioF2
+p.Val73Ala,Rv0326,
+p.Val740Ile,Rv3870,eccCa1
+p.Val759Ala,Rv1937,
+p.Val76Phe,Rv3630,
+p.Val773Ala,Rv2092c,helY
+p.Val785Gly,Rv0384c,clpB
+p.Val792Ala,Rv0236c,aftD
+p.Val79Gly,Rv3365c,
+p.Val7Gly,Rv2043c,pncA
+p.Val800Ala,Rv0667,rpoB
+p.Val80Gly,Rv1550,fadD11
+p.Val80Gly,Rv1730c,
+p.Val811Ala,Rv0107c,ctpI
+p.Val81Met,Rv3841,bfrB
+p.Val82Ala,Rv0115,hddA
+p.Val842fs,Rv0194,
+p.Val844Ala,Rv0252,nirB
+p.Val85Gly,Rv0921,
+p.Val86Gly,Rv0953c,
+p.Val86Gly,Rv3446c,
+p.Val87Gly,Rv0718,rpsH
+p.Val87Gly,Rv1300,hemK
+p.Val88Ala,Rv3687c,rsfB
+p.Val8Ala,Rv0857,
+p.Val8Ala,Rv1727,
+p.Val90Leu,Rv0191,
+p.Val91Gly,Rv2309c,
+p.Val925Met,Rv0041,leuS
+p.Val92Gly,Rv2154c,ftsW
+p.Val92Leu,Rv3783,rfbD
+p.Val93Ala,Rv0513,
+p.Val94Gly,Rv1306,atpF
+p.Val94Met,Rv0526,
+p.Val95_Gly106del,Rv2081c,
+p.Val96Gly,Rv2003c,
+p.Val970Ala,Rv0667,rpoB
+p.Val98Ile,Rv0320,
+p.Val99Gly,Rv3578,arsB2
+p.ValGly537GlyAla,Rv2797c,
+p.ValIle105IleSer,Rv3833,
+p.ValSer113GlyAla,Rv0612,
+p.ValThr227AlaPro,Rv0227c,
+p.ValVal108GlyGly,Rv0465c,
+p.ValVal49GlyGly,Rv2428,ahpC

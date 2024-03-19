@@ -1,0 +1,20 @@
+1029386,ins,G,GCGC,GCGC:19 G:0
+1472359,snp,A,C,C:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+1473246,snp,A,G,G:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+1852176,del,CT,C,C:19 CT:0
+2637541,snp,C,T,T:13 C:0
+4056430,snp,T,C,C:20 T:0
+664929,snp,C,A,A:20 C:0
+714158,del,GT,G,G:19 GT:0
+f18;1205269,snp,C,T,T:20 C:0;10.01
+f2288;,Rv0810c,;4.743
+f39;1472359,snp,A,C,C:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S;5.489
+f42;1472920,ins,G,GT,GT:20 G:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S;8.357
+f43;1473246,snp,A,G,G:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S;47.778
+f45;1473329,snp,G,T,T:20 G:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S;4.712
+f5;1058243,snp,G,A,A:20 G:0;15.221
+p.Ala431Thr,Rv0897c,
+p.Ile1106Thr,Rv0667,rpoB
+p.Leu275Pro,Rv2000,
+p.Val188Ala,Rv3806c,ubiA
+p.Val740Ile,Rv3870,eccCa1

@@ -1,0 +1,40 @@
+1561333,snp,T,C,C:20 T:0
+1934788,snp,A,C,C:20 A:0
+2056377,snp,G,T,T:20 G:0
+2386283,snp,G,A,A:20 G:0
+3067961,snp,G,A,A:20 G:0
+3178445,snp,C,G,G:20 C:0
+3841562,snp,T,C,C:20 T:0
+3841662,complex,TC,CT,CT:21 TC:0
+4274791,snp,C,T,T:20 C:0
+4323354,ins,C,CG,CG:19 C:0
+781406,ins,G,GC,GC:19 G:0
+p.Ala1304Val,Rv0107c,ctpI
+p.Ala190Glu,Rv0165c,mce1R
+p.Ala246Thr,Rv2028c,
+p.Ala309Val,Rv0311,
+p.Ala54Thr,Rv0923c,
+p.Ala59Val,Rv1431,
+p.Ala79Asp,Rv0654,
+p.Asn258Ser,Rv0888,
+p.Asp123Ala,Rv1630,rpsA
+p.Gln188fs,Rv0273c,
+p.Gln28Pro,Rv0698,
+p.Gly155Cys,Rv0347,
+p.Gly159Ser,Rv1672c,
+p.Gly15Val,Rv0010c,
+p.His164Gln,Rv0392c,ndhA
+p.Ile43Ser,Rv2447c,folC
+p.Ile79Val,Rv2586c,secF
+p.Met1?,Rv2043c,pncA
+p.Met586Ile,Rv1836c,
+p.Pro230fs,Rv3886c,mycP2
+p.Pro250Leu,Rv3092c,
+p.Pro270Leu,Rv1692,
+p.Pro85Ser,Rv0493c,
+p.Thr20Met,Rv3423c,alr
+p.Thr339Met,Rv3229c,desA3
+p.Thr57Pro,Rv3206c,moeB1
+p.Trp195Arg,Rv3630,
+p.Val443Gly,Rv0565c,
+p.Val88Gly,Rv0115,hddA

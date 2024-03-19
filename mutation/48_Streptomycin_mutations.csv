@@ -1,0 +1,48 @@
+p.Lys43Arg,Rv0682,rpsL
+p.Lys31Glu,Rv0893c,
+p.Asp55Asn,Rv0012,
+1473246,snp,A,G,G:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+p.Lys88Arg,Rv0682,rpsL
+1472359,snp,A,C,C:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+p.Leu35fs,Rv3919c,gid
+1472362,snp,C,T,T:20 C:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+1696671,del,CA,C,C:19 CA:0
+p.Leu79Ser,Rv3919c,gid
+p.Arg403Gly,Rv0041,leuS
+p.Glu92Asp,Rv3919c,gid
+4124349,del,GCC,G,G:19 GCC:0
+p.Thr121fs,Rv0888,
+p.Arg39fs,Rv3919c,gid
+p.Glu119Asp,Rv0311,
+p.Leu33fs,Rv2545,vapB18
+p.Ala260Val,Rv1368,lprF
+p.Arg118fs,Rv3919c,gid
+1701215,snp,C,T,T:20 C:0
+p.Arg409Ser,Rv3537,kstD
+p.Gln497Arg,Rv3795,embB
+p.Gln519Arg,Rv3051c,nrdE
+p.Ala619Thr,Rv3682,ponA2
+p.Ile61Leu,Rv3788,
+p.Tyr103Asp,Rv2495c,bkdC
+p.Glu234Gly,Rv0890c,
+p.Ala140Thr,Rv0691c,
+1472751,snp,A,G,G:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S
+p.Leu191Ala,Rv0988,
+1697896,snp,C,T,T:20 C:0
+p.Val483Gly,Rv0668,rpoC
+p.Ala372Val,Rv0987,
+3310427,snp,T,C,C:20 T:0
+3811672,complex,GTAA,TTAG,TTAG:20 GTAA:0
+p.Thr61Met,Rv0933,pstB
+4264381,ins,G,GC,GC:19 G:0
+p.Trp61*,Rv0717,rpsN1
+3135606,snp,A,G,G:20 A:0
+1252053,del,AG,A,A:20 AG:0,repeat_region,+,919/1356,307/451,frameshift_variant c.919delC p.Leu307fs
+p.Pro376Leu,Rv2082,
+p.Ala45Gly,Rv2561,
+4243217,snp,C,G,G:20 C:0
+p.Val21Ala,Rv3866,espG1
+p.Val82Leu,Rv2056c,rpsN2
+p.Glu809Gly,Rv0194,
+p.Ala47Thr,Rv2169c,
+p.Ala138Val,Rv3919c,gid

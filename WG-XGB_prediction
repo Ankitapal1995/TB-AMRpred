@@ -1,0 +1,4 @@
+python /home/ankita/Desktop/webserver_tool/scripts/cp_RespredTB3_xgb_new_f.py $@
+python /home/ankita/Desktop/webserver_tool/scripts/mutation_information_file.py $@
+python /home/ankita/Desktop/webserver_tool/scripts/amr_phenotype_mutation.py $@
+ 

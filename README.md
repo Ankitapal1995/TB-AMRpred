@@ -2,17 +2,17 @@
 AMR prediction in Mycobacterium tuberculosis using whole genome sequences <br />
 
 **install the code using git** <br />
-``` git clone https://github.com/Ankitapal1995/WG-XGB_prediction.git``` <br />
+``` git clone https://github.com/Ankitapal1995/TB-AMRpred.git``` <br />
 
 **script run using whole genome fasta sequence** <br />
 
-```WG-XGB_prediction input.fasta``` <br />
+```TB-AMRpred input.fasta``` <br />
 or <br />
 
-```WG-XGB_prediction input.fna ``` <br />
+```TB-AMRpred input.fna ``` <br />
 
 **script run using whole genome fastq sequence**  <br />
-```WG-XGB_prediction input_1.fastq.gz input_2.fastq.gz``` <br />
+```TB-AMRpred input_1.fastq.gz input_2.fastq.gz``` <br />
 
  **requirement**  <br />
 ```conda env create -f environment_amr.yml``` <br />

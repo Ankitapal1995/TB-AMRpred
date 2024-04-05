@@ -1,4 +1,4 @@
-# WG-XGB_prediction  <br />
+# TB-AMRpred  <br />
 AMR prediction in Mycobacterium tuberculosis using whole genome sequences <br />
 
 **install the code using git** <br />

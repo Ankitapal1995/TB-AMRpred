@@ -27,7 +27,7 @@ or <br />
 ```numpy==1.26.4```  <br />
 ```pandas==2.2.1```  <br />
 ```matplotlib==3.8.3```  <br />
-```scikit-learn==1.4.1```  <br />
+```scikit-learn==1.4.2```  <br />
 ```xgboost==2.0.3 ```  <br />
 ```pip=24.0```  <br />
 

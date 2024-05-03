@@ -24,7 +24,7 @@ AMR prediction in Mycobacterium tuberculosis using whole genome sequences <br />
 **activate conda environment** <br/>
 ```conda activate amr``` <br/>
 
-**add path after installation**
+**add path after installation** <br/>
 open TB-AMRpred file and add your path <br/>
 ```path='your path to the TB-AMRpred'/scripts``` <br/>
 go to ```scripts``` folder <br/>

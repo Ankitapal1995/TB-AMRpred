@@ -24,7 +24,8 @@ for i in f1:
 #print(cds)
 genome=[]
 masterfile=[]'''
-path='/home/ankita/Desktop/webserver_tool/mutation/'
+from paths_variable import mu_path
+path=mu_path
 mut_file_list=[path+'5511_iso_res_mut.csv',path+'3185_ethamb_res_mut.csv',path+'5030_rifam_res_mut.csv',path+'2832_strep_res_mut.csv',path+'5964_pyrzmd_res_mut.csv',path+'3552_kana_res_mut.csv',path+'21619_ethion_res_mut.csv',path+'14333_oflox_res_mut.csv',path+'18122_mox_res_sus_mut.csv',path+'3518_cyclo_res_mut.csv',path+'5287_pas_res_mut.csv',path+'13437_amk_res_mut.csv',path+'2289_cap_res_mut.csv']
 #mut_file_list=[path+'2289_cap_res_mut.csv']
 #for i in cds:

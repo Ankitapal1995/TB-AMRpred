@@ -76,3 +76,5 @@ with open(prefix+"_drug_resistant_with_mutation_prediction.csv","w",newline='') 
 
 
 subprocess.run(['rm',prefix+"_drug_resistant_data.csv",prefix+"_predicted_mutation_catalogue.csv",'edited_'+prefix+'.csv'])
+#subprocess.run(['rm','edited_'+prefix+'.csv'])
+

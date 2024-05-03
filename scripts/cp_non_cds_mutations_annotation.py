@@ -1,7 +1,8 @@
 #from sys import argv
 #s,mut,kl = argv
+from paths_variable import s_path
 def non_cds_annot(mutation):
-    f=open('/home/ankita/Desktop/webserver_tool/scripts/al123456.gff3').readlines()
+    f=open(s_path+'al123456.gff3').readlines()
     gff_data=[]
     for j,i in enumerate(f):
         i = i.strip("\n")

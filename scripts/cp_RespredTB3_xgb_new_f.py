@@ -67,9 +67,13 @@ edited_snp_file='edited_'+prefix+".csv"
 #print(edited_snp_file)
 #dl_file=prefix+".csv_dl_file"
 #ml_file = prefix+".csv_ml_file"
-model_path='/home/ankita/Desktop/webserver_tool/models/'
-mutation_path='/home/ankita/Desktop/webserver_tool/mutation/'
-script_path='/home/ankita/Desktop/webserver_tool/scripts/'
+from paths_variable import m_path, mu_path, s_path
+#model_path='/home/ankita/Desktop/TB-AMRpred-main/models/'
+model_path=m_path
+#mutation_path='/home/ankita/Desktop/TB-AMRpred-main/mutation/'
+mutation_path=mu_path
+#script_path='/home/ankita/Desktop/TB-AMRpred-main/scripts/'
+script_path=s_path
 ml_models=[(model_path+'pickle_default_new_version_3512_3512_iso_res_sus_5511_mut_matrix_train_for_ml.csv',mutation_path+'45_iso_res_mut_xgboost_cut_off_name.csv',prefix+"_iso_ml.csv","inh"),(model_path+'pickle_default_new_version_1500_1500_ethamb_res_sus_pure_3185_mut_matrix_train_for_ml.csv',mutation_path+'105_ethamb_imp_res_mut_combined_score.csv',prefix+"_ethamb_ml.csv","emb"),(model_path+'pickle_default_new_version_2750_2750_rifam_res_full_sus_5030_mut_matrix_train_for_ml.csv',mutation_path+'55_combined_xgb_shap_rifam_res_mut.csv',prefix+'_rifam_ml.csv',"rif"),(model_path+'pickle_default_new_version_1500_1500_res_sus_2832_mut_prof_for_ml.csv',mutation_path+'60_xgb_ann_shap_strep_combind_mutation_list.csv',prefix+"_strep_ml.csv","stm"),(model_path+'pickle_default_new_version_1500_1500_pyrzmd_res_sus_5964_mut_prof_for_ml.csv',mutation_path+'224_pza_imp_res_mut_combined_ann_xgb_name.csv',prefix+'_pyrzmd_ml.csv',"pza"),(model_path+'pickle_default_new_version_500_500_kana_res_sus_3552_mut_prof_for_ml.csv',mutation_path+'27_kana_res_imp_mut_combined_shap_xgb.csv',prefix+'_kana_ml.csv',"kan"),(model_path+'pickle_default_new_version_1076_1076_ethion_res_sus_21619_mut_matrix_train_for_ml.csv',mutation_path+'49_ethion_imp_res_mut_xgb_for_prediction_name.csv',prefix+'_ethion_ml.csv',"eth"),(model_path+'pickle_default_new_version_350_350_amk_res_sus_13437_mut_prof_for_ml.csv',mutation_path+'11_xgb_ann_amk_imp_res_mut_name.csv',prefix+'_amk_ml.csv',"ami"),(model_path+'pickle_default_new_version_959_959_oflx_res_sus_14333_mut_matrix_train_for_ml.csv',mutation_path+'34_ofloxacin_xgb_prediction_imp_mutation_name.csv',prefix+'_oflox_ml.csv',"oflox"),(model_path+'pickle_default_new_version_242_242_mox_res_sus_18122_mut_matrix_train_for_ml.csv',mutation_path+'18122_mox_res_sus_mut.csv',prefix+'_mox_ml.csv',"mox"),(model_path+'pickle_default_new_version_100_100_cyclo_res_sus_3518_mut_prof_for_ml.csv',mutation_path+'26_combined_ann_xgb_cyclo_imp_res_mut.csv',prefix+'_cyclo_ml.csv',"cyclo"),(model_path+'pickle_default_new_version_90_90_res_sus_5287_mut_prof_for_ml.csv',mutation_path+'40_combined_ann_xgb_pas_imp_mut.csv',prefix+'_pas_ml.csv',"pas"),(model_path+'pickle_default_new_version_400_400_cap_res_sus_2289_mut_prof_for_ml.csv',mutation_path+'20_imp_cap_res_mut_combined_xgb_shap.csv',prefix+'_cap_ml.csv',"cap")]
 #ml_models=[(model_path+'pickle_default_new_version_1500_1500_pyrzmd_res_sus_5964_mut_prof_for_ml.csv',mutation_path+'224_pza_imp_res_mut_combined_ann_xgb_name.csv',prefix+'_pyrzmd_ml.csv',"pza")]
 t1=time.time()

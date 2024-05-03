@@ -1,7 +1,8 @@
 def mut_annot_who(mut,k):
     mut=str(mut)
     from cp_non_cds_mutations_annotation import non_cds_annot
-    file=open("/home/ankita/Desktop/webserver_tool/scripts/WHO_MUTATION_CATALOGUE.csv","r").readlines()
+    from paths_variable import s_path
+    file=open(s_path+"WHO_MUTATION_CATALOGUE.csv","r").readlines()
     who_mut=[]
     who_mut_pos=[]
     who_mut_confi=[]

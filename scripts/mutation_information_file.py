@@ -33,7 +33,9 @@ else:
 prefix=''.join(fprep)
 
 #print(prefix)
-path='/home/ankita/Desktop/webserver_tool/mutation/'
+from paths_variable import mu_path
+path=mu_path
+#print(path)
 ml_pred_mut=[path+'46_Isoniazid_mutations.csv',path+'36_Ehambutol_mutations.csv',path+'36_Rifampicin_mutations.csv',path+'48_Streptomycin_mutations.csv',path+'224_Pyrazindamide_mutations.csv',path+'9_Kanamycin_mutations.csv',path+'6_Ethionamide_mutations.csv',path+'7_Amikacin_mutations.csv',path+'9_Ofloxacin_mutations.csv',path+'5_Moxifloxacin_mutations.csv',path+'26_Cycloserin_mutations.csv',path+'24_Pas_mutations.csv',path+'18_Capreomycin_mutations.csv']
 edited_snp_file='edited_'+prefix+".csv"
 #print(edited_snp_file)

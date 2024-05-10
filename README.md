@@ -5,6 +5,7 @@ AMR prediction in Mycobacterium tuberculosis using whole genome sequences <br />
 ``` git clone https://github.com/Ankitapal1995/TB-AMRpred.git``` <br />
 
 **requirement**  <br />
+```cd TB-AMRpred``` <br/>
 ```conda env create -f environment_amr.yml``` <br />
 
  or <br />

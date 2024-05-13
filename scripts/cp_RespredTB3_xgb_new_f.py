@@ -20,25 +20,10 @@ def suppress_stdout():
             sys.stdout = old_stdout
 suppress_stdout()
 
-def res_mut(file_name):
-    ls_file=[]
-    ls_genome=[]
-    common_mut=[]
-    f=open(edited_snp_file).readlines()
-    for i in f:
-        ls_genome.append(i.strip("\n"))
-    f1=open(file_name).readlines()
-    for ele in f1:
-        ls_file.append(ele.strip("\n"))
-
-    for i in ls_file:
-        if i in ls_genome:
-           common_mut.append(i)
-
-    return common_mut
 from sys import argv
 import sys
 #s,input_file=argv
+################################### input file preparation ############################
 input_ls=sys.argv
 input_file=input_ls[1]
 fprep=[]
@@ -67,6 +52,7 @@ edited_snp_file='edited_'+prefix+".csv"
 #print(edited_snp_file)
 #dl_file=prefix+".csv_dl_file"
 #ml_file = prefix+".csv_ml_file"
+################################## adding all file path ###################################
 from paths_variable import m_path, mu_path, s_path
 #model_path='/home/ankita/Desktop/TB-AMRpred-main/models/'
 model_path=m_path
@@ -74,20 +60,27 @@ model_path=m_path
 mutation_path=mu_path
 #script_path='/home/ankita/Desktop/TB-AMRpred-main/scripts/'
 script_path=s_path
-ml_models=[(model_path+'pickle_default_new_version_3512_3512_iso_res_sus_5511_mut_matrix_train_for_ml.csv',mutation_path+'45_iso_res_mut_xgboost_cut_off_name.csv',prefix+"_iso_ml.csv","inh"),(model_path+'pickle_default_new_version_1500_1500_ethamb_res_sus_pure_3185_mut_matrix_train_for_ml.csv',mutation_path+'105_ethamb_imp_res_mut_combined_score.csv',prefix+"_ethamb_ml.csv","emb"),(model_path+'pickle_default_new_version_2750_2750_rifam_res_full_sus_5030_mut_matrix_train_for_ml.csv',mutation_path+'55_combined_xgb_shap_rifam_res_mut.csv',prefix+'_rifam_ml.csv',"rif"),(model_path+'pickle_default_new_version_1500_1500_res_sus_2832_mut_prof_for_ml.csv',mutation_path+'60_xgb_ann_shap_strep_combind_mutation_list.csv',prefix+"_strep_ml.csv","stm"),(model_path+'pickle_default_new_version_1500_1500_pyrzmd_res_sus_5964_mut_prof_for_ml.csv',mutation_path+'224_pza_imp_res_mut_combined_ann_xgb_name.csv',prefix+'_pyrzmd_ml.csv',"pza"),(model_path+'pickle_default_new_version_500_500_kana_res_sus_3552_mut_prof_for_ml.csv',mutation_path+'27_kana_res_imp_mut_combined_shap_xgb.csv',prefix+'_kana_ml.csv',"kan"),(model_path+'pickle_default_new_version_1076_1076_ethion_res_sus_21619_mut_matrix_train_for_ml.csv',mutation_path+'49_ethion_imp_res_mut_xgb_for_prediction_name.csv',prefix+'_ethion_ml.csv',"eth"),(model_path+'pickle_default_new_version_350_350_amk_res_sus_13437_mut_prof_for_ml.csv',mutation_path+'11_xgb_ann_amk_imp_res_mut_name.csv',prefix+'_amk_ml.csv',"ami"),(model_path+'pickle_default_new_version_959_959_oflx_res_sus_14333_mut_matrix_train_for_ml.csv',mutation_path+'34_ofloxacin_xgb_prediction_imp_mutation_name.csv',prefix+'_oflox_ml.csv',"oflox"),(model_path+'pickle_default_new_version_242_242_mox_res_sus_18122_mut_matrix_train_for_ml.csv',mutation_path+'18122_mox_res_sus_mut.csv',prefix+'_mox_ml.csv',"mox"),(model_path+'pickle_default_new_version_100_100_cyclo_res_sus_3518_mut_prof_for_ml.csv',mutation_path+'26_combined_ann_xgb_cyclo_imp_res_mut.csv',prefix+'_cyclo_ml.csv',"cyclo"),(model_path+'pickle_default_new_version_90_90_res_sus_5287_mut_prof_for_ml.csv',mutation_path+'40_combined_ann_xgb_pas_imp_mut.csv',prefix+'_pas_ml.csv',"pas"),(model_path+'pickle_default_new_version_400_400_cap_res_sus_2289_mut_prof_for_ml.csv',mutation_path+'20_imp_cap_res_mut_combined_xgb_shap.csv',prefix+'_cap_ml.csv',"cap")]
+
+
+################################# loading all the models for prediction ####################
+ml_models=[(model_path+'pickle_inh_model.csv',prefix+"_inh_ml.csv","inh"),(model_path+'pickle_emb_model.csv',prefix+"_emb_ml.csv","emb"),(model_path+'pickle_rif_model.csv',prefix+'_rif_ml.csv',"rif"),(model_path+'pickle_stm_model.csv',prefix+"_stm_ml.csv","stm"),(model_path+'pickle_pza_model.csv',prefix+'_pza_ml.csv',"pza"),(model_path+'pickle_kan_model.csv',prefix+'_kan_ml.csv',"kan"),(model_path+'pickle_eth_model.csv',prefix+'_eth_ml.csv',"eth"),(model_path+'pickle_ami_model.csv',prefix+'_ami_ml.csv',"ami"),(model_path+'pickle_oflx_model.csv',prefix+'_oflx_ml.csv',"oflx"),(model_path+'pickle_mxf_model.csv',prefix+'_mxf_ml.csv',"mxf"),(model_path+'pickle_cyclo_model.csv',prefix+'_cyclo_ml.csv',"cyclo"),(model_path+'pickle_pas_model.csv',prefix+'_pas_ml.csv',"pas"),(model_path+'pickle_cap_model.csv',prefix+'_cap_ml.csv',"cap")]
+
 #ml_models=[(model_path+'pickle_default_new_version_1500_1500_pyrzmd_res_sus_5964_mut_prof_for_ml.csv',mutation_path+'224_pza_imp_res_mut_combined_ann_xgb_name.csv',prefix+'_pyrzmd_ml.csv',"pza")]
 t1=time.time()
 
+
+################################### AMR prediction ##################################
+
 def ml_predict(input_f,input_f2=None):
-    print(input_f)
-    print(input_f2)
+    #print(input_f)
+    #print(input_f2)
     #if input_f2 is None:
     #    print("input file is one")
     #else:
     #    print("input files are two")
     if input_f2 is None:
         input_f=os.path.join(head, input_f)
-        print(input_f)
+        #print(input_f)
         subprocess.run(['snippy','--ref',script_path+'AL123456_h37rv.gb','--ctgs',input_f,'--prefix',prefix,'--outdir',".","--force","--cpus","20"])
     else:
         input_f=os.path.join(head, input_f)
@@ -105,14 +98,14 @@ def ml_predict(input_f,input_f2=None):
     for i in ml_models:
         ls=[]
         #print(i[4]+"models")
-        subprocess.run(['python',script_path+'cp_both_ann_xgb_model_for_amr_prediction_testing_with_cutoff.py',i[0],i[2],i[3]])
+        subprocess.run(['python',script_path+'cp_both_ann_xgb_model_for_amr_prediction_testing_with_cutoff.py',i[0],i[1],i[2]])
         #print(i[4]+"prediction done")
-        print(i[3].upper()+"-------done")
-        fo=open(prefix+".csv_"+i[3]+"_xgb_prediction.csv","r")
-        print(f'final file fetching---{prefix+".csv_"+i[3]+"_xgb_prediction.csv"}')
+        print(i[2].upper()+"-------done")
+        fo=open(prefix+".csv_"+i[2]+"_xgb_prediction.csv","r")
+        #print(f'final file fetching---{prefix+".csv_"+i[2]+"_xgb_prediction.csv"}')
         for line in fo:
                ls.append(line.strip("\n"))
-               ls.append(res_mut(i[1]))
+               #ls.append(res_mut(i[1]))
         final_multi_class_data.append(ls)
     #filepath='/home/ankita/Desktop/webserver_tool/result/'
     #print(f'this is the final prefix value:{prefix}')
@@ -129,20 +122,141 @@ def ml_predict(input_f,input_f2=None):
     for i in final_multi_class_data:
         final_file.write(i[0].split("\t")[0])
         final_file.write(",")
-        if i[0].split("\t")[1]=="mox":
-            final_file.write('MXF')
-        else:
-            final_file.write(i[0].split("\t")[1].upper())
+        final_file.write(i[0].split("\t")[1].upper())
         #final_file.write("\t")
         #final_file.write((',').join(i[1]))
         final_file.write("\n")
     final_file.close()
     return final_file
 
+################# executing AMR prediction function ########################
+
 if len(input_ls)==3:
     ml_predict(input_ls[1],input_ls[2])
 else:
     ml_predict(input_ls[1])
-subprocess.run(['rm',prefix+"_rifam_ml.csv",prefix+"_iso_ml.csv",prefix+"_ethamb_ml.csv",prefix+"_strep_ml.csv",prefix+"_pyrzmd_ml.csv",prefix+"_pas_ml.csv",prefix+"_oflox_ml.csv",prefix+"_mox_ml.csv",prefix+"_kana_ml.csv",prefix+"_ethion_ml.csv",prefix+"_cyclo_ml.csv",prefix+"_cap_ml.csv",prefix+"_amk_ml.csv",prefix+".csv_inh_xgb_prediction.csv",prefix+".csv_emb_xgb_prediction.csv",prefix+".csv_rif_xgb_prediction.csv",prefix+".csv_stm_xgb_prediction.csv",prefix+".csv_pza_xgb_prediction.csv",prefix+".csv_kan_xgb_prediction.csv",prefix+".csv_eth_xgb_prediction.csv",prefix+".csv_ami_xgb_prediction.csv",prefix+".csv_oflox_xgb_prediction.csv",prefix+".csv_mox_xgb_prediction.csv",prefix+".csv_cyclo_xgb_prediction.csv",prefix+".csv_pas_xgb_prediction.csv",prefix+".csv_cap_xgb_prediction.csv"])
+
+############################### deleting all the temp file ##################
+subprocess.run(['rm',prefix+"_rif_ml.csv",prefix+"_inh_ml.csv",prefix+"_emb_ml.csv",prefix+"_stm_ml.csv",prefix+"_pza_ml.csv",prefix+"_pas_ml.csv",prefix+"_oflx_ml.csv",prefix+"_mxf_ml.csv",prefix+"_kan_ml.csv",prefix+"_eth_ml.csv",prefix+"_cyclo_ml.csv",prefix+"_cap_ml.csv",prefix+"_ami_ml.csv",prefix+".csv_inh_xgb_prediction.csv",prefix+".csv_emb_xgb_prediction.csv",prefix+".csv_rif_xgb_prediction.csv",prefix+".csv_stm_xgb_prediction.csv",prefix+".csv_pza_xgb_prediction.csv",prefix+".csv_kan_xgb_prediction.csv",prefix+".csv_eth_xgb_prediction.csv",prefix+".csv_ami_xgb_prediction.csv",prefix+".csv_oflx_xgb_prediction.csv",prefix+".csv_mxf_xgb_prediction.csv",prefix+".csv_cyclo_xgb_prediction.csv",prefix+".csv_pas_xgb_prediction.csv",prefix+".csv_cap_xgb_prediction.csv"])
+
+
+############################# analyzing resistance associated mutation ########################
+def res_mut(file_name):
+    ls_file=[]
+    ls_genome=[]
+    common_mut=[]
+    f=open(edited_snp_file).readlines()
+    for i in f:
+        ls_genome.append(i.strip("\n"))
+    f1=open(file_name).readlines()
+    for ele in f1:
+        ele=ele.strip("\n")
+        ls_file.append([ele.split("\t")[0],ele.split("\t")[1],ele.split("\t")[2]])
+    for i in ls_file:
+        if i[0] in ls_genome:
+           common_mut.append([i[1],i[2]])
+
+    return common_mut
+
+########################### loading all the predicted mutations highly relevant to drug resistance #############################
+ml_pred_mut=[mu_path+"Isoniazid_mutation_comparison_WHO.csv",mu_path+"Ethambutol_mutation_comparison_WHO.csv",mu_path+"Rifampicin_mutation_comparison_WHO.csv",mu_path+"Streptomycin_mutation_comparison_WHO.csv",mu_path+"Pyrazinamide_mutation_comparison_WHO.csv",mu_path+"Kanamycin_mutation_comparison_WHO.csv",mu_path+"Ethionamide_mutation_comparison_WHO.csv",mu_path+"Amikacin_mutation_comparison_WHO.csv",mu_path+"Ofloxacin_mutation_comparison_WHO.csv",mu_path+"Moxifloxacin_mutation_comparison_WHO.csv",mu_path+"Cycloserin_mutation_comparison_WHO.csv",mu_path+"PAS_mutation_comparison_WHO.csv",mu_path+"Capreomycin_mutation_comparison_WHO.csv"]
+#edited_snp_file='edited_'+prefix+".csv"
+#print(edited_snp_file)
+final_mut_data=[]
+for i in ml_pred_mut:
+    final_mut_data.append(res_mut(i))
+#print(final_mut_data)
+drug=['INH','EMB','RIF','STM','PZA','KAN','ETH','AMI','OFLX','MXF','CYCLO','PAS','CAP']
+tup=tuple(zip(final_mut_data,drug))
+#print(tup)
+mutation_info=[]
+for i in tup:
+    if len(i[0])==0:
+        pass
+    else:
+        ls=[]
+        ls.append(('; '.join(str('__'.join(v)) for v in i[0]),i[1]))
+        mutation_info.append(ls)
+    #print(mutation_info)
+
+
+fo=open(prefix+"_predicted_mutation_catalogue.csv","w")
+for i in mutation_info:
+    for j in i:
+        #print(j[0])
+        for k in j[0].split(";"):
+            if k.split("__")[1]=='Assoc w R':
+                fo.write(k.split("__")[0])
+            else:
+                fo.write(k.split("__")[0])
+            fo.write("\t")
+            fo.write("Predicted")
+            fo.write("\t")
+            fo.write("mutation")
+            fo.write("\t")
+            fo.write(j[1])
+            fo.write("\n")
+
+fo.close()
+
+
+######################### combining AMR prediction and predicted resistance associated mutations ########################################
+
+f=prefix+"_drug_resistant_data.csv"
+f2=prefix+"_predicted_mutation_catalogue.csv"
+f1=open(f).readlines()
+amr={}
+for i in f1:
+    i=i.strip("\n")
+    if i.startswith("predicted"):
+        pass
+    else:
+        amr[i.split(",")[1]]=i.split(",")[0]
+#print(amr)
+
+f2=open(f2).readlines()
+mut=[]
+for i in f2:
+    i=i.strip("\n")
+    mut.append((i.split("\t")[0],i.split("\t")[1],i.split("\t")[2],i.split("\t")[3]))
+#print(mut)
+
+mut_result={}
+for item in mut:
+    key=item[3]
+    if key not in mut_result:
+        mut_result[key]=[]
+    mut_result[key].append(item[:3])
+#print(mut_result)
+new_mut={}
+for i in mut_result:
+    value=[]
+    for j in mut_result[i]:
+        value.append(j[0])
+    new_mut[i]=value
+#print(new_mut)
+
+import pandas as pd
+import csv
+result_dict={}
+
+for key,value in amr.items():
+    if value=="R":
+        result_dict[key]={value:new_mut.get(key,[])}
+    else:
+        result_dict[key]={value:['']}
+#print(result_dict)
+
+data=[(key,subkey,';'.join(tup)) for key,subdict in result_dict.items() for subkey,tup in subdict.items()]
+#print(data)
+
+#####################################  final file prepararion ################################################
+
+with open(prefix+"_drug_resistant_with_mutation_prediction.csv","w",newline='') as csvfile:
+    csv_writer=csv.writer(csvfile)
+    csv_writer.writerow(['Drugs','Predicted AMR phenotype','Predicted resistance associated mutation'])
+    csv_writer.writerows(data)
+subprocess.run(['rm',prefix+"_drug_resistant_data.csv", prefix+"_predicted_mutation_catalogue.csv",'edited_'+prefix+'.csv',prefix+'.csv'])
+
 t2=time.time()
 print(f'time taken:{t2-t1}')

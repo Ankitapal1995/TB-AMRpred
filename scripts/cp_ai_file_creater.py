@@ -5,7 +5,7 @@ all_mutation=[]
 for m in f1:
     m=m.strip("\n")
     all_mutation.append(m)
-print(all_mutation)
+#print(all_mutation)
 #for i in all_mutation:
 #    print(i)
 #f2=open(filename,"r").readlines()
@@ -26,7 +26,7 @@ genome=[]
 masterfile=[]'''
 from paths_variable import mu_path
 path=mu_path
-mut_file_list=[path+'5511_iso_res_mut.csv',path+'3185_ethamb_res_mut.csv',path+'5030_rifam_res_mut.csv',path+'2832_strep_res_mut.csv',path+'5964_pyrzmd_res_mut.csv',path+'3552_kana_res_mut.csv',path+'21619_ethion_res_mut.csv',path+'14333_oflox_res_mut.csv',path+'18122_mox_res_sus_mut.csv',path+'3518_cyclo_res_mut.csv',path+'5287_pas_res_mut.csv',path+'13437_amk_res_mut.csv',path+'2289_cap_res_mut.csv']
+mut_file_list=[path+'inh_feature.csv',path+'emb_feature.csv',path+'rif_feature.csv',path+'stm_feature.csv',path+'pza_feature.csv',path+'kan_feature.csv',path+'eth_feature.csv',path+'oflx_feature.csv',path+'mxf_feature.csv',path+'cyclo_feature.csv',path+'pas_feature.csv',path+'ami_feature.csv',path+'cap_feature.csv']
 #mut_file_list=[path+'2289_cap_res_mut.csv']
 #for i in cds:
 #    genome.append(''.join(i.split(" ")[2:]))
@@ -53,7 +53,7 @@ def ml_file_creater(f):
     result_string=''.join(prepf)
     #print(ls)
     #print(result_string)
-    fo=open(result_string+"_"+f.split("/")[-1].split("_")[1]+"_ml.csv","w")
+    fo=open(result_string+"_"+f.split("/")[-1].split("_")[0]+"_ml.csv","w")
     fo.write(','.join(mut_n))
     fo.write("\n")
     fo.write(','.join(ls))

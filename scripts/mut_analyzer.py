@@ -24,10 +24,3 @@ for i in cds:
     fo.write("\n")
 fo.close()
 
-
-'''fo=open("edited_"+filename,"w")
-for i in cds:
-    fo.write(''.join(i.split(" ")[2:]))
-    fo.write("\n")
-fo.close()'''
-

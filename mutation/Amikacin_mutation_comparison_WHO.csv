@@ -1,0 +1,7 @@
+1473246,snp,A,G,G:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S	rrs,n.1401A>G	Assoc w R	Known_region_new_mutation	yes
+2637162,snp,C,T,T:16 C:0	PPE40,c.-526C>T	New gene mutation	New_gene	yes
+p.Ter306Trpext*?,Rv3300c,	Rv3300c_p.Ter306Trpext*?	New gene mutation	New_gene	yes
+p.Ala431Thr,Rv0897c,	Rv0897c_p.Ala431Thr	New gene mutation	New_gene	yes
+p.Val740Ile,Rv3870,eccCa1	eccCa1_p.Val740Ile	New gene mutation	New_gene	yes
+p.Leu216Val,Rv0874c,	Rv0874c_p.Leu216Val	New gene mutation	New_gene	yes
+p.Ile4Val,Rv2685,arsB1	arsB1_p.Ile4Val	New gene mutation	New_gene	yes

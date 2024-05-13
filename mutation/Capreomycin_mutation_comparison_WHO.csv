@@ -1,0 +1,18 @@
+1473246,snp,A,G,G:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S	rrs,n.1401A>G	Assoc w R	Known_region_new_mutation	yes
+p.Ile251Val,Rv0260c,	Rv0260c_p.Ile251Val	New gene mutation	New_gene	yes
+p.Ala85Val,Rv1830,	Rv1830_p.Ala85Val	New gene mutation	New_gene	yes
+p.Lys315Glu,Rv3467,	Rv3467_p.Lys315Glu	New gene mutation	New_gene	yes
+1472359,snp,A,C,C:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S	rrs,n.514A>C	Not assoc w R	Known_region_new_mutation	yes
+1673425,snp,C,T,T:20 C:0	fabG1,c.-15C>T	New gene mutation	New_gene	yes
+2487490,del,AG,A,A:20 AG:0	glnA1,c.-125AG>A	New gene mutation	New_gene	yes
+4056430,snp,T,C,C:20 T:0	ephA,c.-1303T>C	New gene mutation	New_gene	yes
+p.Val188Ala,Rv3806c,ubiA	ubiA_p.Val188Ala	New gene mutation	New_gene	yes
+p.Ile1106Thr,Rv0667,rpoB	rpoB_p.Ile1106Thr	New gene mutation	New_gene	yes
+p.Leu275Pro,Rv2000,	Rv2000_p.Leu275Pro	New gene mutation	New_gene	yes
+664929,snp,C,A,A:20 C:0	Rv0572c,c.-113C>A	New gene mutation	New_gene	yes
+1029386,ins,G,GCGC,GCGC:19 G:0	Rv0923c,c.-127G>GCGC	New gene mutation	New_gene	yes
+2637541,snp,C,T,T:13 C:0	PPE40,c.-147C>T	New gene mutation	New_gene	yes
+p.Ala431Thr,Rv0897c,	Rv0897c_p.Ala431Thr	New gene mutation	New_gene	yes
+p.Val740Ile,Rv3870,eccCa1	eccCa1_p.Val740Ile	New gene mutation	New_gene	yes
+714158,del,GT,G,G:19 GT:0	Rv0621,c.-44GT>G	New gene mutation	New_gene	yes
+1852176,del,CT,C,C:19 CT:0	infC,c.-97CT>C	New gene mutation	New_gene	yes

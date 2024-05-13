@@ -1,0 +1,23 @@
+1471659,snp,C,T,T:20 C:0,ncRNA,+,,,non_coding_transcript_variant  ,,mcr3,Putative small regulatory RNA	mcr3,c.-40C>T	New gene mutation	New_gene	yes
+1473246,snp,A,G,G:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S	rrs,n.1401A>G	New gene mutation	New_gene	yes
+1673425,snp,C,T,T:20 C:0	fabG1,c.-15C>T	Assoc w R	Known_region_known_mut	yes
+2265059,snp,T,G,G:20 T:0	Rv2018,c.-221T>G	New gene mutation	New_gene	yes
+503354,snp,G,C,C:20 G:0	lpqL,c.-142G>C	New gene mutation	New_gene	yes
+80616,snp,C,G,G:20 C:0	Rv0072,c.-8C>G	New gene mutation	New_gene	yes
+p.Ala147Thr,Rv2716,	Rv2716_p.Ala147Thr	New gene mutation	New_gene	yes
+p.Ala17Thr,Rv3838c,pheA	pheA_p.Ala17Thr	New gene mutation	New_gene	yes
+p.Arg262Gly,Rv2936,drrA	drrA_p.Arg262Gly	New gene mutation	New_gene	yes
+p.Arg906Pro,Rv0064,	Rv0064_p.Arg906Pro	New gene mutation	New_gene	yes
+p.Glu185Lys,Rv1123c,bpoB	bpoB_p.Glu185Lys	New gene mutation	New_gene	yes
+p.Gly234Arg,Rv0773c,ggtA	ggtA_p.Gly234Arg	New gene mutation	New_gene	yes
+p.His2147Gln,Rv2048c,pks12	pks12_p.His2147Gln	New gene mutation	New_gene	yes
+p.Ile231Thr,Rv2037c,	Rv2037c_p.Ile231Thr	New gene mutation	New_gene	yes
+p.Met306Ile,Rv3795,embB	embB_p.Met306Ile	New gene mutation	New_gene	yes
+p.Met306Val,Rv3795,embB	embB_p.Met306Val	New gene mutation	New_gene	yes
+p.Pro104fs,Rv0698,	Rv0698_p.Pro104fs	New gene mutation	New_gene	yes
+p.Ser115Ala,Rv0932c,pstS2	pstS2_p.Ser115Ala	New gene mutation	New_gene	yes
+p.Ser450Leu,Rv0667,rpoB	rpoB_p.Ser450Leu	New gene mutation	New_gene	yes
+p.Ser94Ala,Rv1484,inhA	inhA_p.Ser94Ala	Assoc w R - Interim	Known_region_known_mut	yes
+p.Thr121fs,Rv0888,	Rv0888_p.Thr121fs	New gene mutation	New_gene	yes
+p.Trp109*,Rv1704c,cycA	cycA_p.Trp109*	New gene mutation	New_gene	yes
+p.Val250Ala,Rv0048c,	Rv0048c_p.Val250Ala	New gene mutation	New_gene	yes

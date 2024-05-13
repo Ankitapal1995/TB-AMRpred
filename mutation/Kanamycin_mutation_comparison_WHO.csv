@@ -1,0 +1,9 @@
+1473246,snp,A,G,G:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S	rrs,n.1401A>G	Assoc w R	Known_region_new_mutation	yes
+1472359,snp,A,C,C:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S	rrs,n.514A>C	Uncertain significance	Known_region_new_mutation	yes
+p.Leu113Arg,Rv3423c,alr	alr_p.Leu113Arg	New gene mutation	New_gene	yes
+2715346,snp,G,A,A:20 G:0	eis,c.-16G>A	Known region new mutation	Known_region_new_mutation	yes
+1472920,ins,G,GT,GT:20 G:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S	rrs,n.1075G>GT	Uncertain significance	Known_region_new_mutation	yes
+p.Leu120Pro,Rv2043c,pncA	pncA_p.Leu120Pro	New gene mutation	New_gene	yes
+1205269,snp,C,T,T:20 C:0	greA,c.-35C>T	New gene mutation	New_gene	yes
+4121642,snp,G,A,A:20 G:0	ponA2,c.-274G>A	New gene mutation	New_gene	yes
+1472362,snp,C,T,T:20 C:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S	rrs,n.517C>T	Uncertain significance	Known_region_new_mutation	yes

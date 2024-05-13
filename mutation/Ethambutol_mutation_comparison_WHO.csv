@@ -1,0 +1,36 @@
+2715342,snp,C,T,T:20 C:0	Rv2417c,c.-130C>T	New gene mutation	New_gene	yes
+2715344,snp,G,A,A:20 G:0	Rv2417c,c.-128G>A	New gene mutation	New_gene	yes
+2726145,snp,G,A,A:20 G:0	ahpC,c.-48G>A	New gene mutation	New_gene	yes
+3895727,snp,C,A,A:21 C:0	Rv3479,c.-93C>A	New gene mutation	New_gene	yes
+4087495,snp,A,G,G:20 A:0	Rv3647c,c.-115A>G	New gene mutation	New_gene	yes
+4216783,snp,A,C,C:20 A:0	argU,c.-82A>C	New gene mutation	New_gene	yes
+4243190,snp,G,C,C:20 G:0	embA,c.-43G>C	Known region new mutation	Known_region_new_mutation	yes
+4243217,snp,C,G,G:20 C:0	embA,c.-16C>G	Uncertain significance	Known_region_known_mut	yes
+4243217,snp,C,T,T:20 C:0	embA,c.-16C>T	Uncertain significance	Known_region_known_mut	yes
+4327480,snp,A,G,G:20 A:0	ethR,c.-69A>G	New gene mutation	New_gene	yes
+p.Ala5Val,Rv2670c,	Rv2670c_p.Ala5Val	New gene mutation	New_gene	yes
+p.Ala90Val,Rv0006,gyrA	gyrA_p.Ala90Val	New gene mutation	New_gene	yes
+p.Asp328Tyr,Rv3795,embB	embB_p.Asp328Tyr	Assoc w R	Known_region_known_mut	yes
+p.Asp354Ala,Rv3795,embB	embB_p.Asp354Ala	Assoc w R	Known_region_known_mut	yes
+p.Asp435Tyr,Rv0667,rpoB	rpoB_p.Asp435Tyr	New gene mutation	New_gene	yes
+p.Asp435Val,Rv0667,rpoB	rpoB_p.Asp435Val	New gene mutation	New_gene	yes
+p.Asp62Ala,Rv0095c,	Rv0095c_p.Asp62Ala	New gene mutation	New_gene	yes
+p.Gln497Arg,Rv3795,embB	embB_p.Gln497Arg	Assoc w R	Known_region_known_mut	yes
+p.Gln497Lys,Rv3795,embB	embB_p.Gln497Lys	Assoc w R	Known_region_known_mut	yes
+p.Glu103Gly,Rv1447c,zwf2	zwf2_p.Glu103Gly	New gene mutation	New_gene	yes
+p.Glu346*,Rv1279,	Rv1279_p.Glu346*	New gene mutation	New_gene	yes
+p.Gly406Ala,Rv3795,embB	embB_p.Gly406Ala	Assoc w R	Known_region_known_mut	yes
+p.Gly406Asp,Rv3795,embB	embB_p.Gly406Asp	Assoc w R	Known_region_known_mut	yes
+p.Gly406Ser,Rv3795,embB	embB_p.Gly406Ser	Assoc w R	Known_region_known_mut	yes
+p.Gly78fs,Rv2333c,stp	stp_p.Gly78fs	New gene mutation	New_gene	yes
+p.His1002Arg,Rv3795,embB	embB_p.His1002Arg	Uncertain significance	Known_region_known_mut	yes
+p.His445Asp,Rv0667,rpoB	rpoB_p.His445Asp	New gene mutation	New_gene	yes
+p.His445Tyr,Rv0667,rpoB	rpoB_p.His445Tyr	New gene mutation	New_gene	yes
+p.Ile194Thr,Rv1484,inhA	inhA_p.Ile194Thr	New gene mutation	New_gene	yes
+p.Lys374fs,Rv0272c,	Rv0272c_p.Lys374fs	New gene mutation	New_gene	yes
+p.Met306Ile,Rv3795,embB	embB_p.Met306Ile	Assoc w R	Known_region_known_mut	yes
+p.Met306Leu,Rv3795,embB	embB_p.Met306Leu	Assoc w R	Known_region_known_mut	yes
+p.Met306Val,Rv3795,embB	embB_p.Met306Val	Assoc w R	Known_region_known_mut	yes
+p.Ser91Pro,Rv0006,gyrA	gyrA_p.Ser91Pro	New gene mutation	New_gene	yes
+p.Ser94Ala,Rv1484,inhA	inhA_p.Ser94Ala	New gene mutation	New_gene	yes
+p.Val483Gly,Rv0668,rpoC	rpoC_p.Val483Gly	New gene mutation	New_gene	yes

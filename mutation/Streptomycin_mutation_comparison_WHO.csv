@@ -1,0 +1,48 @@
+p.Lys43Arg,Rv0682,rpsL	rpsL_p.Lys43Arg	Assoc w R	Known_region_known_mut	yes
+p.Lys31Glu,Rv0893c,	Rv0893c_p.Lys31Glu	New gene mutation	New_gene	yes
+p.Asp55Asn,Rv0012,	Rv0012_p.Asp55Asn	New gene mutation	New_gene	yes
+1473246,snp,A,G,G:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S	rrs,n.1401A>G	Uncertain significance	Known_region_new_mutation	yes
+p.Lys88Arg,Rv0682,rpsL	rpsL_p.Lys88Arg	Assoc w R	Known_region_known_mut	yes
+1472359,snp,A,C,C:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S	rrs,n.514A>C	Assoc w R	Known_region_new_mutation	yes
+p.Leu35fs,Rv3919c,gid	gid_p.Leu35fs	Assoc w R - Interim	Known_region_known_mut	yes
+1472362,snp,C,T,T:20 C:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S	rrs,n.517C>T	Assoc w R	Known_region_new_mutation	yes
+1696671,del,CA,C,C:19 CA:0	Rv1507c,c.-56CA>C	New gene mutation	New_gene	yes
+p.Leu79Ser,Rv3919c,gid	gid_p.Leu79Ser	Uncertain significance	Known_region_known_mut	yes
+p.Arg403Gly,Rv0041,leuS	leuS_p.Arg403Gly	New gene mutation	New_gene	yes
+p.Glu92Asp,Rv3919c,gid	gid_p.Glu92Asp	Not assoc w R	Known_region_known_mut	yes
+4124349,del,GCC,G,G:19 GCC:0	Rv3683,c.-68GCC>G	New gene mutation	New_gene	yes
+p.Thr121fs,Rv0888,	Rv0888_p.Thr121fs	New gene mutation	New_gene	yes
+p.Arg39fs,Rv3919c,gid	gid_p.Arg39fs	Assoc w R	Known_region_known_mut	yes
+p.Glu119Asp,Rv0311,	Rv0311_p.Glu119Asp	New gene mutation	New_gene	yes
+p.Leu33fs,Rv2545,vapB18	vapB18_p.Leu33fs	New gene mutation	New_gene	yes
+p.Ala260Val,Rv1368,lprF	lprF_p.Ala260Val	New gene mutation	New_gene	yes
+p.Arg118fs,Rv3919c,gid	gid_p.Arg118fs	Assoc w R - Interim	Known_region_known_mut	yes
+1701215,snp,C,T,T:20 C:0	Rv1510,c.-80C>T	New gene mutation	New_gene	yes
+p.Arg409Ser,Rv3537,kstD	kstD_p.Arg409Ser	New gene mutation	New_gene	yes
+p.Gln497Arg,Rv3795,embB	embB_p.Gln497Arg	New gene mutation	New_gene	yes
+p.Gln519Arg,Rv3051c,nrdE	nrdE_p.Gln519Arg	New gene mutation	New_gene	yes
+p.Ala619Thr,Rv3682,ponA2	ponA2_p.Ala619Thr	New gene mutation	New_gene	yes
+p.Ile61Leu,Rv3788,	Rv3788_p.Ile61Leu	New gene mutation	New_gene	yes
+p.Tyr103Asp,Rv2495c,bkdC	bkdC_p.Tyr103Asp	New gene mutation	New_gene	yes
+p.Glu234Gly,Rv0890c,	Rv0890c_p.Glu234Gly	New gene mutation	New_gene	yes
+p.Ala140Thr,Rv0691c,	Rv0691c_p.Ala140Thr	New gene mutation	New_gene	yes
+1472751,snp,A,G,G:20 A:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S	rrs,c.-906A>G	Uncertain significance	Known_region_new_mutation	yes
+p.Leu191Ala,Rv0988,	Rv0988_p.Leu191Ala	New gene mutation	New_gene	yes
+1697896,snp,C,T,T:20 C:0	Rv1508c,c.-199C>T	New gene mutation	New_gene	yes
+p.Val483Gly,Rv0668,rpoC	rpoC_p.Val483Gly	New gene mutation	New_gene	yes
+p.Ala372Val,Rv0987,	Rv0987_p.Ala372Val	New gene mutation	New_gene	yes
+3310427,snp,T,C,C:20 T:0	Rv2958c,c.-287T>C	New gene mutation	New_gene	yes
+3811672,complex,GTAA,TTAG,TTAG:20 GTAA:0	Rv3395A,c.-47GTAA>TTAG	New gene mutation	New_gene	yes
+p.Thr61Met,Rv0933,pstB	pstB_p.Thr61Met	New gene mutation	New_gene	yes
+4264381,ins,G,GC,GC:19 G:0	fbpD,c.-182G>GC	New gene mutation	New_gene	yes
+p.Trp61*,Rv0717,rpsN1	rpsN1_p.Trp61*	New gene mutation	New_gene	yes
+3135606,snp,A,G,G:20 A:0	Rv2828c,c.-182A>G	New gene mutation	New_gene	yes
+1252053,del,AG,A,A:20 AG:0,repeat_region,+,919/1356,307/451,frameshift_variant c.919delC p.Leu307fs	Rv1128c,c.-436AG>A	New gene mutation	New_gene	yes
+p.Pro376Leu,Rv2082,	Rv2082_p.Pro376Leu	New gene mutation	New_gene	yes
+p.Ala45Gly,Rv2561,	Rv2561_p.Ala45Gly	New gene mutation	New_gene	yes
+4243217,snp,C,G,G:20 C:0	embA,c.-16C>G	New gene mutation	New_gene	yes
+p.Val21Ala,Rv3866,espG1	espG1_p.Val21Ala	New gene mutation	New_gene	yes
+p.Val82Leu,Rv2056c,rpsN2	rpsN2_p.Val82Leu	New gene mutation	New_gene	yes
+p.Glu809Gly,Rv0194,	Rv0194_p.Glu809Gly	New gene mutation	New_gene	yes
+p.Ala47Thr,Rv2169c,	Rv2169c_p.Ala47Thr	New gene mutation	New_gene	yes
+p.Ala138Val,Rv3919c,gid	gid_p.Ala138Val	Uncertain significance	Known_region_known_mut	yes

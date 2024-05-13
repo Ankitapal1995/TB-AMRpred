@@ -1,0 +1,224 @@
+p.Asn698Ser,Rv0668,rpoC	rpoC_p.Asn698Ser	New gene mutation	New_gene	yes
+4327484,snp,T,C,C:20 T:0	ethR,c.-65T>C	New gene mutation	New_gene	yes
+p.Leu113Arg,Rv3423c,alr	alr_p.Leu113Arg	New gene mutation	New_gene	yes
+p.Gln10Pro,Rv2043c,pncA	pncA_p.Gln10Pro	Assoc w R	Known_region_known_mut	yes
+p.Val131fs,Rv2043c,pncA	pncA_p.Val131fs	Assoc w R	Known_region_known_mut	yes
+p.Leu111fs,Rv0010c,	Rv0010c_p.Leu111fs	New gene mutation	New_gene	yes
+p.Ile491Thr,Rv0668,rpoC	rpoC_p.Ile491Thr	New gene mutation	New_gene	yes
+p.Thr135Pro,Rv2043c,pncA	pncA_p.Thr135Pro	Assoc w R	Known_region_known_mut	yes
+480233,ins,C,CA,CA:19 C:0	mmpL1,c.-122C>CA	New gene mutation	New_gene	yes
+p.Tyr103*,Rv2043c,pncA	pncA_p.Tyr103*	Assoc w R	Known_region_known_mut	yes
+p.Cys14Arg,Rv2043c,pncA	pncA_p.Cys14Arg	Assoc w R	Known_region_known_mut	yes
+p.Leu4Ser,Rv2043c,pncA	pncA_p.Leu4Ser	Assoc w R	Known_region_known_mut	yes
+295716,del,GTCAAAATATA,G,G:17 GTCAAAATATA:0	Rv0245,c.-289GTCAAAATATA>G	New gene mutation	New_gene	yes
+p.Thr153fs,Rv2043c,pncA	pncA_p.Thr153fs	Assoc w R	Known_region_known_mut	yes
+4243190,snp,G,C,C:20 G:0	embA,c.-43G>C	New gene mutation	New_gene	yes
+p.Val7Gly,Rv2043c,pncA	pncA_p.Val7Gly	Assoc w R	Known_region_known_mut	yes
+p.Gln497Lys,Rv3795,embB	embB_p.Gln497Lys	New gene mutation	New_gene	yes
+p.Thr76Pro,Rv2043c,pncA	pncA_p.Thr76Pro	Assoc w R	Known_region_known_mut	yes
+p.Trp68Gly,Rv2043c,pncA	pncA_p.Trp68Gly	Assoc w R	Known_region_known_mut	yes
+p.Leu516Pro,Rv0668,rpoC	rpoC_p.Leu516Pro	New gene mutation	New_gene	yes
+p.Leu120Pro,Rv2043c,pncA	pncA_p.Leu120Pro	Assoc w R	Known_region_known_mut	yes
+p.Gln497Pro,Rv3795,embB	embB_p.Gln497Pro	New gene mutation	New_gene	yes
+p.Trp68Arg,Rv2043c,pncA	pncA_p.Trp68Arg	Assoc w R	Known_region_known_mut	yes
+p.His57Arg,Rv2043c,pncA	pncA_p.His57Arg	Assoc w R	Known_region_known_mut	yes
+p.Ter306Trpext*?,Rv3300c,	Rv3300c_p.Ter306Trpext*?	New gene mutation	New_gene	yes
+p.Val125Gly,Rv2043c,pncA	pncA_p.Val125Gly	Assoc w R	Known_region_known_mut	yes
+p.Arg304His,Rv0946c,pgi	pgi_p.Arg304His	New gene mutation	New_gene	yes
+2123168,complex,TT,AG,AG:20 TT:0	Rv1873,c.-6TT>AG	New gene mutation	New_gene	yes
+p.Gln10Arg,Rv2043c,pncA	pncA_p.Gln10Arg	Assoc w R	Known_region_known_mut	yes
+p.Leu527Val,Rv0668,rpoC	rpoC_p.Leu527Val	New gene mutation	New_gene	yes
+2289252,snp,T,G,G:20 T:0	Rv2044c,c.-30T>G	Known region new mutation	Known_region_new_mutation	yes
+p.Trp68Cys,Rv2043c,pncA	pncA_p.Trp68Cys	Assoc w R	Known_region_known_mut	yes
+p.Cys61Gly,Rv0635,hadA	hadA_p.Cys61Gly	New gene mutation	New_gene	yes
+p.Lys445Arg,Rv0668,rpoC	rpoC_p.Lys445Arg	New gene mutation	New_gene	yes
+p.Lys96Thr,Rv2043c,pncA	pncA_p.Lys96Thr	Assoc w R	Known_region_known_mut	yes
+p.Gly464Arg,Rv3728,	Rv3728_p.Gly464Arg	New gene mutation	New_gene	yes
+p.Val139Ala,Rv2043c,pncA	pncA_p.Val139Ala	Assoc w R	Known_region_known_mut	yes
+p.Met180Val,Rv3806c,ubiA	ubiA_p.Met180Val	New gene mutation	New_gene	yes
+p.Val517Leu,Rv0668,rpoC	rpoC_p.Val517Leu	New gene mutation	New_gene	yes
+p.Val473Leu,Rv1908c,katG	katG_p.Val473Leu	New gene mutation	New_gene	yes
+1961052,snp,A,C,C:20 A:0	Rv1735c,c.-239A>C	New gene mutation	New_gene	yes
+p.Asp485Tyr,Rv0668,rpoC	rpoC_p.Asp485Tyr	New gene mutation	New_gene	yes
+p.Asp485Asn,Rv0668,rpoC	rpoC_p.Asp485Asn	New gene mutation	New_gene	yes
+p.Leu172Pro,Rv2043c,pncA	pncA_p.Leu172Pro	Assoc w R	Known_region_known_mut	yes
+p.Trp484Gly,Rv0668,rpoC	rpoC_p.Trp484Gly	New gene mutation	New_gene	yes
+3430358,ins,C,CATGTACAA,CATGTACAA:16 C:1	mmr,c.-29C>CATGTACAA	New gene mutation	New_gene	yes
+p.Asp328Tyr,Rv3795,embB	embB_p.Asp328Tyr	New gene mutation	New_gene	yes
+p.Phe452Ser,Rv0668,rpoC	rpoC_p.Phe452Ser	New gene mutation	New_gene	yes
+p.Met343Thr,Rv3423c,alr	alr_p.Met343Thr	New gene mutation	New_gene	yes
+p.Ala237Val,Rv3806c,ubiA	ubiA_p.Ala237Val	New gene mutation	New_gene	yes
+p.His71Tyr,Rv2043c,pncA	pncA_p.His71Tyr	Assoc w R	Known_region_known_mut	yes
+3482717,snp,A,G,G:13 A:0,repeat_region,-,,,intergenic_region n.3482717A>G 	,c.-1318A>G	New gene mutation	New_gene	yes
+p.Gly97Asp,Rv2043c,pncA	pncA_p.Gly97Asp	Assoc w R	Known_region_known_mut	yes
+p.Pro102Ser,Rv1158c,	Rv1158c_p.Pro102Ser	New gene mutation	New_gene	yes
+4052975,ins,C,CG,CG:16 C:0,repeat_region,-,30/654,10/217,frameshift_variant c.29dupG p.Ala11fs	Rv3611,c.-25C>CG	New gene mutation	New_gene	yes
+888992,del,AACCTCAACACCCCCTCAAGTGAAGGAGG,A,A:11 AACCTCAACACCCCCTCAAGTGAAGGAGG:0	,c.-25AACCTCAACACCCCCTCAAGTGAAGGAGG>A	New gene mutation	New_gene	yes
+p.Pro54Leu,Rv2043c,pncA	pncA_p.Pro54Leu	Assoc w R	Known_region_known_mut	yes
+p.Gln141Pro,Rv2043c,pncA	pncA_p.Gln141Pro	Assoc w R	Known_region_known_mut	yes
+1109251,snp,C,A,A:20 C:0	galU,c.-21C>A	New gene mutation	New_gene	yes
+p.Val128Gly,Rv2043c,pncA	pncA_p.Val128Gly	Assoc w R	Known_region_known_mut	yes
+p.Lys96Arg,Rv2043c,pncA	pncA_p.Lys96Arg	Assoc w R	Known_region_known_mut	yes
+p.Ile43Ser,Rv2447c,folC	folC_p.Ile43Ser	New gene mutation	New_gene	yes
+p.Gly97Ser,Rv2043c,pncA	pncA_p.Gly97Ser	Assoc w R	Known_region_known_mut	yes
+p.Ser40fs,Rv2290,lppO	lppO_p.Ser40fs	New gene mutation	New_gene	yes
+3243355,snp,T,C,C:20 T:0	fadD26,c.-342T>C	New gene mutation	New_gene	yes
+p.GluPhe3GlyVal,Rv3488,	Rv3488_p.GluPhe3GlyVal	New gene mutation	New_gene	yes
+p.Leu159Arg,Rv2043c,pncA	pncA_p.Leu159Arg	Assoc w R	Known_region_known_mut	yes
+p.Gly21Ala,Rv0093c,	Rv0093c_p.Gly21Ala	New gene mutation	New_gene	yes
+p.Leu731Pro,Rv0667,rpoB	rpoB_p.Leu731Pro	New gene mutation	New_gene	yes
+p.Cys14Gly,Rv2043c,pncA	pncA_p.Cys14Gly	Uncertain significance	Known_region_known_mut	yes
+2775223,snp,C,T,T:20 C:0	Rv2472,c.-49C>T	New gene mutation	New_gene	yes
+2726141,snp,C,A,A:20 C:0	ahpC,c.-52C>A	New gene mutation	New_gene	yes
+p.Leu551fs,Rv1819c,bacA	bacA_p.Leu551fs	New gene mutation	New_gene	yes
+p.Cys253fs,Rv3854c,ethA	ethA_p.Cys253fs	New gene mutation	New_gene	yes
+p.Asn698His,Rv0668,rpoC	rpoC_p.Asn698His	New gene mutation	New_gene	yes
+p.Glu1033Ala,Rv0668,rpoC	rpoC_p.Glu1033Ala	New gene mutation	New_gene	yes
+3302491,snp,G,A,A:20 G:0	Rv2951c,c.-612G>A	New gene mutation	New_gene	yes
+p.LeuGly22SerSer,Rv0103c,ctpB	ctpB_p.LeuGly22SerSer	New gene mutation	New_gene	yes
+p.Arg262Gly,Rv2936,drrA	drrA_p.Arg262Gly	New gene mutation	New_gene	yes
+p.Thr47Pro,Rv0533c,fabH	fabH_p.Thr47Pro	New gene mutation	New_gene	yes
+p.Val581Gly,Rv1937,	Rv1937_p.Val581Gly	New gene mutation	New_gene	yes
+1006641,snp,C,A,A:20 C:0	accD3,c.-52C>A	New gene mutation	New_gene	yes
+p.Leu27Pro,Rv2043c,pncA	pncA_p.Leu27Pro	Assoc w R	Known_region_known_mut	yes
+p.His57Gln,Rv0024,	Rv0024_p.His57Gln	New gene mutation	New_gene	yes
+p.Ser104Arg,Rv2043c,pncA	pncA_p.Ser104Arg	Assoc w R	Known_region_known_mut	yes
+p.Gln141*,Rv2043c,pncA	pncA_p.Gln141*	Assoc w R	Known_region_known_mut	yes
+1371567,snp,G,T,T:20 G:0	mrp,c.-210G>T	New gene mutation	New_gene	yes
+p.Arg827Cys,Rv0667,rpoB	rpoB_p.Arg827Cys	New gene mutation	New_gene	yes
+p.Ser67Pro,Rv2043c,pncA	pncA_p.Ser67Pro	Assoc w R	Known_region_known_mut	yes
+p.Ser65fs,Rv2043c,pncA	pncA_p.Ser65fs	Assoc w R - Interim	Known_region_known_mut	yes
+p.Tyr12fs,Rv2829c,vapC22	vapC22_p.Tyr12fs	New gene mutation	New_gene	yes
+p.Val259Gly,Rv0447c,ufaA1	ufaA1_p.Val259Gly	New gene mutation	New_gene	yes
+659341,snp,T,C,C:13 T:0	cyp135B1,c.-109T>C	New gene mutation	New_gene	yes
+p.Arg770His,Rv0668,rpoC	rpoC_p.Arg770His	New gene mutation	New_gene	yes
+p.Cys138Arg,Rv2043c,pncA	pncA_p.Cys138Arg	Assoc w R	Known_region_known_mut	yes
+p.Met175Val,Rv2043c,pncA	pncA_p.Met175Val	Assoc w R	Known_region_known_mut	yes
+2973736,snp,T,C,C:20 T:0	Rv2650c,c.-59T>C	New gene mutation	New_gene	yes
+p.Glu173fs,Rv2043c,pncA	pncA_p.Glu173fs	Assoc w R	Known_region_known_mut	yes
+p.Gly385Asp,Rv1315,murA	murA_p.Gly385Asp	New gene mutation	New_gene	yes
+p.Leu507Val,Rv0668,rpoC	rpoC_p.Leu507Val	New gene mutation	New_gene	yes
+p.Leu85Pro,Rv2043c,pncA	pncA_p.Leu85Pro	Assoc w R	Known_region_known_mut	yes
+p.Arg154Gly,Rv2043c,pncA	pncA_p.Arg154Gly	Assoc w R	Known_region_known_mut	yes
+p.His445Cys,Rv0667,rpoB	rpoB_p.His445Cys	New gene mutation	New_gene	yes
+p.Thr76Ala,Rv1275,lprC	lprC_p.Thr76Ala	New gene mutation	New_gene	yes
+p.Val139Gly,Rv2043c,pncA	pncA_p.Val139Gly	Assoc w R	Known_region_known_mut	yes
+p.Val82Met,Rv3363c,	Rv3363c_p.Val82Met	New gene mutation	New_gene	yes
+p.Tyr345His,Rv3762c,	Rv3762c_p.Tyr345His	New gene mutation	New_gene	yes
+p.Asp34Ala,Rv3183,	Rv3183_p.Asp34Ala	New gene mutation	New_gene	yes
+p.Glu12Gly,Rv3648c,cspA	cspA_p.Glu12Gly	New gene mutation	New_gene	yes
+p.Ser450Phe,Rv0667,rpoB	rpoB_p.Ser450Phe	New gene mutation	New_gene	yes
+p.Ser252fs,Rv1694,tlyA	tlyA_p.Ser252fs	New gene mutation	New_gene	yes
+p.Ala135Ser,Rv0404,fadD30	fadD30_p.Ala135Ser	New gene mutation	New_gene	yes
+2289253,snp,A,G,G:20 A:0	Rv2044c,c.-29A>G	Known region new mutation	Known_region_new_mutation	yes
+p.Gly120dup,Rv0888,	Rv0888_p.Gly120dup	New gene mutation	New_gene	yes
+p.Ala312Val,Rv3028c,fixB	fixB_p.Ala312Val	New gene mutation	New_gene	yes
+p.Lys88Thr,Rv0682,rpsL	rpsL_p.Lys88Thr	New gene mutation	New_gene	yes
+p.Asp328Gly,Rv3795,embB	embB_p.Asp328Gly	New gene mutation	New_gene	yes
+p.Gln409Arg,Rv0667,rpoB	rpoB_p.Gln409Arg	New gene mutation	New_gene	yes
+p.Tyr34Asp,Rv2043c,pncA	pncA_p.Tyr34Asp	Assoc w R	Known_region_known_mut	yes
+2852811,snp,A,C,C:20 A:0	Rv2529,c.-64A>C	New gene mutation	New_gene	yes
+p.Ala852Thr,Rv0101,nrp	nrp_p.Ala852Thr	New gene mutation	New_gene	yes
+3558753,del,TCCGGCGCGGCCGGTGGCGGCATCTTGATGCCGCCA,T,T:14 TCCGGCGCGGCCGGTGGCGGCATCTTGATGCCGCCA:0	metU,c.-617TCCGGCGCGGCCGGTGGCGGCATCTTGATGCCGCCA>T	New gene mutation	New_gene	yes
+p.Ala166Gly,Rv3062,ligB	ligB_p.Ala166Gly	New gene mutation	New_gene	yes
+p.Glu843Gly,Rv1661,pks7	pks7_p.Glu843Gly	New gene mutation	New_gene	yes
+3969134,snp,A,C,C:20 A:0	PPE61,c.-209A>C	New gene mutation	New_gene	yes
+p.Gln34Glu,Rv2023A,	Rv2023A_p.Gln34Glu	New gene mutation	New_gene	yes
+154195,snp,A,G,G:20 A:0,repeat_region,+,,,intergenic_region n.154195A>G 	,c.-16A>G	New gene mutation	New_gene	yes
+p.His51Arg,Rv2043c,pncA	pncA_p.His51Arg	Assoc w R	Known_region_known_mut	yes
+p.Arg293Gln,Rv2579,dhaA	dhaA_p.Arg293Gln	New gene mutation	New_gene	yes
+p.Ile494Val,Rv2797c,	Rv2797c_p.Ile494Val	New gene mutation	New_gene	yes
+p.Ser174Thr,Rv3570c,hsaA	hsaA_p.Ser174Thr	New gene mutation	New_gene	yes
+p.Ile153Met,Rv1436,gap	gap_p.Ile153Met	New gene mutation	New_gene	yes
+p.Ala271Ser,Rv3909,	Rv3909_p.Ala271Ser	New gene mutation	New_gene	yes
+p.Gly21Ser,Rv1108c,xseA	xseA_p.Gly21Ser	New gene mutation	New_gene	yes
+p.Leu86fs,Rv0752c,fadE9	fadE9_p.Leu86fs	New gene mutation	New_gene	yes
+p.Tyr103Cys,Rv2043c,pncA	pncA_p.Tyr103Cys	Assoc w R	Known_region_known_mut	yes
+1775188,snp,C,T,T:20 C:0	bioA,c.-204C>T	New gene mutation	New_gene	yes
+4088558,snp,T,C,C:20 T:0	Rv3649,c.-223T>C	New gene mutation	New_gene	yes
+p.Arg70Cys,Rv3051c,nrdE	nrdE_p.Arg70Cys	New gene mutation	New_gene	yes
+p.Val180Gly,Rv2043c,pncA	pncA_p.Val180Gly	Assoc w R	Known_region_known_mut	yes
+p.Tyr388Asp,Rv3423c,alr	alr_p.Tyr388Asp	New gene mutation	New_gene	yes
+p.Ser566Phe,Rv1551,plsB1	plsB1_p.Ser566Phe	New gene mutation	New_gene	yes
+p.Asp747Ala,Rv0668,rpoC	rpoC_p.Asp747Ala	New gene mutation	New_gene	yes
+p.Thr142Met,Rv2043c,pncA	pncA_p.Thr142Met	Assoc w R	Known_region_known_mut	yes
+p.Ile488Val,Rv0667,rpoB	rpoB_p.Ile488Val	New gene mutation	New_gene	yes
+p.Thr380Ile,Rv1908c,katG	katG_p.Thr380Ile	New gene mutation	New_gene	yes
+p.His57Asp,Rv2043c,pncA	pncA_p.His57Asp	Assoc w R	Known_region_known_mut	yes
+3177281,snp,G,A,A:20 G:0	relF,c.-256G>A	New gene mutation	New_gene	yes
+4008672,snp,C,A,A:20 C:0	hsaB,c.-47C>A	New gene mutation	New_gene	yes
+p.Gly369Arg,Rv2066,cobI	cobI_p.Gly369Arg	New gene mutation	New_gene	yes
+p.Leu85Arg,Rv2043c,pncA	pncA_p.Leu85Arg	Assoc w R	Known_region_known_mut	yes
+p.Val130Gly,Rv2043c,pncA	pncA_p.Val130Gly	Assoc w R - Interim	Known_region_known_mut	yes
+p.Val350Gly,Rv2064,cobG	cobG_p.Val350Gly	New gene mutation	New_gene	yes
+p.Val9Gly,Rv2043c,pncA	pncA_p.Val9Gly	Assoc w R	Known_region_known_mut	yes
+p.His48Asn,Rv3919c,gid	gid_p.His48Asn	New gene mutation	New_gene	yes
+p.Asp49Ala,Rv2043c,pncA	pncA_p.Asp49Ala	Assoc w R	Known_region_known_mut	yes
+p.Trp391*,Rv3854c,ethA	ethA_p.Trp391*	New gene mutation	New_gene	yes
+p.Tyr319Ser,Rv3795,embB	embB_p.Tyr319Ser	New gene mutation	New_gene	yes
+p.Met1?,Rv1893,	Rv1893_p.Met1?	New gene mutation	New_gene	yes
+p.Trp256fs,Rv3854c,ethA	ethA_p.Trp256fs	New gene mutation	New_gene	yes
+2726121,snp,C,T,T:20 C:0	ahpC,c.-72C>T	New gene mutation	New_gene	yes
+3457624,del,CGG,C,C:19 CGG:0	Rv3090,c.-587CGG>C	New gene mutation	New_gene	yes
+p.Leu225fs,Rv3854c,ethA	ethA_p.Leu225fs	New gene mutation	New_gene	yes
+1637187,del,GCCCCGCCGGTCCCGCCAA,G,G:18 GCCCCGCCGGTCCCGCCAA:0,repeat_region,-,1042/2226,342/741,disruptive_inframe_deletion c.1025_1042delTTGGCGGGACCGGCGGGG p.Val342_Gly347del	PE_PGRS28,c.-1183GCCCCGCCGGTCCCGCCAA>G	New gene mutation	New_gene	yes
+p.Ser125Ala,Rv2552c,aroE	aroE_p.Ser125Ala	New gene mutation	New_gene	yes
+1472723,snp,G,A,A:20 G:0,rRNA,+,,,non_coding_transcript_variant  ,,rrs,Ribosomal RNA 16S	rrs,c.-877G>A	New gene mutation	New_gene	yes
+700221,ins,A,AG,AG:20 A:0	lpqO,c.-18A>AG	New gene mutation	New_gene	yes
+p.Asp81His,Rv3887c,eccD2	eccD2_p.Asp81His	New gene mutation	New_gene	yes
+p.Ile43Ala,Rv2447c,folC	folC_p.Ile43Ala	New gene mutation	New_gene	yes
+p.Val265Phe,Rv2317,uspB	uspB_p.Val265Phe	New gene mutation	New_gene	yes
+4121112,snp,C,A,A:13 C:0	whiB4,c.-86C>A	New gene mutation	New_gene	yes
+p.Arg827His,Rv0667,rpoB	rpoB_p.Arg827His	New gene mutation	New_gene	yes
+p.Gly207Ser,Rv0066c,icd2	icd2_p.Gly207Ser	New gene mutation	New_gene	yes
+p.Pro11Ser,Rv3442c,rpsI	rpsI_p.Pro11Ser	New gene mutation	New_gene	yes
+p.Ser452Ala,Rv3011c,gatA	gatA_p.Ser452Ala	New gene mutation	New_gene	yes
+p.Tyr52Asp,Rv1234,	Rv1234_p.Tyr52Asp	New gene mutation	New_gene	yes
+p.Glu147Ala,Rv3722c,	Rv3722c_p.Glu147Ala	New gene mutation	New_gene	yes
+p.Gly162Asp,Rv2043c,pncA	pncA_p.Gly162Asp	Assoc w R - Interim	Known_region_known_mut	yes
+p.Gly699Glu,Rv1908c,katG	katG_p.Gly699Glu	New gene mutation	New_gene	yes
+p.Arg179Cys,Rv1141c,echA11	echA11_p.Arg179Cys	New gene mutation	New_gene	yes
+p.Asp279Glu,Rv1512,epiA	epiA_p.Asp279Glu	New gene mutation	New_gene	yes
+p.IleHisAspGlu1271SerSerTrpIle,Rv2934,ppsD	ppsD_p.IleHisAspGlu1271SerSerTrpIle	New gene mutation	New_gene	yes
+4081489,snp,C,G,G:20 C:0	Rv3644c,c.-27C>G	New gene mutation	New_gene	yes
+p.Ala15Thr,Rv2332,mez	mez_p.Ala15Thr	New gene mutation	New_gene	yes
+p.Gly141Cys,Rv2363,amiA2	amiA2_p.Gly141Cys	New gene mutation	New_gene	yes
+p.Met97Thr,Rv1861,	Rv1861_p.Met97Thr	New gene mutation	New_gene	yes
+p.Phe176Leu,Rv3806c,ubiA	ubiA_p.Phe176Leu	New gene mutation	New_gene	yes
+p.Phe452Cys,Rv0668,rpoC	rpoC_p.Phe452Cys	New gene mutation	New_gene	yes
+p.Thr63fs,Rv2662,	Rv2662_p.Thr63fs	New gene mutation	New_gene	yes
+1673406,snp,C,T,T:20 C:0	fabG1,c.-34C>T	New gene mutation	New_gene	yes
+p.Ala249Thr,Rv3806c,ubiA	ubiA_p.Ala249Thr	New gene mutation	New_gene	yes
+p.His350Tyr,Rv0785,	Rv0785_p.His350Tyr	New gene mutation	New_gene	yes
+p.Ile282Thr,Rv0001,dnaA	dnaA_p.Ile282Thr	New gene mutation	New_gene	yes
+659341,snp,T,C,C:14 T:0	cyp135B1,c.-109T>C	New gene mutation	New_gene	yes
+p.Ala286Val,Rv0667,rpoB	rpoB_p.Ala286Val	New gene mutation	New_gene	yes
+p.His42Arg,Rv0342,iniA	iniA_p.His42Arg	New gene mutation	New_gene	yes
+3511368,snp,G,T,T:20 G:0	nuoA,c.-314G>T	New gene mutation	New_gene	yes
+4094559,snp,A,G,G:18 A:0	Rv3654c,c.-101A>G	New gene mutation	New_gene	yes
+p.Glu1033Lys,Rv0668,rpoC	rpoC_p.Glu1033Lys	New gene mutation	New_gene	yes
+p.Glu15Gly,Rv3796,	Rv3796_p.Glu15Gly	New gene mutation	New_gene	yes
+p.Ser283Pro,Rv1456c,	Rv1456c_p.Ser283Pro	New gene mutation	New_gene	yes
+103756,snp,G,T,T:12 G:0,repeat_region,-,908/954,303/317,missense_variant c.908C>A p.Pro303His	Rv0094c,c.-46G>T	New gene mutation	New_gene	yes
+1606294,del,AG,A,A:19 AG:0	PE16,c.-92AG>A	New gene mutation	New_gene	yes
+629735,del,GC,G,G:19 GC:0	Rv0538,c.-305GC>G	New gene mutation	New_gene	yes
+p.Ala134Val,Rv2043c,pncA	pncA_p.Ala134Val	Assoc w R	Known_region_known_mut	yes
+p.Arg563Trp,Rv3198c,uvrD2	uvrD2_p.Arg563Trp	New gene mutation	New_gene	yes
+p.Gly108Ser,Rv3339c,icd1	icd1_p.Gly108Ser	New gene mutation	New_gene	yes
+p.Pro62Leu,Rv2043c,pncA	pncA_p.Pro62Leu	Assoc w R	Known_region_known_mut	yes
+p.Ser287Asn,Rv3199c,nudC	nudC_p.Ser287Asn	New gene mutation	New_gene	yes
+3074495,snp,G,A,A:20 G:0	Rv2765,c.-141G>A	New gene mutation	New_gene	yes
+4254290,snp,T,G,G:13 T:0,mobile_element,+,1298/1335,433/444,missense_variant c.1298T>G p.Leu433Arg,Rv3798	Rv3798,c.-1297T>G	New gene mutation	New_gene	yes
+p.Asn22Lys,Rv1061,	Rv1061_p.Asn22Lys	New gene mutation	New_gene	yes
+p.Cys53Gly,Rv3862c,whiB6	whiB6_p.Cys53Gly	New gene mutation	New_gene	yes
+p.Gly132Ala,Rv2043c,pncA	pncA_p.Gly132Ala	Assoc w R	Known_region_known_mut	yes
+2136084,snp,C,T,T:20 C:0	Rv1887,c.-174C>T	New gene mutation	New_gene	yes
+3811672,snp,G,T,T:20 G:0	Rv3395A,c.-47G>T	New gene mutation	New_gene	yes
+p.Gln125fs,Rv3813c,	Rv3813c_p.Gln125fs	New gene mutation	New_gene	yes
+p.Gly90Arg,Rv1953,vapC14	vapC14_p.Gly90Arg	New gene mutation	New_gene	yes
+2794062,snp,G,A,A:20 G:0	argW,c.-114G>A	New gene mutation	New_gene	yes
+p.Leu120Met,Rv3528c,	Rv3528c_p.Leu120Met	New gene mutation	New_gene	yes
+2289248,snp,A,G,G:20 A:0	Rv2044c,c.-34A>G	Known region new mutation	Known_region_new_mutation	yes
+p.Asp461Asn,Rv0005,gyrB	gyrB_p.Asp461Asn	New gene mutation	New_gene	yes
+p.Gln347*,Rv3854c,ethA	ethA_p.Gln347*	New gene mutation	New_gene	yes
+p.His51Gln,Rv2043c,pncA	pncA_p.His51Gln	Assoc w R	Known_region_known_mut	yes

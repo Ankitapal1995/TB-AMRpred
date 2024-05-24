@@ -31,7 +31,7 @@ open TB-AMRpred file and add your path <br/>
 go to ```scripts``` folder <br/>
 ```cd scripts```  <br/>
 open ```paths_variable.py``` and add your path <br/>
-```path='your path to the TB-AMRpred'/scripts``` <br/>
+```path='your path to the TB-AMRpred'``` <br/>
 
 **script run using whole genome fasta sequence** <br />
 

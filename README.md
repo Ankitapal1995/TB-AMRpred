@@ -35,13 +35,13 @@ open ```paths_variable.py``` and add your path <br/>
 
 **script run using whole genome fasta sequence** <br />
 
-```TB-AMRpred input.fasta``` <br />
+```sh TB-AMRpred input.fasta``` <br />
 or <br />
 
-```TB-AMRpred input.fna ``` <br />
+```sh TB-AMRpred input.fna ``` <br />
 
 **script run using whole genome fastq sequence**  <br />
-```TB-AMRpred input_1.fastq.gz input_2.fastq.gz``` <br />
+```sh TB-AMRpred input_1.fastq.gz input_2.fastq.gz``` <br />
 
  
 

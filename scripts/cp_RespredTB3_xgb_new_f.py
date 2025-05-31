@@ -84,7 +84,7 @@ def ml_predict(input_f,input_f2=None):
         subprocess.run(['snippy','--ref',script_path+'AL123456_h37rv.gb','--ctgs',input_f,'--prefix',prefix,'--outdir',".","--force","--cpus","20"])
     else:
         input_f=os.path.join(head, input_f)
-        input_f2=input_f=os.path.join(head, input_f2)
+        input_f2=os.path.join(head, input_f2)
         subprocess.run(['snippy','--ref',script_path+'AL123456_h37rv.gb','--R1',input_f,'--R2',input_f2,'--prefix',prefix,'--outdir',".","--force","--cpus","20"])
     ls=[prefix+".bam",prefix+".bam.bai",prefix+".raw.vcf",prefix+".filt.vcf",prefix+".vcf",prefix+".tab",prefix+".subs.vcf",prefix+".vcf.gz",prefix+".vcf.gz.csi",prefix+".consensus.fa",prefix+".consensus.subs.fa",prefix+".log",prefix+".aligned.fa",prefix+".txt",prefix+".html",prefix+".gff",prefix+".bed"]
  
